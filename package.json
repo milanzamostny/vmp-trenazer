@@ -9,9 +9,11 @@
     "build": "tsc && vite build",
     "preview": "vite preview",
     "test": "vitest run",
-    "check-data": "tsx scripts/merge-explain.ts"
+    "check-data": "tsx scripts/merge-explain.ts",
+    "test:e2e": "playwright test"
   },
   "devDependencies": {
+    "@playwright/test": "^1.65.0",
     "@types/node": "^26.6.6",
     "cheerio": "^1.2.0",
     "tsx": "^4.23.15",

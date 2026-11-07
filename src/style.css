@@ -289,8 +289,8 @@ details summary { cursor: pointer; min-height: 32px; }
   .brand span { font-size: 0.95rem; }
 }
 
-/* ---------- iPad a PC (≥ 820 px) ---------- */
-@media (min-width: 820px) {
+/* ---------- iPad (i mini, 9. gen. na výšku) a PC (≥ 740 px) ---------- */
+@media (min-width: 740px) {
   .main { padding: 20px 24px 40px; }
   .bottom-tabs { display: none; }
   .tabs { display: flex; gap: 4px; margin-left: 12px; }
@@ -305,7 +305,7 @@ details summary { cursor: pointer; min-height: 32px; }
   .q-img { max-height: 320px; }
   .session-head.sticky { top: 61px; }
 }
-@media (min-width: 820px) and (max-width: 1060px) {
+@media (min-width: 740px) and (max-width: 1060px) {
   .tabs a { padding: 8px 8px; font-size: 0.92rem; }
 }
 

@@ -37,3 +37,12 @@ Postup uživatelů (`localStorage`) je vázaný na `id` otázky, takže změna v
 ## Aktualizace otázek ze SPS
 
 Stáhni novou stránku ze SPS do `zdroj/` a spusť `npm run parse`. Pak `npm run check-data` ukáže otázky bez vysvětlení.
+
+## Testy
+
+```bash
+npm test            # Vitest: parser, data, skládání testu, vyhodnocení, Leitner, hledání
+npm run test:e2e    # Playwright: PC (Chromium, Edge), iPad na výšku/šířku/Split View/mini a iPhone (WebKit)
+```
+
+Před prvním spuštěním e2e testů: `npx playwright install chromium webkit`.
