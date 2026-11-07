@@ -1,0 +1,302 @@
+{
+  "M-112": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Vplouvání do plavebních komor se ve dne i v noci řídí optickými signály (světly), které jsou na jedné nebo obou stranách komory. Rádio je jen doplňkový prostředek a světelnou signalizaci nenahrazuje."
+  },
+  "M-113": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Dvě červená světla nad sebou znamenají, že komora není v provozu (například kvůli poruše nebo údržbě). Jedno červené světlo nebo dvě vedle sebe znamenají jen „zavřeno“. Červené a zelené vedle sebe ohlašují přípravu na otevření.",
+    "mnemo": "Nad sebou = mimo provoz. Vedle sebe = zavřeno."
+  },
+  "M-114": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Jedno červené světlo nebo dvě červená vedle sebe znamenají, že komora je zavřená a vplout nelze. Pokud jsou dvě červená světla nad sebou, komora není v provozu. Vplutí „na vlastní nebezpečí“ neexistuje."
+  },
+  "M-115": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Červené a zelené světlo vedle sebe znamená, že vplout zatím nelze, ale komora se připravuje k otevření. Jde o obdobu oranžové na semaforu, která připravuje na zelenou. Vplout lze až při samotném zeleném světle."
+  },
+  "M-116": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Jedno zelené světlo nebo dvě zelená vedle sebe znamenají, že vplutí je možné. Zelená nikdy neoznačuje překážku ani přípravu otevření."
+  },
+  "M-117": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Plavidlo s radiostanicí poslouchá v obvodu komory na kanálu, který je vyhrazený pro danou komoru, aby mohlo přijímat pokyny obsluhy. Stanici nevypíná a nepřelaďuje na tísňový kanál."
+  },
+  "M-118": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Červené světlo při vyplouvání znamená, že vyplout se nesmí. Výjimky pro malá plavidla ani pootevřená vrata pravidla neznají."
+  },
+  "M-119": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Pokud se malá plavidla proplavují spolu s velkými, vplouvají do komory až po nich, aby se velká plavidla mohla bezpečně umístit a vyvázat. Pořadí podle příjezdu platí jen tehdy, když se malá plavidla proplavují samostatně.",
+    "mnemo": "Malé jede do komory poslední."
+  },
+  "M-120": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Při připlouvání do obvodu plavební komory a v místech pro čekání je zakázáno předjíždět, protože se tím narušuje pořadí proplavení. Potkávat se zakázané není, plavidla z komory vyplouvají proti čekajícím."
+  },
+  "M-121": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Pokud komora nemá signální světla nebo nefungují, vplouvá a vyplouvá se jen na pokyn obsluhy. Opatrnost ani nepřítomnost zjevných překážek pokyn obsluhy nenahrazuje."
+  },
+  "M-122": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "V plavební komoře musí být kotvy zdviženy úplně, protože spuštěná kotva by mohla poškodit dno nebo vrata komory. Úplně zdviženy musí být i v místech pro čekání, pokud se v nich nekotví. Spuštění kotvy „k hladině“ nestačí."
+  },
+  "M-123": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Při vplouvání do komory plavidlo sníží rychlost tak, aby nenarazilo do vrat, ochranných zařízení ani do jiných plavidel. Limit 3 km/h pravidla nestanoví a spěchat se nemá."
+  },
+  "M-124": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Pokud jsou na zdech komory vyznačené meze stání, plavidla musí stát v jejich mezích. Za nimi hrozí střet s vraty nebo zachycení na prahu. Výjimka podle práce s lany ani pro plavidla proplavovaná z horní vody neexistuje."
+  },
+  "M-125": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "V komoře jsou odrazníky nezbytné, aby se bok plavidla neodíral o zeď. Snímatelné odrazníky musí být plovoucí, aby po ztrátě neklesly ke dnu a nezablokovaly vrata."
+  },
+  "M-126": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Malá plavidla udržují v komoře bezpečný odstup od ostatních plavidel. Pevná vzdálenost 5 m stanovená není. Okovaná bidla by poškodila zdi komory."
+  },
+  "M-127": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Přednost při proplavení mají plavidla, která signalizují modrým blikavým světlem (plavební úřad, policie, IZS). Trvalé modré světlo označuje nebezpečný náklad, ne přednost."
+  },
+  "M-128": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Přednost při proplavení má také plavidlo, které nese na přídi červený plamenec, tedy denní znak přednosti. Modrý kužel značí nebezpečný náklad, vlajka „A“ potápěče."
+  },
+  "M-129": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Za snížené viditelnosti plavidlo přizpůsobí rychlost stavu viditelnosti, místním podmínkám a provozu. Prakticky to znamená zpomalit, ne zrychlit."
+  },
+  "M-130": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Plavidlo, které zastaví kvůli snížené viditelnosti, ponechá podle možnosti volnou plavební dráhu. Zvukové signály stojícího plavidla se řídí zvláštními pravidly. Zákaz cestujících neexistuje."
+  },
+  "M-131": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Malé plavidlo, které pluje za snížené viditelnosti, musí mít radiostanici naladěnou na kanálu pro spojení mezi plavidly, aby mohlo komunikovat s ostatními. Správná odpověď předpokládá, že je plavidlo stanicí vybavené."
+  },
+  "M-132": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Malé plavidlo bez radaru, které se dostane do mlhy a nevidí jiná plavidla, smí se zvláštní opatrností doplout na nejbližší vhodné místo k bezpečnému stání. Pokračovat bez omezení nesmí. Stát „u pravého břehu“ pravidla nenařizují."
+  },
+  "M-133": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Malé plavidlo, které pluje za snížené viditelnosti bez radaru, dává jeden dlouhý zvuk v intervalech nejvýš 1 minuta. Interval „delší než 1 minuta“ i krátký zvuk jsou chybné."
+  },
+  "M-134": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Vodní lyžování a podobné činnosti ve vleku jsou zakázané v noci i za snížené viditelnosti, protože vlekoucí plavidlo i lyžaře by nebylo vidět. Dobré osvětlení na tom nic nemění."
+  },
+  "M-135": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Na plavidle, které vleče lyžaře, musí být kromě vůdce další osoba, která umí obsluhovat vlečné zařízení a sleduje lyžaře, protože vůdce se musí dívat dopředu. Průkaz vůdce ani „průkaz vodního lyžaře“ tato osoba mít nemusí."
+  },
+  "M-136": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Plavidlo s vodním lyžařem se smí pohybovat jen ve vymezené a vyznačené ploše pro vodní lyžování. Obecný úsek pro vodní sporty ani plavební dráha nestačí."
+  },
+  "M-137": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Vlečné lano se nesmí táhnout za plavidlem, když se ho lyžař nedrží, protože volné lano by se mohlo namotat do šroubu jiného plavidla nebo zranit plavce. Maximální délka 10 m ani povinnost plovoucího lana stanovené nejsou."
+  },
+  "M-138": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Tuhá maketa vlajky „A“ (bílo-modrá s výřezem) označuje plavidlo, které zajišťuje činnost pod vodou (potápěči). Ostatní plavidla musí udržovat vzdálenost alespoň 50 m.",
+    "mnemo": "Vlajka A → potápěči → drž se 50 m daleko."
+  },
+  "M-139": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Stojící plavidla stojí tak blízko břehu, jak jim dovolí ponor a místní podmínky, vždy však tak, aby nepřekážela proplouvání. Limit 3 m ani podmínka podle délky lávky neexistují."
+  },
+  "M-140": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Stojící plavidla se kotví nebo vyvazují tak, aby nemohla změnit polohu a ohrozit jiná plavidla nebo jim překážet. Pravidla nepředepisují ani směr přídě proti proudu, ani postup podle znaku."
+  },
+  "M-141": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Pod mosty a pod vedením vysokého napětí nesmí stát žádná plavidla, ani malá. Zákaz platí bez ohledu na šířku dráhy."
+  },
+  "M-142": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Ve vjezdech do přítoků a přístavů a ve výjezdech z nich nesmí stát žádná plavidla, protože by blokovala manévrující plavidla. Výjimka pro malá plavidla, plavidla bez pohonu ani plachetnice neexistuje."
+  },
+  "M-143": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "V úsecích vyznačených obratišť nesmí stát žádná plavidla, protože tam velká plavidla otáčejí. Výjimka pro malá plavidla neexistuje.",
+    "mnemo": "Mosty, vedení VN, vjezdy a obratiště: nestojí nikdo."
+  },
+  "M-144": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Znak zákazu kotvení platí jen pro tu stranu vodní cesty, na které je umístěn. Na protější straně kotvit lze, pokud tam neplatí jiný zákaz."
+  },
+  "M-145": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Zákaz vyvazování ke břehu platí stejně jako zákaz kotvení jen pro stranu vodní cesty, na které je znak umístěn. Ponor plavidla nerozhoduje.",
+    "mnemo": "Znaky stání (zákaz i povolení) platí pro svou stranu."
+  },
+  "M-146": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "K vyvazování ani k uvolňování nasedlých plavidel se nepoužívají předměty, které neumožňují pevné zajištění: stromy, zábradlí, sloupy, pilíře, patníky, žebříky, svodidla. Zákaz platí bez výjimky, obložení ani pevné zařízení jinde na břehu na tom nic nemění."
+  },
+  "M-147": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Stromy, zábradlí, sloupy, pilíře a podobné předměty se nepoužívají ani k vyvazování, ani k uvolňování nasedlých plavidel. Obě chybné možnosti nabízejí výjimku, která neexistuje."
+  },
+  "M-148": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Znak „povolené stání“ povoluje stání jen na té straně vodní cesty, kde je umístěn, nikoli na protějším břehu ani v celé šířce dráhy."
+  },
+  "M-149": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Dva modré kužele nebo dvě modrá světla označují plavidlo se zdraví škodlivými látkami. Malé plavidlo smí stát nejméně 50 m od něj.",
+    "mnemo": "Modré kužele při stání: 1 = 10 m, 2 = 50 m, 3 = 100 m."
+  },
+  "M-150": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Jeden modrý kužel nebo jedno modré světlo označují plavidlo s hořlavými látkami. Malé plavidlo smí stát nejméně 10 m od něj. Stát přímo u boku nesmí.",
+    "mnemo": "1 = 10 m, 2 = 50 m, 3 = 100 m."
+  },
+  "M-151": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Tři modré kužele nebo tři modrá světla označují plavidlo s výbušnými látkami, tedy nejvyšší stupeň nebezpečí. Malé plavidlo smí stát nejméně 100 m od něj.",
+    "mnemo": "1 = 10 m, 2 = 50 m, 3 = 100 m."
+  },
+  "M-152": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "K vlečení, tlačení nebo bočnímu vedení malých plavidel se použije plavidlo s takovým výkonem strojů, aby sestava byla dobře ovladatelná. Pevný výkon 110 kW ani tříčlenná posádka předepsané nejsou."
+  },
+  "M-153": {
+    "ref": "zákon 114/1995 Sb.",
+    "confidence": "high",
+    "explain": "Za to, že obsazení cestujícími a rozmístění nákladu neohrožuje bezpečnou plavbu, odpovídá vůdce malého plavidla. Odpovědnost nenese vlastník, provozovatel ani každý člen posádky."
+  },
+  "M-154": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Malé plavidlo bez motoru a plachetnice obeplouvají koupající se osobu ve vzdálenosti alespoň 3 m. Motorové malé plavidlo musí udržet alespoň 10 m.",
+    "mnemo": "Plavec: motor 10 m, bez motoru 3 m."
+  },
+  "M-155": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Plavce se obeplouvá pokud možno tak, aby zůstal mezi plavidlem a nejbližším břehem. Plavidlo mu tak neodřízne cestu ke břehu a pluje po straně volné vody."
+  },
+  "M-156": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Motorové malé plavidlo obeplouvá koupající se osobu ve vzdálenosti alespoň 10 m. 3 m platí pro plavidla bez motoru a plachetnice, 50 m je vzdálenost od vlajky „A“.",
+    "mnemo": "50 – 10 – 3 m: vlajka A / motor / bez motoru."
+  },
+  "M-157": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Malé plavidlo, které kříží dráhu velkého plavidla, udržuje vzdálenost nejméně dvojnásobku délky velkého plavidla. Velká plavidla mají dlouhou brzdnou dráhu a omezený výhled před přídí. Pevné hodnoty v metrech pravidla neuvádějí."
+  },
+  "M-158": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Tři zelená světla na stěžni do trojúhelníku označují plavidlo, které provádí mimořádně nebezpečnou činnost (podle mezinárodních pravidel odstraňování min). Malé plavidlo od jeho zádě udržuje vzdálenost alespoň 1000 m. 100 m ani 10 m nestačí."
+  },
+  "M-159": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Černý balón, pod ním dvojitý kužel a pod ním další balón je denní signál plavidla s omezenou schopností manévrovat (například při práci na vodní cestě). Malé plavidlo od něj udržuje alespoň 50 m. 1000 m platí pro tři zelená světla do trojúhelníku."
+  },
+  "M-160": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Slalom mezi překážkami, skoky, akrobacii a rychlostní plavbu lze provozovat jen v části vodní cesty vymezené plavebním značením. Neplatí, že by stačila vodní cesta s omezeným provozem nebo jakákoli nesledovaná vodní cesta."
+  },
+  "M-161": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Vytažený žlutý balón u plochy pro vodní lyžování znamená, že plocha se právě používá a ostatní plavidla do ní nesmí vplout. Bez balónu je plocha volná."
+  },
+  "M-162": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Před dosažením nebezpečného vodního stavu (povodeň, ledy) musí vůdce umístit plavidlo do ochranného přístavu nebo na chráněné místo. Běžné vyvázání nestačí. Lhůta 6 hodin je smyšlená."
+  },
+  "M-163": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Před zimou se plavidla na přehradních zdržích vytahují na břeh nad kótu nejvyššího vzdutí nebo na místa, kde je lze převazovat, protože hrozí led a kolísání hladiny. Sedmidenní déšť ani nepřítomnost dohledu nejsou rozhodující."
+  },
+  "M-164": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Pokud malé motorové plavidlo nemá rychloměr a v úseku platí rychlostní limit, smí plout jen ve výtlačném režimu (bez skluzu), kde rychlost limit zjevně nepřekročí. Plout tedy smí, jen pomalu."
+  },
+  "M-165": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Na sledované vodní cestě je zakázáno koupat se a potápět do 100 m od mostu, přístaviště nebo překladiště. Hodnoty 150 a 200 m jsou chybné."
+  },
+  "M-166": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Koupání a potápění je zakázané v plavební komoře, nad ní a pod ní až po konec vyvazovacích zařízení pro čekající plavidla a v plavebních kanálech. Neplatí, že by se koupat smělo jen tam, kde je to výslovně povoleno znakem."
+  },
+  "M-167": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Plavidlo kratší než 20 m s povolením pro více než 12 cestujících, které pluje s cestujícími, se nesmí používat v tlačné, vlečné ani bočně svázané sestavě. Žluté světlo a kužel ani přednost v komoře k tomu nepatří."
+  },
+  "M-168": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Pravidla pro plavební komory platí v celém obvodu komory až po místa, kde končí vyvazovací zařízení pro čekání na proplavení. Hlava dělicí hráze ani hranice kanalizovaného úseku nerozhodují."
+  },
+  "M-169": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Plavební komoru nelze použít ke stání přes noc ani na delší dobu, protože slouží jen k proplavení. Souhlas obsluhy ani konec provozu na tom nic nemění."
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "M-051": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Za snížené viditelnosti se už ve dne musí rozsvítit signalizace předepsaná pro noc a k ní se přidává denní signalizace. Světlomet ani radar nejsou obecnou povinností všech plavidel. Radar je jen jedna z možností, jak za snížené viditelnosti plout."
+  },
+  "M-052": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Vrcholové světlo je silné bílé světlo, které svítí nepřerušovaně dopředu v obzorovém výseku 225°. 135° má záďové světlo, 112,5° každé z bočních světel.",
+    "mnemo": "225 / 112,5 / 135: vrcholové / boční / záďové. 225 + 135 = 360."
+  },
+  "M-053": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Boční světla jsou jasná: zelené na pravém boku a červené na levém boku, každé svítí v obzorovém výseku 112,5°. Chyták prohazuje strany a mění „jasné“ na „silné“ nebo „obyčejné“.",
+    "mnemo": "Červené víno zůstalo vlevo (levý = červená); 2 × 112,5° = 225°, tedy stejně jako vrcholové."
+  },
+  "M-054": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Záďové světlo je jasné nebo obyčejné bílé světlo svítící dozadu v obzorovém výseku 135°. Doplňuje vrcholové světlo (225°) na celý kruh. 112,5° mají boční světla. Žluté záďové světlo nese místo bílého remorkér v čele vlečné sestavy, a to také s výsekem 135°, ne 225°.",
+    "mnemo": "225 + 135 = 360."
+  },
+  "M-055": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Světlo viditelné ze všech stran svítí nepřerušovaně v obzorovém výseku 360°. 380° nemůže existovat, protože plný kruh má 360°. 225° je výsek vrcholového světla."
+  },
+  "M-056": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Pravidla stanoví, že tabule a vlajky na malých plavidlech mají pro dobrou viditelnost rozměry nejméně 0,60 × 0,60 m. Pro velká plavidla jsou minimální rozměry větší. Hodnoty 0,5 a 0,4 m jsou chybné."
+  },
+  "M-057": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Balóny a kužele lze nahradit jinými předměty, pokud z dálky vypadají stejně (mají stejný tvar). Rozhoduje tvar, ne barva, protože z dálky se rozpoznává hlavně silueta. Proto je špatně i úplný zákaz náhrady."
+  },
+  "M-058": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Samostatně plující motorové malé plavidlo delší než 7 m nese v noci vrcholové světlo, boční světla a záďové světlo. Jedno bílé světlo viditelné ze všech stran smí místo toho nést jen plavidlo do 7 m (viz následující otázka).",
+    "mnemo": "Motor > 7 m = vrchol + boky + záď."
+  },
+  "M-059": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Motorové malé plavidlo do 7 m smí místo plné sestavy světel nést jen jedno obyčejné bílé světlo viditelné ze všech stran. Musí svítit trvale, ne až když se přibližuje jiné plavidlo. Samotná boční a záďová světla bez vrcholového nejsou přípustná varianta."
+  },
+  "M-060": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Malé plavidlo, které vleče nebo vede bočně svázané jiné malé plavidlo, nese stejná světla jako běžné malé motorové plavidlo: vrcholové, boční a záďové. Dvě vrcholová světla nebo vrcholová světla podle počtu vlečených jsou signalizace velkých vlečných sestav."
+  },
+  "M-061": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Malé plavidlo, které je vlečené nebo vedené v bočně svázané sestavě, nese jedno obyčejné bílé světlo viditelné ze všech stran. Boční ani vrcholové světlo nenese, protože ho vede plavidlo s vlastním pohonem."
+  },
+  "M-062": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Plachetnice delší než 7 m nese boční a záďové světlo, ale nikdy vrcholové. Vrcholové světlo označuje plavidlo s vlastním pohonem, proto by plachetnice s ním vypadala jako motorové plavidlo.",
+    "mnemo": "Plachetnice nemá vrchol: ten patří motoru."
+  },
+  "M-063": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Plachetnice do 7 m nese jedno obyčejné bílé světlo viditelné ze všech stran. Když se přibližuje jiné plavidlo, musí navíc ukázat druhé obyčejné bílé světlo. Tím se liší od ostatních malých plavidel bez pohonu a chyták spočívá právě ve vynechání druhého světla."
+  },
+  "M-064": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Malé plavidlo bez motoru a bez plachet (kánoe, pramice) nese jedno obyčejné bílé světlo viditelné ze všech stran. Druhé světlo při přiblížení jiného plavidla je zvláštnost malé plachetnice do 7 m. Dvě bílá světla nad sebou mají jiný význam."
+  },
+  "M-065": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Malé plavidlo bez manévrovací schopnosti signalizuje v noci kýváním červeným nebo bílým světlem v půlkruhu, případně dvěma červenými světly 1 m nad sebou. Modrá světla mají úplně jiný význam (nebezpečný náklad). Červená a zelená pohybující se proti sobě nejsou signálem."
+  },
+  "M-066": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Malé plavidlo, které pluje pod plachtami a současně motorem, nese ve dne černý kužel vrcholem dolů. Podle pravidel se taková plachetnice považuje za motorové plavidlo a kužel to ostatním ukazuje. Žlutý balón ani bílá vlajka s červeným pruhem to neoznačují.",
+    "mnemo": "Kužel dolů = plachty + motor."
+  },
+  "M-067": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Ve dne malé plavidlo bez manévrovací schopnosti kývá červenou vlajkou v půlkruhu nebo vyvěsí dva černé balóny 1 m nad sebou. Odpovídá to noční signalizaci (kývání červeným světlem nebo dvě červená světla nad sebou). Bílá ani černá vlajka a bílé či žluté balóny k tomu neslouží."
+  },
+  "M-068": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Plavidlo s předností při proplouvání místy s určeným pořadím (komory, úžiny) nese ve dne červený plamenec v přední části. Červená vlajka s bílým pruhem nebo vlajka na zádi mají jiný význam."
+  },
+  "M-069": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Plavidla plavebního úřadu, policie, celní správy a integrovaného záchranného systému mohou při plnění úkolů používat obyčejné blikavé modré světlo viditelné ze všech stran, podobně jako majáky na silnici. Bílé ani červené blikavé světlo k tomu neslouží."
+  },
+  "M-070": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Plavidlo v nouzi může ve dne signalizovat kroužením vlajkou nebo podobným předmětem. Pohyb rukou ve vodorovném směru ani černý balón ve 4 m nejsou nouzovými signály. Mezinárodní signál nouze rukama je pomalé zvedání a spouštění upažených paží."
+  },
+  "M-071": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Nouzovým signálem je také vlajka, nad kterou nebo pod kterou je balón nebo předmět podobného tvaru. Dvojitý žlutý kužel ani modrý kužel nouzi neznamenají. Modré kužele označují nebezpečný náklad."
+  },
+  "M-072": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "V noci se nouze signalizuje kroužením světlem (je to obdoba kroužení vlajkou ve dne). SOS v Morseově abecedě je podle pravidel signál světelný, ne zvukový. Vlajka „A“ znamená něco jiného."
+  },
+  "M-073": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Nouzi lze signalizovat i světlicemi nebo pyrotechnikou, která vytváří „červený déšť“ odpalovaný v krátkých intervalech. Nouzové signály jsou vždy červené. Zelená světla do trojúhelníku ani černý kouř z gumy signálem nejsou."
+  },
+  "M-074": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Signál SOS (••• – – – •••) v Morseově abecedě se jako nouzový signál podle pravidel dává světlem. Hořící olej na hladině je nebezpečný a zakázaný. Světlomety do „X“ jsou smyšlenka."
+  },
+  "M-075": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "K nouzové signalizaci slouží světlice s padákem nebo pochodně s červeným světlem. Zelené ani modrozelené pochodně nouzi neznamenají a „černý déšť“ neexistuje.",
+    "mnemo": "Nouze je vždy červená."
+  },
+  "M-076": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Zvukový nouzový signál jsou opakované řady úderů na zvon nebo opakované dlouhé zvuky. Jedna řada úderů na zvon za minutu je signál stojícího plavidla za snížené viditelnosti. Řada velmi krátkých zvuků varuje před nebezpečím kolize."
+  },
+  "M-077": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Opakované řady úderů na zvon nebo řada dlouhých zvuků znamenají plavidlo v nouzi, které žádá o pomoc. Plavidla za snížené viditelnosti dávají jiné, přesně počítané signály. Převozní loď nouzový signál nepoužívá."
+  },
+  "M-078": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Řada úderů na zvon trvá asi 4 sekundy a lze ji nahradit řadou úderů kovu o kov stejné délky. Hodnoty 8 a 12 sekund ani náhrada světlem nejsou správně.",
+    "mnemo": "Zvon jako dlouhý zvuk: 4 s."
+  },
+  "M-079": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Směr proti proudu je směr k prameni, směr po proudu je směr od pramene k ústí. Příliv a odliv se na českých vodních cestách neuplatňují."
+  },
+  "M-080": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Rychlá plavidla a malá plavidla ve skluzu (mimo výtlačný režim) nemají žádnou přednost. Naopak musí vždy ponechat ostatním tolik místa, aby nemusely měnit směr ani rychlost. Kdo je rychlejší, ten se vyhýbá."
+  },
+  "M-081": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Pokud plavidla plují směry, které kolizi vylučují, nesmí měnit směr ani rychlost tak, aby nebezpečí kolize vzniklo. Pravidlo míjení levými boky se týká potkávání, ne situace, kdy plavidla bezpečně míjejí."
+  },
+  "M-082": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "U křížení drah malých plavidel stejného druhu (kromě plachetnic) platí pravidlo pravé ruky: plavidlo, které má druhé po svém pravém boku, mu dá přednost a neprotne mu dráhu před přídí. Druhé dvě možnosti pravidlo obracejí.",
+    "mnemo": "Jako na silnici: zprava má přednost."
+  },
+  "M-084": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Malá plavidla bez motoru a bez plachet (pádlo, vesla) uvolňují dráhu malým plachetnicím. Motorová malá plavidla uvolňují dráhu oběma těmto skupinám, proto „plavidlům s vlastním pohonem“ je špatně.",
+    "mnemo": "Motor → pádlo → plachta (každý uhýbá těm napravo od sebe)."
+  },
+  "M-085": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Před vplutím do nepřehledné úžiny dává plavidlo jeden dlouhý zvuk. V dlouhé úžině ho při proplouvání opakuje. Řada úderů na zvon a řada velmi krátkých zvuků mají jiný význam (snížená viditelnost, nebezpečí kolize)."
+  },
+  "M-086": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Signál před vplutím do nepřehledné úžiny je jeden dlouhý zvuk, v dlouhé úžině se opakuje. Dva nebo tři dlouhé zvuky ani odpověď „tři krátké zvuky“ k tomuto pravidlu nepatří."
+  },
+  "M-087": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Plavidlo plující proti proudu se lépe ovládá a snáz zastaví, proto počká pod úžinou, dokud plavidlo plující po proudu úžinou nepropluje. Plavidlo po proudu má v úžině přednost."
+  },
+  "M-088": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Pokud se plavidla musí v úžině potkat, vůdci zvolí místo a podmínky s nejmenším nebezpečím. Pravidla nepředepisují couvání plavidla plujícího proti proudu a v úžině nemusí být místo ani na potkávání levými boky."
+  },
+  "M-089": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Hrozbu kolize signalizuje řada velmi krátkých zvuků (každý asi ¼ s). Řada krátkých ani řada dlouhých zvuků takový signál nejsou.",
+    "mnemo": "Velmi krátké = velmi naléhavé."
+  },
+  "M-090": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Předjíždět se smí, až když se předjíždějící přesvědčí, že předjíždění není spojeno s nebezpečím. To, že je rychlejší, je samozřejmá podmínka, ale bezpečnost nezaručuje."
+  },
+  "M-091": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Předjížděné malé plavidlo předjíždění usnadní a podle potřeby přiměřeně sníží rychlost, aby předjetí proběhlo bezpečně, rychle a bez omezení ostatních. Zastavovat u břehu ani přeplouvat k pravému břehu pravidla nepožadují."
+  },
+  "M-092": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Předjíždí se zpravidla po levém boku předjížděného plavidla. Pokud to nepředstavuje nebezpečí kolize, lze předjet i zprava. Předjíždění zprava tedy zakázané není a neomezuje se ani na pravotočivé oblouky."
+  },
+  "M-093": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Když malá plavidla předjíždí plachetnice, předjížděná plavidla jí umožní předjet po své návětrné straně, kde má plachetnice volný vítr a nepřijde o něj v závětří předjížděného plavidla. Na tom, jestli je to levý nebo pravý bok, tady nezáleží."
+  },
+  "M-094": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Signál „pět krátkých zvuků“ od plavidla, které není malým, znamená, že předjíždění kvůli nebezpečí kolize nelze uskutečnit. Obrat doprava je „1 dlouhý + 1 krátký“, zpětný chod stroje jsou „3 krátké zvuky“."
+  },
+  "M-095": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "V úseku s přikázaným směrem plavby sníží rychlost, případně zastaví, plavidla plující proti proudu, aby mohla bezpečně proplout plavidla plující po proudu. Je to stejná logika jako v úžinách: kdo pluje proti proudu, ten lépe manévruje a čeká."
+  },
+  "M-096": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Obrat lze provést, jen když ostatní plavidla nebudou nucena náhle změnit směr nebo rychlost. Obracející se plavidlo nemá přednost a ostatní nemají povinnost mu uhnout."
+  },
+  "M-097": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Plavidlo, které není malým, ohlašuje obrat doprava jedním dlouhým a jedním krátkým zvukem. Obrat doleva ohlašuje jedním dlouhým a dvěma krátkými zvuky.",
+    "mnemo": "Dlouhý + 1 krátký = obrat doprava, dlouhý + 2 krátké = obrat doleva (stejně jako 1 krátký = doprava, 2 krátké = doleva)."
+  },
+  "M-098": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Obrat doleva se ohlašuje jedním dlouhým a dvěma krátkými zvuky. Signál vždy začíná jedním dlouhým zvukem, varianty se dvěma dlouhými zvuky neexistují. Pro obrat doprava následuje jen jeden krátký."
+  },
+  "M-099": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Vedle sebe smí plavidla plout, jen pokud je k tomu dost místa a nevzniká tím překážka ani nebezpečí pro plavbu. Nepotřebují k tomu zvláštní plavební značení ani odrazníky a ostatní plavidla se jim nemusí přizpůsobovat."
+  },
+  "M-100": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Dva nebo tři modré kužele či světla označují plavidlo s nebezpečnějším nákladem (zdraví škodlivé nebo výbušné látky). Mimo předjíždění a potkávání se od něj musí plout ve vzdálenosti více než 50 m. 25 m a 10 m nestačí.",
+    "mnemo": "Víc modrých = víc nebezpečí → drž se 50 m daleko."
+  },
+  "M-101": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "K boku plujícího plavidla se smí přiblížit, vyvázat se k němu nebo plout těsně za ním jen s výslovným souhlasem jeho vůdce. Žádné povolení úřadu se k tomu nevydává a šířka dráhy na tom nic nemění."
+  },
+  "M-102": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Plavidlo musí upravit rychlost tak, aby nevznikalo nadměrné vlnobití nebo sání, které by poškodilo stojící či plující plavidla nebo stavby. Pravidla tu nestanoví pevný limit 5 km/h ani povinnost vypnout motor. Bez motoru by plavidlo ztratilo ovladatelnost."
+  },
+  "M-103": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Před vjezdem do přístavu musí plavidlo včas snížit rychlost, aby vlnobití a sání nepoškodilo plavidla v přístavu. Mostní pole a předjíždění v tomto výčtu nejsou."
+  },
+  "M-104": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Rychlost se snižuje u plavidel vyvázaných ke břehu nebo k můstkům a u plavidel, která se nakládají nebo vykládají, protože vlny je mohou poškodit nebo ohrozit práci na nich. Plavidla plující samotíží ani plochy pro vodní lyžování v tomto výčtu nejsou."
+  },
+  "M-105": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Rychlost se snižuje také u plavidel, která stojí na obvyklých stanovištích. Volně plující převozní lodi a plochy pro vodní lyžování výčet neuvádí."
+  },
+  "M-106": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "U převozních lodí, které neplují volně (jsou vedené po laně), se snižuje rychlost, protože lano nedovolí lodi vlnám uhnout. Mosty, lávky a regulační hrázky v tomto výčtu nejsou."
+  },
+  "M-107": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Když lano převozní lodi blokuje plavební dráhu, mohou připlouvající plavidla včas požádat o uvolnění dráhy jedním dlouhým zvukem. Nemusí bezpodmínečně čekat a použít zvukový signál smí."
+  },
+  "M-108": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Červené světlo nebo červená tabule s vodorovným bílým pruhem nad mostním polem znamená zákaz proplutí, a to pro všechna plavidla včetně malých. Žádná výjimka pro malá plavidla neexistuje.",
+    "mnemo": "Červená s bílým pruhem = jako silniční „zákaz vjezdu“."
+  },
+  "M-109": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Jedna nebo dvě žluté tabule nad mostním polem doporučují toto pole k proplutí (proplouvá se jím přednostně). Proplutí jiným polem tedy není zakázané. Zákaz označuje červená."
+  },
+  "M-110": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "V blízkosti pohyblivých mostů se smí předjíždět jen na zvláštní pokyn obsluhy mostu, protože ta řídí pořadí proplouvání. Otevření mostu ani šířka pole samy o sobě k předjíždění neopravňují."
+  },
+  "M-111": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Pokud se malá plavidla neproplavují spolu s velkými, proplavují se v pořadí, v jakém připlula do míst určených pro čekání. Jde o princip „kdo dřív přijede“. Pořadí ohlášení ani libovůle obsluhy nerozhodují (výjimkou jsou plavidla s předností)."
+  }
+}

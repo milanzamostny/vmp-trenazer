@@ -1,0 +1,316 @@
+{
+  "M-227": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Jeden dlouhý zvuk (4 s) znamená „pozor“. Používá se například před vplutím do nepřehledné úžiny. „Pluji doprava“ je jeden krátký zvuk.",
+    "mnemo": "Počet krátkých zvuků: 1 = doprava, 2 = doleva, 3 = zpět, 4 = nemohu manévrovat, 5 = nepředjíždět."
+  },
+  "M-228": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Jeden krátký zvuk (1 s) znamená „pluji doprava“. „Pozor“ je jeden dlouhý zvuk.",
+    "mnemo": "1 krátký = doprava (pravá ruka je jednička)."
+  },
+  "M-229": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Dva krátké zvuky znamenají „pluji doleva“. Zpětný chod jsou tři krátké zvuky.",
+    "mnemo": "1 = doprava, 2 = doleva."
+  },
+  "M-230": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Tři krátké zvuky znamenají „stroj má zpětný chod“. Signál „pluji plnou silou vpřed“ neexistuje."
+  },
+  "M-231": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Čtyři krátké zvuky znamenají „nejsem schopen manévrování“. Zpětný chod jsou tři krátké zvuky, předjíždění nelze ohlašuje pět krátkých."
+  },
+  "M-232": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Řada velmi krátkých zvuků (každý asi ¼ s) varuje, že hrozí nebezpečí kolize. Nouze se signalizuje řadou dlouhých zvuků nebo údery na zvon.",
+    "mnemo": "Velmi krátké = kolize. Dlouhé řady = nouze."
+  },
+  "M-233": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Řada dlouhých zvuků je signál nouze. Nebezpečí kolize signalizuje řada velmi krátkých zvuků, „pozor“ je jen jeden dlouhý zvuk."
+  },
+  "M-234": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Opakované řady úderů na zvon jsou signál nouze. Za snížené viditelnosti se zvonem signalizují stojící plavidla, ale přesně stanoveným počtem řad za minutu."
+  },
+  "M-235": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Pět krátkých zvuků znamená, že předjíždění není možné. Dává ho předjížděné plavidlo, když předjetí nelze bezpečně uskutečnit."
+  },
+  "M-236": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Jeden dlouhý a jeden krátký zvuk ohlašují záměr provést obrat doprava. Dlouhý zvuk upozorňuje na manévr a počet krátkých ukazuje stranu (1 = doprava). Samotný krátký zvuk znamená jen „pluji doprava“.",
+    "mnemo": "Dlouhý + 1 = obrat doprava, dlouhý + 2 = obrat doleva."
+  },
+  "M-237": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Jeden dlouhý a dva krátké zvuky ohlašují záměr provést obrat doleva. Bez dlouhého zvuku by šlo jen o „pluji doleva“."
+  },
+  "M-238": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Tři dlouhé a jeden krátký zvuk ohlašují vplutí do přístavu nebo vyplutí z přístavu doprava. Tři dlouhé zvuky znamenají přeplutí a krátký zvuk určuje stranu (1 = doprava). Obrat doprava je jen jeden dlouhý a jeden krátký.",
+    "mnemo": "3 dlouhé = přeplouvám / vplouvám / vyplouvám, krátké určí stranu."
+  },
+  "M-239": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Tři dlouhé a dva krátké zvuky ohlašují vplutí do přístavu nebo vyplutí z přístavu doleva. Pro vplutí i vyplutí je signál stejný, rozhoduje jen počet krátkých zvuků (2 = doleva)."
+  },
+  "M-240": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Tři dlouhé zvuky ohlašují záměr přeplout vodní cestu. Zpětný chod jsou tři krátké zvuky. Pozor, ať si je nespleteš."
+  },
+  "M-241": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Jeden dlouhý zvuk v intervalech nejvýš 1 minuta dává samostatně plující plavidlo za snížené viditelnosti. Sestava dává dva dlouhé zvuky. Stojící plavidla zvoní na zvon."
+  },
+  "M-242": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Dva dlouhé zvuky v intervalech nejvýš 1 minuta dává sestava plavidel za snížené viditelnosti. Samostatné plavidlo dává jeden dlouhý zvuk. Stojící plavidla zvoní na zvon.",
+    "mnemo": "V mlze: 1 dlouhý = samotné plavidlo, 2 dlouhé = sestava."
+  },
+  "M-243": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Jedna řada úderů na zvon za minutu znamená „stojím za snížené viditelnosti na levé straně plavební dráhy“. Dvě řady znamenají pravou stranu, tři řady neurčitou polohu.",
+    "mnemo": "Zvon: 1 řada = vlevo, 2 = vpravo, 3 = nevím kde. Pozor, u krátkých zvuků je to obráceně (1 = doprava, 2 = doleva)."
+  },
+  "M-244": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Dvě řady úderů na zvon za minutu znamenají „stojím za snížené viditelnosti na pravé straně plavební dráhy“. Jedna řada znamená levou stranu, tři řady neurčitou polohu."
+  },
+  "M-245": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Tři řady úderů na zvon za minutu znamenají „stojím za snížené viditelnosti v neurčité poloze“, tedy ani jasně vlevo, ani vpravo."
+  },
+  "M-246": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Červená tabule s vodorovným bílým pruhem uprostřed je zákaz proplutí, podobně jako silniční „zákaz vjezdu“. Zvláštní pozornost značí svislý černý pruh na bílé tabuli s červeným okrajem.",
+    "mnemo": "Zákaz proplutí = tabule červená-bílá-červená, červené světlo nebo červená vlajka."
+  },
+  "M-247": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Jedno červené světlo jako signální znak znamená zákaz proplutí. Je to noční obdoba červeno-bílo-červené tabule."
+  },
+  "M-248": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Červená vlajka jako signální znak znamená zákaz proplutí. Používá se například při dočasné uzavírce."
+  },
+  "M-249": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Dvě tabule zákazu proplutí nad sebou znamenají zákaz proplutí na delší dobu. Zdvojení vždy značí dlouhodobý zákaz (například uzavření plavby).",
+    "mnemo": "Jedna = zákaz, dvě nad sebou = zákaz na delší dobu."
+  },
+  "M-250": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Dvě červená světla nad sebou znamenají zákaz proplutí na delší dobu. Je to stejná logika jako u komory, kde dvě červená nad sebou znamenají „mimo provoz“."
+  },
+  "M-251": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Dvě červené vlajky nad sebou znamenají zákaz proplutí na delší dobu. Je to zdvojení jedné červené vlajky."
+  },
+  "M-252": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Červená tabule s bílým úhlopříčným pruhem (známá potápěčská vlajka) zakazuje vplutí do prostoru vyhrazeného pro potápěče. S koncem zákazu ani s mostním polem nesouvisí."
+  },
+  "M-253": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Žlutá bóje s potápěčskou vlajkou (červená s bílou úhlopříčkou) označuje místo sestupu potápěčů. Plout blíž než 25 m od ní je zakázáno. Vlajku „A“ na plavidle je naproti tomu potřeba míjet ve vzdálenosti 50 m."
+  },
+  "M-254": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Dvě černé šipky stejným směrem na přeškrtnuté tabuli s červeným okrajem znamenají zákaz předjíždění. Přeškrtnutí červeným pruhem vždy znamená zákaz, ne jeho konec.",
+    "mnemo": "Řada A (červený rám, přeškrtnuto) = zákazy."
+  },
+  "M-255": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Přeškrtnuté dvojité šipky (symbol sestavy) znamenají zákaz vzájemného předjíždění sestav. Ostatní plavidla předjíždět smějí."
+  },
+  "M-256": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Přeškrtnuté šipky opačným směrem znamenají zákaz potkávání a předjíždění. Plavidla se v úseku nesmějí míjet v protisměru ani se předjíždět, plout za sebou stejným směrem se ale smí."
+  },
+  "M-257": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Přeškrtnuté „P“ znamená zákaz stání, tedy zákaz stání na kotvě i vyvazování u břehu na straně, kde je znak. Zastavení plavidla ve smyslu pravidel neomezuje."
+  },
+  "M-258": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Přeškrtnutá tabule s číslem znamená zákaz stání v šířce v metrech uvedené na znaku, počítáno od znaku. Rychlost se značí číslem na nepřeškrtnuté tabuli. Šířku plavební dráhy označuje jiný znak (s černými trojúhelníky)."
+  },
+  "M-259": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Přeškrtnutá kotva znamená zákaz kotvení a vlečení kotev, lan a řetězů, protože pod vodou může být kabel nebo potrubí."
+  },
+  "M-260": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Přeškrtnutý pacholek (vyvazovací sloupek) znamená zákaz vyvazování ke břehu. Kotvit se tu smí. Zákaz obojího (stání) značí přeškrtnuté „P“.",
+    "mnemo": "P = nestát vůbec, kotva = nekotvit, pacholek = nevyvazovat."
+  },
+  "M-261": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Přeškrtnutá kruhová šipka znamená zákaz provádět obrat (otáčení plavidla)."
+  },
+  "M-262": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Přeškrtnuté vlnky znamenají zákaz vytvářet vlnobití nebo sání, tedy zpomalit. Platí například u přístavišť nebo stavenišť."
+  },
+  "M-263": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Červené světlo nad bílým jako signální znak na břehu znamená zákaz vytvářet vlnobití nebo sání. Na plavidle stejná kombinace žádá ochranu před vlnobitím, takže význam je obdobný."
+  },
+  "M-264": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Dvě tabule čtvercové na vrcholu, napůl červené a napůl bílé, vymezují prostor v mostním nebo jezovém poli. Mimo vyznačený prostor je plavba zakázaná, plout se smí jen mezi nimi."
+  },
+  "M-265": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Červené a zelené světlo vedle sebe znamenají, že proplutí je zatím zakázané, ale je třeba se připravit k plavbě, protože brzy bude volno. Stejný význam mají u plavebních komor."
+  },
+  "M-266": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Přeškrtnutý lodní šroub znamená zákaz plavby plavidel s vlastním pohonem, tedy všech motorových. Neplatí pro všechna sportovní plavidla."
+  },
+  "M-267": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Přeškrtnutý nápis „SPORT“ znamená zákaz plavby malých plavidel (sportovních a rekreačních). Koupání tento znak neupravuje."
+  },
+  "M-268": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Přeškrtnutý vodní lyžař znamená zákaz vodního lyžování. Možnost „na vlastní nebezpečí“ pravidla neznají."
+  },
+  "M-269": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Přeškrtnutá plachetnice znamená zákaz plavby plachetnic. Plavidla bez motoru, například veslice, plout smějí."
+  },
+  "M-270": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Přeškrtnutý veslař ve člunu znamená zákaz plavby plavidel bez vlastního pohonu, která nejsou plachetnicemi (veslice, kánoe). Plachetnic se zákaz netýká."
+  },
+  "M-271": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Přeškrtnutý windsurfař znamená zákaz plavby plováků s plachtou (windsurfů). Ostatní plachetnice ani vodní lyžování nezakazuje."
+  },
+  "M-272": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Přeškrtnutý rychlý motorový člun znamená konec úseku, kde je povolena plavba malých plavidel vysokou rychlostí. Je to výjimka z pravidla: tento přeškrtnutý znak neznamená zákaz, ale konec povolení. Vodní skútr má vlastní symbol."
+  },
+  "M-273": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Přeškrtnutý člun na vozíku na skluzu znamená zákaz spouštění plavidel na vodu a jejich vytahování z vody. Lodní výtah ani vznášedla se ho netýkají."
+  },
+  "M-274": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Přeškrtnutý jezdec na vodním skútru znamená zákaz plavby vodních skútrů."
+  },
+  "M-275": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Černá šipka na bílé tabuli s červeným rámem je příkaz plout ve směru šipky. Bílá tabule s červeným rámem bez přeškrtnutí vždy znamená příkaz.",
+    "mnemo": "Řada B (červený rám, bez přeškrtnutí) = příkazy."
+  },
+  "M-276": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Šipka zahýbající doleva přikazuje plout ke straně plavební dráhy, která je po levém boku. Jde o stranu dráhy, ne o levý břeh (ten závisí na směru toku). Nejde ani o povolení předjíždět."
+  },
+  "M-277": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Šipka zahýbající doprava přikazuje plout ke straně plavební dráhy, která je po pravém boku. Opět jde o stranu dráhy z pohledu plavidla, ne o pravý břeh."
+  },
+  "M-278": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Plná šipka vlevo a přerušovaná šipka v protisměru přikazují přidržovat se strany plavební dráhy po levém boku. Plná šipka ukazuje, kudy mám plout já."
+  },
+  "M-279": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Plná šipka vpravo a přerušovaná vlevo přikazují přidržovat se strany plavební dráhy po pravém boku."
+  },
+  "M-280": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Křížící se šipky, kde plná šipka končí vlevo nahoře, přikazují přeplout na stranu plavební dráhy, která je po levém boku. Plná šipka ukazuje můj směr."
+  },
+  "M-281": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Křížící se šipky, kde plná šipka končí vpravo nahoře, přikazují přeplout na stranu plavební dráhy, která je po pravém boku."
+  },
+  "M-282": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Vodorovný černý pruh na bílé tabuli s červeným rámem je příkaz zůstat stát v případech stanovených pravidly (například před komorou). Svislý pruh značí zvláštní pozornost, černý kruh zvukový signál.",
+    "mnemo": "Vodorovně = stůj (jako závora), svisle = pozor, tečka = zatrub."
+  },
+  "M-283": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Číslo na nepřeškrtnuté tabuli s červeným rámem je příkaz nepřekračovat uvedenou rychlost v km/h. Číslo na přeškrtnuté tabuli znamená zákaz stání v metrech."
+  },
+  "M-284": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Černý kruh (tečka) na tabuli s červeným rámem je příkaz dát zvukový signál. Stůj znamená vodorovný pruh, pozornost svislý pruh."
+  },
+  "M-285": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Svislý černý pruh na tabuli s červeným rámem je příkaz zachovávat zvláštní pozornost. Vodorovný pruh znamená „stůj“."
+  },
+  "M-286": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Tabule se znakem ve tvaru „T“ (vodorovná hlavní cesta a vedlejší ústící zespodu) stojí na vedlejší vodní cestě před vplutím na hlavní. Přikazuje přesvědčit se, že plavidla na hlavní cestě nebudou muset měnit směr nebo rychlost. Vedlejší cesta tedy dává přednost, podobně jako na silnici."
+  }
+}

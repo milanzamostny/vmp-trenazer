@@ -1,0 +1,5293 @@
+[
+  {
+    "id": "M-001",
+    "set": "PP1 2015",
+    "num": 1,
+    "topic": "Pojmy a obecná ustanovení",
+    "q": "Termínem \"plavidlo\" se ve smyslu zákona o vnitrozemské plavbě rozumí:",
+    "correct": "ovladatelné těleso určené k pohybu nebo stání na vodě, zejména za účelem přepravy osob a nákladu nebo nesení strojů a zařízení.",
+    "wrong": [
+      "loď s vlastním pohonem, plovoucí těleso a plovoucí zařízení.",
+      "těleso schopné plavby, které je řiditelné a splňuje podmínky plovatelnosti."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-002",
+    "set": "PP1 2015",
+    "num": 2,
+    "topic": "Pojmy a obecná ustanovení",
+    "q": "Termínem \"plavidlo s vlastním pohonem\" se ve smyslu pravidel plavebního provozu rozumí:",
+    "correct": "plavidlo vybavené vlastním strojním pohonem s výjimkou plavidla, jehož strojní pohon je používán pouze pro manévry a snadnější vedení při vlečení nebo tlačení.",
+    "wrong": [
+      "plavidlo, které pluje výlučně pomocí plachet.",
+      "plavidlo, které nepluje pomocí vlastního strojního pohonu ani pomocí plachet."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-003",
+    "set": "PP1 2015",
+    "num": 3,
+    "topic": "Pojmy a obecná ustanovení",
+    "q": "Termínem \"plachetnice\" se ve smyslu pravidel plavebního provozu rozumí:",
+    "correct": "plavidlo, které pluje pouze pomocí plachet a současně nepoužívá vlastní strojní pohon.",
+    "wrong": [
+      "plavidlo, které pluje pomocí plachet a zároveň používá vlastní strojní pohon.",
+      "plavidlo, které pluje pomocí plachet nebo vlastního strojního pohonu, ale jeho délka nepřesahuje 20 m."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-004",
+    "set": "PP1 2015",
+    "num": 4,
+    "topic": "Pojmy a obecná ustanovení",
+    "q": "Malé plavidlo je ve smyslu zákona o vnitrozemské plavbě:",
+    "correct": "plavidlo, jehož délka nepřesahuje 20 metrů, není určené k vlečení, tlačení nebo vedení v bočně svázané sestavě jiných než malých plavidel nebo k přepravě více než 12 cestujících a není tlačným člunem.",
+    "wrong": [
+      "plavidlo, jehož délka nepřesahuje 22 metrů, převozní loď, tlačný člun, jehož délka nepřesahuje 20 metrů a které není určené k přepravě více než 20 cestujících.",
+      "plavidlo, jehož délka nepřesahuje 24 m, není používané k vlečení, tlačení nebo vedení plavidel v bočně svázané sestavě a není na něm povoleno přepravovat více než 24 cestujících."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-005",
+    "set": "PP1 2015",
+    "num": 5,
+    "topic": "Pojmy a obecná ustanovení",
+    "q": "Plavidlo, jehož délka nepřesahuje 20 m, není ve smyslu zákona o vnitrozemské plavbě malým plavidlem:",
+    "correct": "je-li určené k vlečení, tlačení nebo vedení bočně svázané sestavy jiných než malých plavidel.",
+    "wrong": [
+      "je-li určené nebo používané k vlečení, tlačení nebo vedení bočně svázané sestavy jiných plavidel.",
+      "je-li používané k vlečení vodních lyžařů."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-006",
+    "set": "PP1 2015",
+    "num": 6,
+    "topic": "Pojmy a obecná ustanovení",
+    "q": "\"Plovoucí stroj\" je ve smyslu zákona o vnitrozemské plavbě:",
+    "correct": "zařízení schopné plavby vybavené mechanickým zařízením a určené pro práce na vodní cestě nebo v přístavu.",
+    "wrong": [
+      "zařízení schopné plavby, užívané na vodních cestách, které není určeno k opakovanému přemísťování (plovárna, dok, přístavní můstek, plovoucí garáž, botel, atd.).",
+      "konstrukce, objekt nebo pevné seskupení předmětů, schopné plavby, které není plavidlem ani plovoucím zařízením."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-007",
+    "set": "PP1 2015",
+    "num": 7,
+    "topic": "Pojmy a obecná ustanovení",
+    "q": "\"Plovoucí zařízení\" je ve smyslu zákona o vnitrozemské plavbě:",
+    "correct": "zařízení schopné plavby s výjimkou plovoucího stroje, které není určeno k opakovanému přemísťování.",
+    "wrong": [
+      "plavidlo vybavené mechanickým zařízením a určené pro práce na vodních cestách nebo v přístavech.",
+      "plavidlo zkonstruované nebo speciálně vybavené zařízením pro plavbu vlečením nebo tlačením."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-008",
+    "set": "PP1 2015",
+    "num": 8,
+    "topic": "Pojmy a obecná ustanovení",
+    "q": "Termín \"sestava plavidel\" je ve smyslu zákona o vnitrozemské plavbě:",
+    "correct": "spojení několika plavidel, z nichž alespoň jedno je s vlastním pohonem.",
+    "wrong": [
+      "komplex plovoucích prostředků, určený pro údržbu vodních cest, který se skládá z bagru, elevátoru, remorkérů a tlačných nebo vlečných člunů.",
+      "spojení plavidel, plovoucích zařízení nebo plovoucích těles boky vedle sebe."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-009",
+    "set": "PP1 2015",
+    "num": 9,
+    "topic": "Pojmy a obecná ustanovení",
+    "q": "\"Vlečná sestava\" je ve smyslu zákona o vnitrozemské plavbě znění:",
+    "correct": "spojení jednoho nebo více plavidel vlečených jedním nebo několika plavidly s vlastním pohonem, která jsou součástí sestavy.",
+    "wrong": [
+      "spojení plavidel boky vedle sebe, z nichž se ani jedno nenachází před plavidlem s vlastním pohonem, které zajišťuje pohyb sestavy.",
+      "plavidlo, plovoucí těleso nebo jejich spojení, vlečené ze břehu."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-010",
+    "set": "PP1 2015",
+    "num": 10,
+    "topic": "Pojmy a obecná ustanovení",
+    "q": "Stojícím plavidlem je ve smyslu pravidel plavebního provozu plavidlo, které:",
+    "correct": "je přímo nebo nepřímo zakotveno nebo přímo nebo nepřímo vyvázáno ke břehu.",
+    "wrong": [
+      "stojí vůči břehu a motory pracují jen takovou silou, aby překonaly účinek proudu vody.",
+      "je uvázlé na překážce nebo na dně vodní cesty, v důsledku čehož došlo ke ztrátě volného pohybu."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-011",
+    "set": "PP1 2015",
+    "num": 11,
+    "topic": "Pojmy a obecná ustanovení",
+    "q": "Plujícím plavidlem je ve smyslu pravidel plavebního provozu plavidlo, které:",
+    "correct": "není přímo nebo nepřímo zakotveno, vyvázáno ke břehu nebo není nasedlé.",
+    "wrong": [
+      "je zakotveno nebo vyvázáno, ale zasahuje nejméně polovinou šířky do plavební dráhy.",
+      "je zakotveno nebo vyvázáno mimo stanoviště označené plavebními znaky, vyjadřujícími způsob stání."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-012",
+    "set": "PP1 2015",
+    "num": 12,
+    "topic": "Pojmy a obecná ustanovení",
+    "q": "Zastavením je ve smyslu pravidel plavebního provozu pro plující plavidlo stav, při kterém plavidlo stojí ve vztahu:",
+    "correct": "ke břehu.",
+    "wrong": [
+      "k jinému plujícímu plavidlu, plovoucímu tělesu nebo plovoucímu zařízení.",
+      "k vodnímu proudu."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-013",
+    "set": "PP1 2015",
+    "num": 13,
+    "topic": "Pojmy a obecná ustanovení",
+    "q": "Světlo, použité v návěstních svítidlech plavidel je ve smyslu pravidel plavebního provozu:",
+    "correct": "bílé, červené, zelené, žluté a modré.",
+    "wrong": [
+      "bílé, červené, zelené, žluté a fialové.",
+      "bílé, červené, zelené, žluté a oranžové."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-014",
+    "set": "PP1 2015",
+    "num": 14,
+    "topic": "Pojmy a obecná ustanovení",
+    "q": "Krátkým zvukem je ve smyslu pravidel plavebního provozu:",
+    "correct": "zvuk trvající 1 sekundu.",
+    "wrong": [
+      "zvuk trvající 1/4 sekundy.",
+      "zvuk trvající 4 sekundy."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-015",
+    "set": "PP1 2015",
+    "num": 15,
+    "topic": "Pojmy a obecná ustanovení",
+    "q": "Dlouhým zvukem je ve smyslu pravidel plavebního provozu:",
+    "correct": "zvuk trvající 4 sekundy.",
+    "wrong": [
+      "zvuk trvající 1/4 sekundy.",
+      "zvuk trvající 1 sekundu."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-016",
+    "set": "PP1 2015",
+    "num": 16,
+    "topic": "Pojmy a obecná ustanovení",
+    "q": "Blikavým světlem je ve smyslu pravidel plavebního provozu přerušované světlo:",
+    "correct": "s počtem 40 až 60 záblesků za minutu.",
+    "wrong": [
+      "s minimálním počtem 90 záblesků za minutu.",
+      "s jedním, dvěma nebo třemi záblesky za minutu."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-017",
+    "set": "PP1 2015",
+    "num": 17,
+    "topic": "Pojmy a obecná ustanovení",
+    "q": "Nocí je ve smyslu pravidel plavebního provozu období:",
+    "correct": "mezi západem slunce a východem slunce.",
+    "wrong": [
+      "které začíná půl hodiny po západu slunce a končí půl hodiny před východem slunce.",
+      "od 20,00 h do 4,30 h v létě a dobu od 17,00 h do 7,00 h v zimě."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-018",
+    "set": "PP1 2015",
+    "num": 18,
+    "topic": "Pojmy a obecná ustanovení",
+    "q": "Dnem je ve smyslu pravidel plavebního provozu období:",
+    "correct": "mezi východem slunce a západem slunce.",
+    "wrong": [
+      "které začíná půl hodiny před východem slunce a končí půl hodiny po západu slunce.",
+      "od 4,30 h do 20,00 h v létě a dobu od 7,00 h do 17,00 h v zimě."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-019",
+    "set": "PP1 2015",
+    "num": 19,
+    "topic": "Pojmy a obecná ustanovení",
+    "q": "Sníženou viditelností jsou ve smyslu pravidel plavebního provozu:",
+    "correct": "podmínky, při nichž viditelnost omezuje kouřmo, mlha, hustý déšť, sněhová vánice, dým atd.",
+    "wrong": [
+      "kouřmo, mlha, hustý déšť a doba mezi západem a východem slunce.",
+      "podmínky, pro které není z kormidelny plavidla dostatečný výhled na vodní cestu pro nadrozměrný náklad, atypickou sestavu plavidel apod."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-020",
+    "set": "PP1 2015",
+    "num": 20,
+    "topic": "Pojmy a obecná ustanovení",
+    "q": "Plavební dráhou je ve smyslu pravidel plavebního provozu část vodní cesty:",
+    "correct": "kterou mohou plavidla využívat pro plavbu.",
+    "wrong": [
+      "se zaručenou šířkou nejméně 20 m a zaručenou hloubkou nejméně 1,80 m.",
+      "vymezená největšími hloubkami."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-021",
+    "set": "PP1 2015",
+    "num": 21,
+    "topic": "Pojmy a obecná ustanovení",
+    "q": "Část vodní cesty, kterou mohou plavidla využívat pro plavbu je ve smyslu pravidel plavebního provozu:",
+    "correct": "plavební dráha.",
+    "wrong": [
+      "sledovaná vodní cesta.",
+      "splavný vodní tok."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-022",
+    "set": "PP1 2015",
+    "num": 22,
+    "topic": "Pojmy a obecná ustanovení",
+    "q": "Vůdce plavidla je ve smyslu zákona o vnitrozemské plavbě osoba:",
+    "correct": "která vede a je způsobilá vést plavidlo nebo sestavu plavidel v provozu na vodní cestě.",
+    "wrong": [
+      "která je vyučena v příslušném oboru vnitrozemské plavby nebo absolvovala odborný kurz.",
+      "starší 18 let, obeznámená s technikou plavby plavidla, na kterém pluje a má pro instalovaný výkon lodního stroje potřebné oprávnění."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-023",
+    "set": "PP1 2015",
+    "num": 23,
+    "topic": "Pojmy a obecná ustanovení",
+    "q": "Vůdce plavidla je ve smyslu zákona o vnitrozemské plavbě povinen být přítomen na plavidle:",
+    "correct": "jestliže plavidlo pluje.",
+    "wrong": [
+      "jestliže plavidlo pluje i stojí.",
+      "jestliže plavidlo pluje a při nastupování nebo vystupování cestujících."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-024",
+    "set": "PP1 2015",
+    "num": 24,
+    "topic": "Pojmy a obecná ustanovení",
+    "q": "Příkazy vůdce sestavy plavidel jsou povinni se řídit:",
+    "correct": "vůdci plavidel, která jsou součástí sestavy plavidel.",
+    "wrong": [
+      "všichni účastníci plavebního provozu.",
+      "pouze členové posádky plavidla, které zajišťuje pohyb sestavy."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-025",
+    "set": "PP1 2015",
+    "num": 25,
+    "topic": "Pojmy a obecná ustanovení",
+    "q": "Příkazy vydávanými vůdcem plavidla k zajištění bezpečnosti a plynulosti plavebního provozu, jsou povinni se řídit:",
+    "correct": "členové posádky plavidla a další osoby na plavidle.",
+    "wrong": [
+      "všechny další osoby na plavidle, pokud nemají vlastního průvodce.",
+      "všichni účastníci plavebního provozu."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-026",
+    "set": "PP1 2015",
+    "num": 26,
+    "topic": "Pojmy a obecná ustanovení",
+    "q": "Nejvyšší povolené hodnoty délky a šířky plavidla a sestavy plavidel pro jednotlivé úseky vodní cesty jsou uvedeny:",
+    "correct": "v příloze k vyhlášce o pravidlech plavebního provozu.",
+    "wrong": [
+      "v zákonu o vnitrozemské plavbě.",
+      "ve vyhlášce o vodních cestách, plavebním provozu v přístavech, společné havárii a dopravě nebezpečných věcí."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-027",
+    "set": "PP1 2015",
+    "num": 27,
+    "topic": "Pojmy a obecná ustanovení",
+    "q": "Nejvyšší povolené hodnoty ponoru plavidla pro jednotlivé úseky vodní cesty jsou uvedeny:",
+    "correct": "v příloze k vyhlášce o pravidlech plavebního provozu.",
+    "wrong": [
+      "v zákonu o vnitrozemské plavbě.",
+      "ve vyhlášce správce příslušné vodní cesty nebo přístavu na této vodní cestě."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-028",
+    "set": "PP1 2015",
+    "num": 28,
+    "topic": "Pojmy a obecná ustanovení",
+    "q": "Nasednutím plavidla se ve smyslu pravidel plavebního provozu rozumí:",
+    "correct": "plavidlo, které uvázlo na překážce nebo na dně vodní cesty, v důsledku čehož došlo ke ztrátě jeho volného pohybu.",
+    "wrong": [
+      "umístění a zajištění plavidla na zařízení lodního výtahu před jeho vytažením na břeh za účelem jeho opravy nebo rekonstrukce.",
+      "ukončení nástupu cestujících na osobní loď, která pluje na pravidelné lince nebo v režimu několikadenní plavby."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-029",
+    "set": "PP1 2015",
+    "num": 29,
+    "topic": "Pojmy a obecná ustanovení",
+    "q": "Plavba samotíží je zakázaná, ale tento zákaz se nevztahuje:",
+    "correct": "na malá plavidla bez vlastního pohonu nepodléhající evidenci v rejstříku malých plavidel.",
+    "wrong": [
+      "na malá plavidla s vlastním pohonem.",
+      "na všechna malá plavidla."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-030",
+    "set": "PP1 2015",
+    "num": 30,
+    "topic": "Pojmy a obecná ustanovení",
+    "q": "Rozmístění nákladu na plavidle:",
+    "correct": "nesmí ohrožovat stabilitu plavidla nebo pevnost jeho tělesa.",
+    "wrong": [
+      "musí odpovídat parametrům vodní cesty a staveb na ní.",
+      "stanoví jeho vůdce nejméně 2 dny před vyplutím a zajišťuje jej i v průběhu plavby tak, aby plavba byla plynulá."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-031",
+    "set": "PP1 2015",
+    "num": 31,
+    "topic": "Pojmy a obecná ustanovení",
+    "q": "Plavidlo určené k přepravě cestujících:",
+    "correct": "nesmí přepravovat více cestujících, než je na něm povoleno přepravovat.",
+    "wrong": [
+      "může přepravovat více cestujících, než kolik je na něm povoleno přepravovat, nepřekročí-li nejvyšší povolený ponor plavidla.",
+      "nesmí přepravovat méně cestujících, než je na něm povoleno přepravovat."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-032",
+    "set": "PP1 2015",
+    "num": 32,
+    "topic": "Pojmy a obecná ustanovení",
+    "q": "Pro řádné ovládání plavidla je třeba zajistit, aby mohla kormidlující osoba v kormidelně:",
+    "correct": "přijímat příkazy a předávat informace, aby slyšela zvukové signály a měla rozhled všemi směry.",
+    "wrong": [
+      "používat rádiovou stanici na předepsané frekvenci.",
+      "používat dalekohled a brýle nebo clonu proti oslnění."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-035",
+    "set": "PP1 2015",
+    "num": 35,
+    "topic": "Pojmy a obecná ustanovení",
+    "q": "Vůdce plavidla je povinen zajistit, aby přes obrys plavidla nevyčnívaly:",
+    "correct": "předměty, které by mohly být nebezpečím pro jiná plavidla nebo by mohly poškodit plavební zařízení a stavby na vodní cestě.",
+    "wrong": [
+      "věci, které by se mohly takovým uložením poškodit.",
+      "součásti výstroje nebo nákladu za plavby."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-036",
+    "set": "PP1 2015",
+    "num": 36,
+    "topic": "Pojmy a obecná ustanovení",
+    "q": "Pokud vypadl předmět z plavidla a může vytvořit plavební překážku nebo ohrozit bezpečnost plavby, je vůdce plavidla povinen:",
+    "correct": "zajistit jeho odstranění z plavební dráhy.",
+    "wrong": [
+      "vyčkat na místě do příjezdu orgánů Státní plavební správy.",
+      "učinit o tom záznam v lodním deníku."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-037",
+    "set": "PP1 2015",
+    "num": 37,
+    "topic": "Pojmy a obecná ustanovení",
+    "q": "Pokud není možné odstranit předmět, který vypadl z plavidla a může vytvořit plavební překážku nebo ohrozit bezpečnost plavby, je vůdce plavidla povinen:",
+    "correct": "místo viditelně označit, je-li to možné, a neodkladně uvědomit plavební úřad a správce vodní cesty.",
+    "wrong": [
+      "zastavit plavbu v obou směrech a vyčkat na místě, dokud plavební úřad překážku neodstraní.",
+      "vyzvat Hasičský záchranný sbor České republiky, aby zajistil na vodní cestě plavební značení, než bude překážka odstraněna."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-038",
+    "set": "PP1 2015",
+    "num": 38,
+    "topic": "Pojmy a obecná ustanovení",
+    "q": "Zjistí-li posádka plavidla neznámou překážku provozu na vodní cestě, je vůdce plavidla povinen:",
+    "correct": "neodkladně uvědomit plavební úřad a správce vodní cesty a je-li to možné, toto místo viditelně označit.",
+    "wrong": [
+      "postarat se o její odstranění z plavební dráhy.",
+      "označit toto místo bójkou nebo vlajkou čtvercového tvaru libovolné barvy."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-039",
+    "set": "PP1 2015",
+    "num": 39,
+    "topic": "Pojmy a obecná ustanovení",
+    "q": "Na vodní cestě je zakázáno:",
+    "correct": "poškozovat plavební značení a jiná plavební zařízení umístěná na vodní cestě a používat je k vyvazování.",
+    "wrong": [
+      "respektovat význam signálních znaků za plavby v podmínkách snížené viditelnosti mlhou, hustým deštěm, sněhovou vánicí nebo v noci.",
+      "řídit se signálními znaky, které jsou umístěny na břehu vlevo ve směru plavby plavidla."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-040",
+    "set": "PP1 2015",
+    "num": 40,
+    "topic": "Pojmy a obecná ustanovení",
+    "q": "Na vodní cestě nebo v její blízkosti je zakázáno umísťovat předměty:",
+    "correct": "které jsou zaměnitelné s plavebním značením.",
+    "wrong": [
+      "které mohou z dálky připomínat siluetu plavidla.",
+      "které jsou obtížně odstranitelné."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-041",
+    "set": "PP1 2015",
+    "num": 41,
+    "topic": "Pojmy a obecná ustanovení",
+    "q": "Vůdce plavidla je povinen uvědomit plavební úřad a správce vodní cesty:",
+    "correct": "o zjištěných změnách, přemístění nebo poškození plavebního značení nebo poškození stavby na vodní cestě.",
+    "wrong": [
+      "že břehový porost brání přehledu při proplouvání oblouky.",
+      "o plavidle, které je vyvázáno za plavební značení nebo k zařízení, které není určeno k vyvazování na vodní cestě."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-042",
+    "set": "PP1 2015",
+    "num": 42,
+    "topic": "Pojmy a obecná ustanovení",
+    "q": "Vůdce plavidla je povinen zabránit úniku látek z plavidla:",
+    "correct": "které mohou ohrozit bezpečnost a plynulost plavby, ostatní účastníky plavebního provozu nebo uživatele vodní cesty.",
+    "wrong": [
+      "které jsou lehčí než voda.",
+      "které jsou jedovaté nebo jejichž jediná složka má otravný charakter s výjimkou ropných odpadů smísených s vodou v poměru větším než 1:100."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-043",
+    "set": "PP1 2015",
+    "num": 43,
+    "topic": "Pojmy a obecná ustanovení",
+    "q": "Hrozí-li osobám na plavidle v případě nehody nebezpečí, vůdce plavidla:",
+    "correct": "použije všech prostředků, které má k dispozici, pro jejich záchranu.",
+    "wrong": [
+      "využije znalostí všech osob na plavidle pro záchranu plavidla, nákladu a zabránění vzniku plavební překážky.",
+      "to oznámí nejbližšímu orgánu Státní plavební správy a vodní záchranné službě."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-045",
+    "set": "PP1 2015",
+    "num": 45,
+    "topic": "Pojmy a obecná ustanovení",
+    "q": "Nasedlo nebo potopilo-li se plavidlo v plavební dráze nebo v její blízkosti a vyžaduje-li to situace:",
+    "correct": "použije se v co nejkratší době signalizace nasedlého nebo potopeného plavidla a na vhodných místech se upozorní přibližující se plavidla.",
+    "wrong": [
+      "dává se signál jedna, dvě nebo tři řady úderů na zvon opakované v intervalech ne delších než 1 minuta.",
+      "použije se signalizace plavidla, které pozbylo manévrovací schopnost."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-046",
+    "set": "PP1 2015",
+    "num": 46,
+    "topic": "Pojmy a obecná ustanovení",
+    "q": "Obsluhu plavební komory uvědomí vůdce plavidla, došlo-li k plavební nehodě:",
+    "correct": "při proplouvání plavidla plavební komorou.",
+    "wrong": [
+      "ve zdrži jezu nad plavební komorou.",
+      "mimo dohled obsluhy plavební komory."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-047",
+    "set": "PP1 2015",
+    "num": 47,
+    "topic": "Pojmy a obecná ustanovení",
+    "q": "Vůdci plavidel jsou povinni se řídit ústními pokyny, které jim dá zaměstnanec:",
+    "correct": "plavebního úřadu v zájmu zajištění bezpečnosti a plynulosti plavebního provozu, který je jako zaměstnanec plavebního úřadu viditelně označen.",
+    "wrong": [
+      "Policie České republiky za účelem zrychlení proplouvání obtížným místem na vodní cestě, jehož plavidlo nese poznávací znaky tohoto úřadu.",
+      "Státní plavební správy, Policie České republiky nebo správce vodní cesty nad rámec zákona o vnitrozemské plavbě, který je viditelně označen jako zaměstnanec příslušného úřadu."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-048",
+    "set": "PP1 2015",
+    "num": 48,
+    "topic": "Pojmy a obecná ustanovení",
+    "q": "Malé plavidlo nepodléhající evidenci nese na vnitřní nebo vnější straně plavidla:",
+    "correct": "název provozovatele nebo jeho obvyklou zkratku nebo jméno a příjmení nebo název vlastníka plavidla.",
+    "wrong": [
+      "jméno, heslo nebo libovolnou značku či zkratku.",
+      "název nebo zkratku typu plavidla s římskou číslicí, vyjadřující obsaditelnost plavidla."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-049",
+    "set": "PP1 2015",
+    "num": 49,
+    "topic": "Pojmy a obecná ustanovení",
+    "q": "Na malém plavidle, evidovaném v plavebním rejstříku malých plavidel, musí být přidělené evidenční označení vyznačeno:",
+    "correct": "na vnějších stranách obou boků plavidla poblíž přídě, čitelnými nesmazatelnými latinskými písmeny o výšce nejméně 10 cm.",
+    "wrong": [
+      "na vnitřní straně plavidla poblíž zádě, čitelnými nesmazatelnými písmeny o výšce nejméně 5 cm.",
+      "na vnitřní nebo vnější straně plavidla poblíž středu, čitelnými nesmazatelnými latinskými písmeny o výšce 5 cm až 10 cm."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-050",
+    "set": "PP1 2015",
+    "num": 50,
+    "topic": "Pojmy a obecná ustanovení",
+    "q": "Malé plavidlo nepodléhající evidenci nese poznávací znaky:",
+    "correct": "na vnitřní nebo vnější straně plavidla.",
+    "wrong": [
+      "na přídi nebo zádi plavidla, na nástavbě nebo na hlavní plachtě.",
+      "na lodním tělese a na povinné výstroji plavidla."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-051",
+    "set": "PP2 2015",
+    "num": 51,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Vyžadují-li to podmínky viditelnosti, musí se na plavidle použít:",
+    "correct": "optická signalizace předepsaná pro provoz v noci i ve dne.",
+    "wrong": [
+      "nejméně jeden světlomet v přední části plavidla.",
+      "radiolokační zařízení."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-052",
+    "set": "PP2 2015",
+    "num": 52,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Vrcholovým světlem se ve smyslu pravidel plavebního provozu rozumí:",
+    "correct": "silné bílé světlo svítící nepřerušovaně v obzorovém výseku 225°.",
+    "wrong": [
+      "obyčejné bílé světlo svítící nepřerušovaně v obzorovém výseku 135°.",
+      "jasné bílé světlo svítící nepřerušovaně v obzorovém výseku 112,5°."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-053",
+    "set": "PP2 2015",
+    "num": 53,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Bočními světly se ve smyslu pravidel plavebního provozu rozumí:",
+    "correct": "jasné zelené světlo na pravém boku a jasné červené světlo na levém boku plavidla, z nichž každé svítí nepřerušovaně v obzorovém výseku 112,5°.",
+    "wrong": [
+      "silné zelené světlo na levém boku a silné červené světlo na pravém boku plavidla, z nichž každé svítí nepřerušovaně v obzorovém výseku 112,5°.",
+      "obyčejné zelené světlo a obyčejné červené světlo na bocích plavidla, z nichž každé svítí nepřerušovaně v obzorovém výseku 112,5°."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-054",
+    "set": "PP2 2015",
+    "num": 54,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Záďovým světlem se ve smyslu pravidel plavebního provozu rozumí:",
+    "correct": "jasné nebo obyčejné bílé světlo, svítící nepřerušovaně v obzorovém výseku 135°.",
+    "wrong": [
+      "silné žluté světlo, svítící nepřerušovaně v obzorovém výseku 225°.",
+      "obyčejné nebo jasné bílé světlo, svítící nepřerušovaně v obzorovém výseku 112,5°."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-055",
+    "set": "PP2 2015",
+    "num": 55,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Světlem viditelným ze všech stran se ve smyslu pravidel plavebního provozu rozumí:",
+    "correct": "světlo svítící nepřerušovaně v obzorovém výseku 360°.",
+    "wrong": [
+      "světlo svítící nepřerušovaně v obzorovém výseku 225°.",
+      "světlo svítící nepřerušovaně v obzorovém výseku 380°."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-056",
+    "set": "PP2 2015",
+    "num": 56,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Rozměry tabulí a vlajek, předepsané v pravidlech plavebního provozu jsou dostatečné pro dobrou viditelnost, mají-li rozměry u malých plavidel:",
+    "correct": "minimálně 0,6 m x 0,6 m.",
+    "wrong": [
+      "minimálně 0,5 m x 0,5 m.",
+      "minimálně 0,4 m x 0,4 m."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-057",
+    "set": "PP2 2015",
+    "num": 57,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Balóny a kužele, předepsané v pravidlech plavebního provozu:",
+    "correct": "mohou být nahrazeny upravenými předměty, které mají při pohledu z dálky stejný tvar.",
+    "wrong": [
+      "nesmějí být nahrazovány jinými upravenými předměty.",
+      "smějí být nahrazeny předměty, které mají při pohledu z dálky stejnou barvu."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-058",
+    "set": "PP2 2015",
+    "num": 58,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Samostatně plující malé plavidlo s vlastním pohonem, jehož délka přesahuje 7 m, musí nést:",
+    "correct": "vrcholové světlo, boční světla a záďové světlo.",
+    "wrong": [
+      "boční světla a záďové světlo.",
+      "obyčejné bílé světlo viditelné ze všech stran."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-059",
+    "set": "PP2 2015",
+    "num": 59,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Samostatně plující malé plavidlo s vlastním pohonem, jehož délka nepřesahuje 7 m, může nést:",
+    "correct": "pouze jedno obyčejné bílé světlo viditelné ze všech stran.",
+    "wrong": [
+      "pouze boční světla a záďové světlo.",
+      "bílé světlo viditelné ze všech stran pouze v případě, přibližují-li se jiná plavidla."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-060",
+    "set": "PP2 2015",
+    "num": 60,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Jestliže malé plavidlo vleče nebo vede v bočně svázané sestavě jiné malé plavidlo, musí nést:",
+    "correct": "vrcholové světlo, boční světla a záďové světlo.",
+    "wrong": [
+      "dvě vrcholová světla, boční světla a záďové světlo.",
+      "vrcholová světla v počtu vlečených nebo bočně svázaných plavidel, boční světla a záďové světlo."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-061",
+    "set": "PP2 2015",
+    "num": 61,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Vlečené nebo v bočně svázané sestavě vedené malé plavidlo musí nést:",
+    "correct": "obyčejné bílé světlo viditelné ze všech stran.",
+    "wrong": [
+      "boční světla a záďové světlo.",
+      "vrcholové a záďové světlo."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-062",
+    "set": "PP2 2015",
+    "num": 62,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Plachetnice, která je malým plavidlem, jejíž délka přesahuje 7 m, musí nést:",
+    "correct": "boční světla a záďové světlo.",
+    "wrong": [
+      "vrcholové světlo, boční světla a záďové světlo.",
+      "vrcholové světlo a záďové světlo."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-063",
+    "set": "PP2 2015",
+    "num": 63,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Plachetnice, která je malým plavidlem, jejíž délka nepřesahuje 7 m, musí nést:",
+    "correct": "obyčejné bílé světlo viditelné ze všech stran, přibližuje-li se jiné plavidlo, musí kromě toho ukazovat druhé obyčejné bílé světlo.",
+    "wrong": [
+      "obyčejné bílé světlo viditelné ze všech stran, přibližuje-li se jiné plavidlo.",
+      "boční světla sdružená v jedné svítilně a záďové světlo."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-064",
+    "set": "PP2 2015",
+    "num": 64,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Samostatně plující malé plavidlo bez vlastního pohonu a bez plachet musí nést:",
+    "correct": "obyčejné bílé světlo viditelné ze všech stran.",
+    "wrong": [
+      "obyčejné bílé světlo viditelné ze všech stran, přibližuje-li se jiné plavidlo, musí kromě toho ukazovat druhé obyčejné bílé světlo.",
+      "dvě obyčejná bílá světla viditelná ze všech stran, umístěná nad sebou."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-065",
+    "set": "PP2 2015",
+    "num": 65,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Malé plavidlo, které ztratilo manévrovací schopnost, musí podle situace v noci signalizovat:",
+    "correct": "červeným nebo bílým světlem kývajícím se v půlkruhu nebo dvěma červenými světly 1 m nad sebou.",
+    "wrong": [
+      "červeným a zeleným světlem pohybujícími se proti sobě ve svislém směru nebo dvěma červenými světly, z nichž jedno je na přídi a jedno na zádi.",
+      "jedním, dvěma nebo třemi modrými světly viditelnými ze všech stran, umístěnými na hlavním stěžni."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-066",
+    "set": "PP2 2015",
+    "num": 66,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Malé plavidlo, které pluje pomocí plachet a zároveň používá strojní pohon, musí nést:",
+    "correct": "černý kužel, jehož vrchol směřuje dolů.",
+    "wrong": [
+      "žlutý balón.",
+      "bílou vlajku s vodorovným červeným pruhem uprostřed."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-067",
+    "set": "PP2 2015",
+    "num": 67,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Malé plavidlo, které ztratilo manévrovací schopnost, musí podle situace za dne signalizovat:",
+    "correct": "kýváním červenou vlajkou v půlkruhu nebo dvěma černými balóny umístěnými 1 m nad sebou tak, aby byly viditelné ze všech stran.",
+    "wrong": [
+      "kýváním bílou vlajkou v půlkruhu nebo kroužením dvou žlutých balónů.",
+      "kýváním černou vlajkou v půlkruhu nebo dvěma bílými balóny umístěnými vedle sebe tak, aby byly viditelné z obou stran plavidla."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-068",
+    "set": "PP2 2015",
+    "num": 68,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Plavidlo mající přednost při proplouvání místy s určeným pořadím proplouvání, musí za dne nést:",
+    "correct": "červený plamenec umístěný v přední části plavidla.",
+    "wrong": [
+      "červenou vlajkou umístěnou na zádi plavidla.",
+      "červenou vlajkou s bílým vodorovným pruhem uprostřed umístěnou v přední části plavidla."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-069",
+    "set": "PP2 2015",
+    "num": 69,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Plavidla plavebního úřadu, Policie České republiky, obecní policie, Celní správy České republiky a plavidla složek integrovaného záchranného systému mohou signalizovat:",
+    "correct": "obyčejným blikavým modrým světlem viditelným ze všech stran.",
+    "wrong": [
+      "obyčejným blikavým bílým světlem viditelným ze všech stran.",
+      "obyčejným blikavým červeným světlem viditelným ze všech stran."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-070",
+    "set": "PP2 2015",
+    "num": 70,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Plavidlo v nouzi, které potřebuje pomoc, může signalizovat:",
+    "correct": "kroužením vlajkou nebo jiným obdobným předmětem.",
+    "wrong": [
+      "rychlým pohybem rukou v horizontálním směru.",
+      "vyvěšením černého balónu ve výšce minimálně 4 m nad ryskou největšího ponoru."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-071",
+    "set": "PP2 2015",
+    "num": 71,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Plavidlo v nouzi, které potřebuje pomoc, může signalizovat:",
+    "correct": "vlajkou, pod kterou nebo nad kterou je vyvěšen balón nebo předmět podobného tvaru.",
+    "wrong": [
+      "dvojitým žlutým kuželem umístěným tak, aby byl viditelný ze všech stran.",
+      "vyvěšením modrého kuželu vrcholem dolů."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-072",
+    "set": "PP2 2015",
+    "num": 72,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Plavidlo v nouzi, které potřebuje pomoc, může signalizovat:",
+    "correct": "kroužením světlem.",
+    "wrong": [
+      "vyvěšením vlajky \"A\" Mezinárodního vlajkového kódu na tom boku plavidla, kde je plavební dráha volná.",
+      "zvukovým signálem sestávajícím ze spojení znaků ••• - - - •••(SOS) podle Morseovy abecedy."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-073",
+    "set": "PP2 2015",
+    "num": 73,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Plavidlo v nouzi, které potřebuje pomoc, může signalizovat:",
+    "correct": "odpalováním světlic nebo pyrotechnických prostředků, které po odpálení vytvářejí tzv. červený déšť a následují v krátkých intervalech.",
+    "wrong": [
+      "třemi silnými zelenými světly viditelnými ze všech stran, rozmístěnými do tvaru rovnostranného trojúhelníku na předním stěžni.",
+      "černým kouřem zapálené gumy vhozené na hladinu vody."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-074",
+    "set": "PP2 2015",
+    "num": 74,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Plavidlo v nouzi, které potřebuje pomoc, může signalizovat:",
+    "correct": "světelným signálem sestávajícím ze spojení znaků ••• - - - ••• (SOS) podle Morseovy abecedy.",
+    "wrong": [
+      "dvěma světlomety nastavenými vzhůru, jejichž paprsky svírají úhel 90o a na obloze vytvářejí písmeno \"X\".",
+      "vyléváním hořícího dehtu nebo oleje na hladinu vody, po směru proudu."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-075",
+    "set": "PP2 2015",
+    "num": 75,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Plavidlo v nouzi, které potřebuje pomoc, může signalizovat:",
+    "correct": "světlicemi s padákem nebo pochodněmi s červeným světlem.",
+    "wrong": [
+      "pochodněmi se zeleným nebo modrozeleným světlem.",
+      "odpalováním světlic nebo pyrotechnických prostředků, které po odpálení vytvářejí tzv. černý déšť."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-076",
+    "set": "PP2 2015",
+    "num": 76,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Plavidlo, které se ocitlo v nouzi a chce požádat o pomoc:",
+    "correct": "musí opakovat řady úderů na zvon nebo dávat dlouhé zvukové signály.",
+    "wrong": [
+      "musí dávat 1 řadu úderů na zvon opakující se v intervalech ne delších než 1 minutu.",
+      "musí dávat zvukový signál \"řada velmi krátkých zvuků\" opakující se v intervalech ne delších než 1 minutu."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-077",
+    "set": "PP2 2015",
+    "num": 77,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Opakované řady úderů na zvon nebo řadu dlouhých zvukových signálů dává:",
+    "correct": "plavidlo, které se ocitlo v nouzi a chce požádat o pomoc.",
+    "wrong": [
+      "plavidlo plující v podmínkách snížené viditelnosti.",
+      "převozní loď s předností v plavbě."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-078",
+    "set": "PP2 2015",
+    "num": 78,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Řada úderů na zvon ve smyslu pravidel plavebního provozu trvá:",
+    "correct": "4 sekundy, může být nahrazena řadou úderů kovu o kov stejné časové délky.",
+    "wrong": [
+      "8 sekund, nesmí být nahrazena jiným způsobem.",
+      "12 sekund, může být nahrazena jasným blikavým bílým světlem, viditelným ze všech stran, ve stejné časové délce."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-079",
+    "set": "PP2 2015",
+    "num": 79,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Směrem proti proudu\" vodní cesty se ve smyslu pravidel plavebního provozu rozumí:",
+    "correct": "směr k prameni toku.",
+    "wrong": [
+      "směr od pramene toku, včetně úseků, kde se při odlivu a přílivu směr proudu mění.",
+      "směr od pramene toku."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-080",
+    "set": "PP2 2015",
+    "num": 80,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Vysokorychlostní plavidla a malá plavidla plující mimo výtlačný režim:",
+    "correct": "ponechají vždy všem ostatním plavidlům dostatek místa, aby mohla pokračovat v plavbě a nemusela přitom měnit směr nebo rychlost plavby.",
+    "wrong": [
+      "mají přednost v plavbě před všemi ostatními plavidly, která jim musí ponechat dostatek místa, aby nemusela měnit směr ani rychlost plavby.",
+      "ponechají ostatním plavidlům dostatek místa po svém levém boku, případně si od nich vyžádají změnu směru nebo rychlosti plavby."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-081",
+    "set": "PP2 2015",
+    "num": 81,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Plují-li plavidla směry, které vylučují jakékoli nebezpečí kolize:",
+    "correct": "nemění směr nebo rychlost plavby způsobem, který by mohl nebezpečí kolize přivodit.",
+    "wrong": [
+      "musí změnit směr nebo rychlost plavby tak, aby míjení proběhlo levými boky.",
+      "mohou směr nebo rychlost plavby změnit pouze plavidla, plující proti proudu."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-082",
+    "set": "PP2 2015",
+    "num": 82,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Plují-li malá plavidla stejného druhu, vyjma plachetnic, takovými směry, že se jejich dráhy kříží, a mohlo by vzniknout nebezpečí kolize:",
+    "correct": "plavidlo, které má druhé plavidlo na pravém boku, dá tomuto plavidlu přednost v plavbě a vyhne se křížení směrů plavby před jeho přídí.",
+    "wrong": [
+      "plavidlo, které má druhé plavidlo na levém boku, dá tomuto plavidlu přednost v plavbě a změní směr plavby vpravo.",
+      "plavidlo, které připlouvá z pravého boku, se vyhne, sníží rychlost nebo zastaví."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-084",
+    "set": "PP2 2015",
+    "num": 84,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Kříží-li se dráhy malých plavidel, malá plavidla bez vlastního pohonu a neplující pomocí plachet, uvolní dráhu:",
+    "correct": "malým plavidlům plujícím pomocí plachet.",
+    "wrong": [
+      "všem ostatním malým plavidlům.",
+      "plavidlům s vlastním pohonem."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-085",
+    "set": "PP2 2015",
+    "num": 85,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Před vplutím do nepřehledné úžiny dá plavidlo zvukový signál:",
+    "correct": "jeden dlouhý zvuk, je-li úžina dlouhá, musí tento zvukový signál při proplouvání úžinou opakovat.",
+    "wrong": [
+      "jednu řadu úderů na zvon nebo kovu o kov, je-li úžina dlouhá, musí tento zvukový signál při proplouvání úžinou opakovat.",
+      "řada velmi krátkých zvuků, je-li úžina dlouhá, musí tento zvukový signál při proplouvání úžinou opakovat v intervalech ne delších než 1 minuta."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-086",
+    "set": "PP2 2015",
+    "num": 86,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Před vplutím do nepřehledné úžiny dá plavidlo zvukový signál:",
+    "correct": "jeden dlouhý zvuk, je-li úžina dlouhá, musí tento zvukový signál při proplouvání úžinou opakovat.",
+    "wrong": [
+      "dva dlouhé zvuky, které musí opakovat v intervalech ne delších než 1 minuta.",
+      "tři dlouhé zvuky, pozoruje-li v protisměru plavidlo, musí tento zvukový signál opakovat, než plavidlo plující v protisměru odpoví signálem \"tři krátké zvuky\"."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-087",
+    "set": "PP2 2015",
+    "num": 87,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Jestliže vůdce plavidla plujícího proti proudu zjistí, že plavidlo plující po proudu vplouvá do úžiny:",
+    "correct": "zůstane stát pod úžinou a vyčká, až plavidlo po proudu úžinou propluje.",
+    "wrong": [
+      "vpluje do úžiny a propluje jí jí v co možná nejkratší době.",
+      "vpluje do úžiny, při potkávání s jiným plavidlem dá signál \"řada velmi krátkých zvuků\"."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-088",
+    "set": "PP2 2015",
+    "num": 88,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Je-li potkávání v úžině nevyhnutelné, vůdci plavidel učiní veškerá opatření k tomu:",
+    "correct": "aby k potkávání došlo na vhodném místě a za takových podmínek, které představují nejmenší nebezpečí.",
+    "wrong": [
+      "aby mohlo plavidlo plující proti proudu z úžiny vycouvat.",
+      "aby se mohla plavidla potkat levými boky."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-089",
+    "set": "PP2 2015",
+    "num": 89,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Zpozoruje-li vůdce plavidla, že by mohlo hrozit nebezpečí kolize, signalizuje:",
+    "correct": "řadou velmi krátkých zvuků.",
+    "wrong": [
+      "řadou krátkých zvuků.",
+      "řadou dlouhých zvuků."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-090",
+    "set": "PP2 2015",
+    "num": 90,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Předjíždění je možné až poté, co se předjíždějící přesvědčil o tom, že:",
+    "correct": "s předjížděním není spojeno nebezpečí.",
+    "wrong": [
+      "předjíždějící plavidlo je rychlejší než plavidlo předjížděné.",
+      "předjížděné plavidlo pluje pomaleji než plavidlo předjíždějící."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-091",
+    "set": "PP2 2015",
+    "num": 91,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Předjížděné malé plavidlo podle plavební situace umožní a usnadní předjíždění:",
+    "correct": "a přiměřeně sníží rychlost plavby, aby předjíždění proběhlo bez nebezpečí a dostatečně rychle a nenarušilo plavbu ostatních plavidel.",
+    "wrong": [
+      "a sníží rychlost plavby, zastaví nebo zůstane stát při břehu, aby předjíždění proběhlo dostatečně rychle.",
+      "a přepluje co nejblíže k pravému břehu, aby vytvořilo předjíždějícímu plavidlu dostatek místa při levém břehu a byla tak zachována bezpečnost a náležitý pořádek v plavbě."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-092",
+    "set": "PP2 2015",
+    "num": 92,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Předjíždějící plavidlo míjí předjížděné plavidlo zpravidla po jeho levém boku:",
+    "correct": "není-li s předjížděním spojeno nebezpečí kolize, může být předjíždění uskutečněno i po pravé straně předjížděného plavidla.",
+    "wrong": [
+      "předjíždění po pravém boku předjížděného plavidla je zakázáno.",
+      "pouze v pravotočivém oblouku může být předjíždění uskutečněno po pravé straně předjížděného plavidla."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-093",
+    "set": "PP2 2015",
+    "num": 93,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Při předjíždění malých plavidel plachetnicí, umožní předjížděná plavidla předjetí:",
+    "correct": "po své návětrné straně.",
+    "wrong": [
+      "po své závětrné straně.",
+      "po svém pravém boku."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-094",
+    "set": "PP2 2015",
+    "num": 94,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Signál \"pět krátkých zvuků\" daný plavidlem, které není malým, znamená:",
+    "correct": "předjíždění, s ohledem na možnost nebezpečí kolize, nelze uskutečnit.",
+    "wrong": [
+      "mám v úmyslu provést obrat doprava.",
+      "stroj má zpětný chod."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-095",
+    "set": "PP2 2015",
+    "num": 95,
+    "topic": "Pravidla plavebního provozu",
+    "q": "V úseku s přikázaným směrem plavby, plavidla:",
+    "correct": "plující proti proudu sníží rychlost a případně zastaví, aby umožnila plavidlům plujícím po proudu bezpečně proplout.",
+    "wrong": [
+      "plující po proudu zvýší rychlost plavby tak, aby nedonutila plavidla plující proti proudu snížit rychlost nebo zastavit.",
+      "plující v obou směrech plavby zvýší nebo sníží rychlost plavby a případně zastaví, aby neohrozila bezpečnost plavby plavidla plujícího v protisměru."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-096",
+    "set": "PP2 2015",
+    "num": 96,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Plavidlo může provést obrat až poté, co se jeho vůdce ujistil, že pohyb ostatních plavidel mu umožňuje provést obrat bez nebezpečí:",
+    "correct": "a že ostatní plavidla tím nebudou přinucena změnit náhle směr nebo rychlost plavby.",
+    "wrong": [
+      "přestože ostatní plavidla budou muset změnit směr nebo snížit rychlost plavby.",
+      "protože vůdci ostatních plavidel jsou povinni upravit směr a rychlost plavby nebo zastavit."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-097",
+    "set": "PP2 2015",
+    "num": 97,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Plavidlo, které není malým, hodlající provést obrat doprava, na svůj záměr včas upozorní signálem:",
+    "correct": "jeden dlouhý zvuk, za kterým následuje jeden krátký zvuk.",
+    "wrong": [
+      "dva dlouhé zvuky, za kterými následuje jeden krátký zvuk.",
+      "dva krátké zvuky, za kterými následuje jeden dlouhý zvuk."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-098",
+    "set": "PP2 2015",
+    "num": 98,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Plavidlo, které není malým, hodlající provést obrat doleva, musí na svůj záměr upozornit včas signálem:",
+    "correct": "jeden dlouhý zvuk, za kterým následují dva krátké zvuky.",
+    "wrong": [
+      "dva dlouhé zvuky, za kterými následují dva krátké zvuky.",
+      "dva dlouhé zvuky, za kterými následuje jeden krátký zvuk."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-099",
+    "set": "PP2 2015",
+    "num": 99,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Plavidla mohou plout vedle sebe:",
+    "correct": "jen je-li k tomu dostatečný prostor a nevytvoří-li se tím překážka nebo nebezpečí pro plavbu.",
+    "wrong": [
+      "jen pokud jim to umožní plavební značení, přičemž ostatní plavidla musí dbát, aby neomezila ani neohrozila tento způsob plavby.",
+      "jen pokud je mezi plavidly plovoucí odrazník, který musí být plovoucí, aby se předešlo poškození boků plavidel."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-100",
+    "set": "PP2 2015",
+    "num": 100,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Nese-li plavidlo více než jedno modré světlo nebo více než jeden modrý kužel vrcholem dolů a nejedná se o předjíždění nebo potkávání, je třeba plout ve vzdálenosti:",
+    "correct": "více než 50 m od tohoto plavidla.",
+    "wrong": [
+      "více než 25 m od tohoto plavidla.",
+      "více než 10 m od tohoto plavidla."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-101",
+    "set": "PP2 2015",
+    "num": 101,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Přibližovat se k boku plavidla, které pluje, vyvazovat se na ně nebo plout těsně za ním lze jen:",
+    "correct": "s výslovným souhlasem jeho vůdce.",
+    "wrong": [
+      "s povolením plavebního úřadu.",
+      "pokud je plavební dráha dostatečně široká."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-102",
+    "set": "PP2 2015",
+    "num": 102,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Aby se zabránilo škodám na stojících nebo plujících plavidlech nebo na stavbách na vodní cestě, musí plavidlo:",
+    "correct": "upravit rychlost plavby tak, aby nevznikalo nadměrné vlnobití nebo sání.",
+    "wrong": [
+      "vypnout chod motorů a bezpečně proplout setrvačností co nejdále od těchto plavidel nebo staveb.",
+      "snížit rychlost plavby, která nesmí být vyšší než 5 km/hodinu vůči těmto plavidlům nebo stavbám."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-103",
+    "set": "PP2 2015",
+    "num": 103,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Plavidlo sníží včas rychlost své plavby tak, aby nevznikalo nadměrné vlnobití nebo sání:",
+    "correct": "před vjezdem do přístavu",
+    "wrong": [
+      "při proplouvání mostním polem.",
+      "při předjíždění ostatních plavidel."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-104",
+    "set": "PP2 2015",
+    "num": 104,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Plavidlo sníží rychlost své plavby tak, aby nevznikalo nadměrné vlnobití nebo sání:",
+    "correct": "v blízkosti plavidel vyvázaných ke břehu nebo k přístavním můstkům a v blízkosti plavidel, která se nakládají nebo vykládají.",
+    "wrong": [
+      "v blízkosti plavidel plujících samotíží.",
+      "v blízkosti vyhrazených ploch pro vodní lyžování."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-105",
+    "set": "PP2 2015",
+    "num": 105,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Plavidlo sníží rychlost své plavby tak, aby nevznikalo nadměrné vlnobití nebo sání:",
+    "correct": "v blízkosti plavidel, která stojí na obvyklých stanovištích.",
+    "wrong": [
+      "v blízkosti převozních lodí, které plují volně.",
+      "v plochách, která jsou vyhrazena pro vodní lyžování."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-106",
+    "set": "PP2 2015",
+    "num": 106,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Plavidla upraví rychlost své plavby tak, aby nevznikalo nadměrné vlnobití nebo sání:",
+    "correct": "v blízkosti převozních lodí, které neplují volně.",
+    "wrong": [
+      "v blízkosti mostů nebo lávek přes vodní cestu.",
+      "v blízkosti podélných nebo příčných hrázek regulace vodní cesty."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-107",
+    "set": "PP2 2015",
+    "num": 107,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Blokuje-li lano převozní lodě plavební dráhu:",
+    "correct": "mohou připlouvající plavidla přiměřeně včas požádat o uvolnění plavební dráhy zvukovým signálem \"jeden dlouhý zvuk\".",
+    "wrong": [
+      "musí připlouvající plavidla včas zastavit a zůstat stát tak dlouho, dokud plavební dráha nebude volná a převozní loď nedá zvukový signál \"jeden dlouhý zvuk\".",
+      "nesmějí připlouvající plavidla používat akustické signalizace, aby si tím vynutila uvolnění plavební dráhy."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-108",
+    "set": "PP2 2015",
+    "num": 108,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Jsou-li některá mostní pole označena jedním nebo několika červenými světly nebo červenými tabulemi s vodorovným bílým pruhem uprostřed, je proplutí těmito mostními poli:",
+    "correct": "zakázáno.",
+    "wrong": [
+      "zakázáno, zákaz se nevztahuje na malá plavidla.",
+      "zakázáno, zákaz se nevztahuje na malá plavidla bez vlastního pohonu a bez plachet."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-109",
+    "set": "PP2 2015",
+    "num": 109,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Jsou-li některá mostní pole označena nad profilem jednou nebo dvěma žlutými tabulemi:",
+    "correct": "proplouvá se přednostně těmito mostními poli.",
+    "wrong": [
+      "musí se proplouvat těmito mostními poli.",
+      "proplouvat těmito mostními poli je zakázáno."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-110",
+    "set": "PP2 2015",
+    "num": 110,
+    "topic": "Pravidla plavebního provozu",
+    "q": "V blízkosti pohyblivých mostů je předjíždění možné:",
+    "correct": "jen na zvláštní pokyn obsluhy mostu.",
+    "wrong": [
+      "až po otevření mostu pro proplutí.",
+      "je-li pro předjíždění dostatečná šířka mostního pole."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-111",
+    "set": "PP2 2015",
+    "num": 111,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Neproplavují-li se malá plavidla společně s plavidly, která nejsou malými, proplavení probíhá v pořadí:",
+    "correct": "v jakém plavidla připlula do míst určených pro čekání plavidel.",
+    "wrong": [
+      "jaké určí obsluha plavební komory.",
+      "v jakém se plavidla ohlásila obsluze plavební komory."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-112",
+    "set": "PP2 2015",
+    "num": 112,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Vplouvání do plavebních komor se řídí:",
+    "correct": "ve dne i v noci optickými signály, osazenými na jedné nebo na obou stranách plavební komory.",
+    "wrong": [
+      "ve dne i v noci pomocí radiotelefonního spojení.",
+      "ve dne optickými signály osazenými alespoň na jedné straně plavební komory a v noci pomocí radiotelefonního spojení."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-113",
+    "set": "PP2 2015",
+    "num": 113,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Dvě červená světla nad sebou, osazená na jedné nebo na obou stranách plavební komory znamená, že:",
+    "correct": "vplutí není možné, plavební komora není v provozu.",
+    "wrong": [
+      "vplutí není možné, připravuje se otevření plavební komory.",
+      "vplutí není možné, bude proplaveno plavidlo s předností v plavbě."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-114",
+    "set": "PP2 2015",
+    "num": 114,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Jedno červené nebo dvě červená světla vedle sebe, osazená na jedné nebo na obou stranách plavební komory znamená, že:",
+    "correct": "vplutí není možné, plavební komora je zavřena.",
+    "wrong": [
+      "vplutí do plavební komory je možné pouze na vlastní nebezpečí.",
+      "vplutí není možné, plavební komora není v provozu."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-115",
+    "set": "PP2 2015",
+    "num": 115,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Jedno červené a jedno zelené světlo vedle sebe osazené na jedné nebo obou stranách plavební komory znamená, že:",
+    "correct": "vplutí není možné, připravuje se otevření plavební komory.",
+    "wrong": [
+      "vplutí je možné, plavební komora je připravena k proplavování.",
+      "proplavování plavební komorou je omezeno, proplaví se jenom jedno plavidlo."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-116",
+    "set": "PP2 2015",
+    "num": 116,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Jedno zelené světlo nebo dvě zelená světla vedle sebe osazená na jedné nebo obou stranách plavební komory znamená, že:",
+    "correct": "vplutí je možné.",
+    "wrong": [
+      "vplutí je omezeno, v plavební komoře je překážka.",
+      "vplutí není možné, připravuje se otevření plavební komory."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-117",
+    "set": "PP2 2015",
+    "num": 117,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Plavidlo vybavené zařízením pro radiotelefonní spojení, v obvodech plavebních komor a v plavebních komorách:",
+    "correct": "zajistí poslech na kmitočtovém kanálu vyhrazeném pro danou plavební komoru.",
+    "wrong": [
+      "vypne tuto stanici, aby nemohlo dojít k rušení v radiotelefonní síti dané plavební komory.",
+      "přeladí na kmitočtový kanál pro tísňové volání a je na příjmu po celou dobu proplavování."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-118",
+    "set": "PP2 2015",
+    "num": 118,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Jedno nebo dvě červená světla osazená na plavební komoře, při vyplouvání znamená, že:",
+    "correct": "vyplutí není možné.",
+    "wrong": [
+      "vyplutí není možné, výjimku ze zákazu může povolit obsluha plavební komory.",
+      "vyplutí není možné, jsou-li však vrata plavební komory již pootevřena, smějí vyplout malá plavidla."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-119",
+    "set": "PP2 2015",
+    "num": 119,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Proplavují-li se malá plavidla společně s plavidly, která nejsou malými:",
+    "correct": "vplují do plavební komory až po těchto plavidlech.",
+    "wrong": [
+      "vplují do plavební komory před těmito plavidly.",
+      "vplují do plavební komory v pořadí, ve kterém připlula do míst určených pro čekání plavidel."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-120",
+    "set": "PP2 2015",
+    "num": 120,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Při připlouvání do obvodů plavebních komor a v místech určených pro čekání plavidel nelze:",
+    "correct": "předjíždět.",
+    "wrong": [
+      "se potkávat.",
+      "se potkávat a předjíždět."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-121",
+    "set": "PP2 2015",
+    "num": 121,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Není-li plavební komora osazena signálními světly nebo nejsou-li tato světla funkční:",
+    "correct": "nelze vplout do plavební komory nebo vyplout z ní bez pokynu obsluhy plavební komory.",
+    "wrong": [
+      "lze vplout do plavební komory a vyplout z ní jen s největší opatrností.",
+      "je vplutí do plavební komory a vyplutí z ní možné, nejsou-li v obvodu plavební komory zjevné překážky."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-122",
+    "set": "PP2 2015",
+    "num": 122,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Kotvy plavidel musí být zdviženy:",
+    "correct": "úplně v plavebních komorách, ale i v místech určených pro čekání u plavebních komor, pokud nejsou použity k zakotvení plavidel.",
+    "wrong": [
+      "do úrovně hladiny vody v plavebních komorách a v místech určených pro čekání u plavebních komor, aby je bylo možno v případě potřeby snadno použít.",
+      "pokud nejsou použity k zakotvení v plavební komoře nebo v místě pro čekání u plavebních komor."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-123",
+    "set": "PP2 2015",
+    "num": 123,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Při vplouvání do plavebních komor plavidla:",
+    "correct": "sníží rychlost tak, aby nedošlo k nárazu do vrat nebo ochranných zařízení nebo do jiných plavidel.",
+    "wrong": [
+      "vplouvají a vyvazují se tak rychle, aby nezdržovala ostatní plavidla vplouvající do plavební komory.",
+      "plují nejnižší povolenou rychlostí, která je pro plavbu v obvodu plavebních komor stanovena na 3 km/h."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-124",
+    "set": "PP2 2015",
+    "num": 124,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Jsou-li na zdech plavební komory vyznačené meze vyznačených stání:",
+    "correct": "stojí plavidla v mezích těchto stání.",
+    "wrong": [
+      "udržují se plavidla v mezích těchto stání, pokud jim to práce s lany v plavební komoře dovolí.",
+      "smějí vyznačené meze přesahovat jenom plavidla, která jsou proplavována z horní vody."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-125",
+    "set": "PP2 2015",
+    "num": 125,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Použití odrazníků v plavební komoře:",
+    "correct": "je nezbytné, jsou-li odrazníky použité na plavidle snímatelné, musí být plovoucí.",
+    "wrong": [
+      "není na plavidle třeba.",
+      "je na plavidle zakázáno, pokud jsou plovoucí."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-126",
+    "set": "PP2 2015",
+    "num": 126,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Malá plavidla v plavebních komorách:",
+    "correct": "udržují bezpečný odstup od ostatních plavidel.",
+    "wrong": [
+      "zachovávají vzdálenost nejméně 5 m od ostatních plavidel.",
+      "zajišťují boční odstup od stěn plavebních komor pomocí háčků nebo okovaných bidel."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-127",
+    "set": "PP2 2015",
+    "num": 127,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Přednost při proplavení plavební komorou mají plavidla:",
+    "correct": "která signalizují modrým blikavým světlem, viditelným ze všech stran.",
+    "wrong": [
+      "která signalizují žlutým světlem, viditelným ze všech stran.",
+      "která nesou modré světlo, viditelné ze všech stran."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-128",
+    "set": "PP2 2015",
+    "num": 128,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Přednost při proplavení plavební komorou mají plavidla, která nesou:",
+    "correct": "na přídi červený plamenec.",
+    "wrong": [
+      "na stěžni modrý kužel vrcholem dolů.",
+      "tuhou maketu vlajky \"A\" Mezinárodního vlajkového kódu."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-129",
+    "set": "PP2 2015",
+    "num": 129,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Při plavbě za snížené viditelnosti plavidlo:",
+    "correct": "přizpůsobí rychlost plavby stavu viditelnosti, místním podmínkám a provozu ostatních plavidel.",
+    "wrong": [
+      "zvýší rychlost plavby tak, aby v co nejkratším čase doplulo do nejbližšího přístavu.",
+      "musí po svém pravém boku ponechat dostatek místa pro případné potkávání."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-130",
+    "set": "PP2 2015",
+    "num": 130,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Při zastavení z důvodu snížené viditelnosti:",
+    "correct": "ponechá plavidlo plavební dráhu podle možnosti volnou.",
+    "wrong": [
+      "opakuje plavidlo řady úderů na zvon.",
+      "nesmějí být na plavidle cestující."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-131",
+    "set": "PP2 2015",
+    "num": 131,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Malé plavidlo plující za snížené viditelnosti:",
+    "correct": "má nastavenou rádiovou stanici na kmitočtovém kanálu pro spojení mezi plavidly.",
+    "wrong": [
+      "nesmí používat rádiovou stanici.",
+      "nemusí být rádiovou stanicí vybaveno."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-132",
+    "set": "PP2 2015",
+    "num": 132,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Dostane-li se malé plavidlo za plavby do podmínek snížené viditelnosti, při které nelze rozeznat jiná plavidla, zejména při mlze, a pluje bez pomocí radiolokátoru:",
+    "correct": "může při zachování zvláštní pozornosti doplout na nejbližší vhodné místo pro bezpečné stání.",
+    "wrong": [
+      "může pokračovat v plavbě bez zvláštních omezení.",
+      "musí zůstat stát u pravého břehu."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-133",
+    "set": "PP2 2015",
+    "num": 133,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Malé plavidlo plující za snížené viditelnosti bez pomoci radiolokátoru dává signál:",
+    "correct": "jeden dlouhý zvuk, opakující se v intervalech ne delších než jedna minuta.",
+    "wrong": [
+      "jeden dlouhý zvuk mezi dvěma krátkými zvuky, tento signál se opakuje v intervalu delším než 1 minuta.",
+      "jeden krátký zvuk, který opakuje v minutových intervalech"
+    ],
+    "img": null
+  },
+  {
+    "id": "M-134",
+    "set": "PP2 2015",
+    "num": 134,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Provozovat vodní lyžování a obdobné činnosti provozované ve vleku za plavidlem je:",
+    "correct": "zakázáno v noci nebo za snížené viditelnosti.",
+    "wrong": [
+      "povoleno ve dne nebo v noci při dobrém osvětlení.",
+      "povoleno v noci, ale zakázáno při snížené viditelnosti."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-135",
+    "set": "PP2 2015",
+    "num": 135,
+    "topic": "Pravidla plavebního provozu",
+    "q": "S vůdcem plavidla, které vleče lyžaře, musí být přítomna na palubě osoba, která je:",
+    "correct": "schopna obsluhovat vlečné zařízení a sledovat lyžaře.",
+    "wrong": [
+      "oprávněna předávat vůdci plavidla pokyny lyžaře.",
+      "rovněž vůdcem plavidla a zároveň je držitelem průkazu vodního lyžaře."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-136",
+    "set": "PP2 2015",
+    "num": 136,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Plavidlo vlekoucí vodního lyžaře se smí pohybovat:",
+    "correct": "jen ve vymezené vodní ploše určené a vyznačené pro vodní lyžování.",
+    "wrong": [
+      "v úsecích vodních cest, určených a vyznačených pro vodní sporty.",
+      "pouze v plavební dráze, vyznačené pro provozování plavby."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-137",
+    "set": "PP2 2015",
+    "num": 137,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Vlečné lano při vodním lyžování nesmí být vlečeno za plavidlem:",
+    "correct": "pokud se ho nedrží vodní lyžař.",
+    "wrong": [
+      "není-li toto lano plovoucí.",
+      "jestliže délka lana přesahuje 10 m."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-138",
+    "set": "PP2 2015",
+    "num": 138,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Od plavidla, které zajišťuje činnost pod vodní hladinou a signalizuje tuhou maketou vlajky \"A\", musejí všechna plavidla zachovávat bezpečnou vzdálenost:",
+    "correct": "alespoň 50 m.",
+    "wrong": [
+      "25 m.",
+      "více než 10 m."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-139",
+    "set": "PP2 2015",
+    "num": 139,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Plavidla stojí tak blízko břehu, jak jim to dovoluje:",
+    "correct": "jejich ponor a místní podmínky, vždy však tak, aby nepřekážela proplouvání jiných plavidel.",
+    "wrong": [
+      "jejich šířka, ale aby zejména mezi břehem a plavidlem nebyla s ohledem na provoz ostatních plavidel bezpečnostní vzdálenost větší než 3 m.",
+      "délka přechodové lávky, zvláště pak s ohledem na bezpečnost posádky a ostatních osob na plavidle ve vztahu k jejímu sklonu."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-140",
+    "set": "PP2 2015",
+    "num": 140,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Stojící plavidla kotví nebo se vyvazují tak:",
+    "correct": "aby nemohla změnit svoji polohu a ohrozit tím jiná plavidla nebo jim překážet.",
+    "wrong": [
+      "aby způsob zakotvení nebo vyvázání odpovídal postupu, vyznačeném na příslušném plavebním znaku.",
+      "aby jejich přídě směřovaly vždy proti proudu a na plavidlo byl zajištěn bezpečný přechod po přechodové lávce."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-141",
+    "set": "PP2 2015",
+    "num": 141,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Pod mosty a pod elektrickým vedením vysokého napětí:",
+    "correct": "plavidla nesmí stát.",
+    "wrong": [
+      "nesmí stát plavidla, která nejsou malými.",
+      "nesmí plavidla stát, pokud je šířka plavební dráhy zúžena mostními pilíři nebo stožáry vysokého napětí."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-142",
+    "set": "PP2 2015",
+    "num": 142,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Ve vjezdech do přítoků a výjezdech z nich a ve vjezdech do přístavů:",
+    "correct": "plavidla nesmí stát.",
+    "wrong": [
+      "nesmí stát plavidla, která nejsou malými.",
+      "nesmí plavidla, kromě plavidel bez vlastního pohonu a plachetnic, stát."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-143",
+    "set": "PP2 2015",
+    "num": 143,
+    "topic": "Pravidla plavebního provozu",
+    "q": "V úsecích vyznačených obratišť nesmí stát:",
+    "correct": "všechna plavidla.",
+    "wrong": [
+      "plavidla s vlastním pohonem.",
+      "kromě malých plavidel, všechna ostatní plavidla."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-144",
+    "set": "PP2 2015",
+    "num": 144,
+    "topic": "Pravidla plavebního provozu",
+    "q": "V úsecích vodních cest, kde je stání na kotvě zakázáno signálním znakem zákaz kotvení:",
+    "correct": "nesmějí plavidla kotvit na té straně vodní cesty, na které je tento znak umístěn.",
+    "wrong": [
+      "nesmějí plavidla kotvit ani na protilehlé straně, než je tento znak umístěn.",
+      "mohou plavidla zakotvit teprve po té, kdy rychlost plavby byla znatelně zpomalena zpětným chodem strojního pohonu."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-145",
+    "set": "PP2 2015",
+    "num": 145,
+    "topic": "Pravidla plavebního provozu",
+    "q": "V úsecích vodních cest, kde je vyvazování zakázáno signálním znakem zákaz vyvazování ke břehu:",
+    "correct": "nesmějí se plavidla vyvazovat na té straně vodní cesty, na které je tento znak umístěn.",
+    "wrong": [
+      "nesmějí se plavidla vyvazovat ani na protilehlé straně, než je tento znak umístěn.",
+      "se nesmějí vyvazovat pouze plavidla s větším ponorem než je v tomto úseku povolen."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-146",
+    "set": "PP2 2015",
+    "num": 146,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Pro vyvazování nebo uvolňování nasedlých plavidel se nepoužívají:",
+    "correct": "předměty, které neumožňují dostatečně pevné zajištění plavidla, zejména stromy, zábradlí, sloupy, pilíře, patníky, žebříky nebo svodidla.",
+    "wrong": [
+      "zejména stromy, zábradlí, sloupy, pilíře nebo patníky, pokud se před uvázáním lana neochrání obložením, obalením nebo vyztužením.",
+      "stromy, zábradlí, sloupy, pilíře, patníky, žebříky nebo svodidla, jen je-li břeh vybaven dostatečně pevným vyvazovacím zařízením."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-147",
+    "set": "PP2 2015",
+    "num": 147,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Stromy, zábradlí, sloupy, pilíře, patníky, žebříky nebo svodidla se nepoužívají pro:",
+    "correct": "vyvazování nebo uvolňování nasedlých plavidel.",
+    "wrong": [
+      "vyvazování plavidel, lze je v případě potřeby využít pro uvolňování nasedlých plavidel.",
+      "uvolňování nasedlých plavidel, lze je však využít pro vyvazování malých plavidel."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-148",
+    "set": "PP2 2015",
+    "num": 148,
+    "topic": "Pravidla plavebního provozu",
+    "q": "V místech stání označených signálním znakem \"povolené stání\", mohou plavidla stát:",
+    "correct": "jen na té straně vodní cesty, na které je tento znak umístěn.",
+    "wrong": [
+      "i na protilehlé straně, než je tento znak umístěn.",
+      "v celé šířce plavební dráhy."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-149",
+    "set": "PP2 2015",
+    "num": 149,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Od plavidla, které za stání nese dva modré kužele vrcholy dolů nebo dvě modrá světla, smí malé plavidlo stát:",
+    "correct": "v minimální vzdálenosti 50 m.",
+    "wrong": [
+      "ve vzdálenosti 25 m a více.",
+      "ve vzdálenosti asi 10 m."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-150",
+    "set": "PP2 2015",
+    "num": 150,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Od plavidla, které za stání nese jeden modrý kužel vrcholem dolů nebo jedno modré světlo, smí malé plavidlo stát:",
+    "correct": "v minimální vzdálenosti 10 m.",
+    "wrong": [
+      "ve vzdálenosti větší než 5 m.",
+      "u boku takového plavidla, pro malé plavidlo se minimální vzdálenost nestanoví."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-151",
+    "set": "PP2 2015",
+    "num": 151,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Od plavidla, které za stání nese tři modré kužele vrcholy dolů nebo tři modrá světla, smí malé plavidlo stát v minimální vzdálenosti:",
+    "correct": "100 m.",
+    "wrong": [
+      "50 m.",
+      "10 m."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-152",
+    "set": "PP2 2015",
+    "num": 152,
+    "topic": "Pravidla plavebního provozu",
+    "q": "K vlečení, tlačení nebo vedení malých plavidel v bočně svázané sestavě se použije:",
+    "correct": "plavidlo, s takovým výkonem strojů, aby byla zajištěna náležitá manévrovací schopnost sestavy.",
+    "wrong": [
+      "malé plavidlo s výkonem motoru nejméně 110 kW, schopné sestavu zastavit i po proudu.",
+      "malé plavidlo s tříčlennou posádkou, aby mohla být sestava bezpečně proplavena i plavební komorou."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-153",
+    "set": "PP2 2015",
+    "num": 153,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Aby obsazení plavidla cestujícími nebo zatížení plavidla nákladem a jeho rozmístění na plavidle neohrožovalo bezpečnou plavbu, je povinen zajistit:",
+    "correct": "vůdce malého plavidla.",
+    "wrong": [
+      "vlastník malého plavidla nebo jeho provozovatel.",
+      "každý člen posádky malého plavidla."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-154",
+    "set": "PP2 2015",
+    "num": 154,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Malé plavidlo bez vlastního pohonu nebo plachetnice obepluje koupající se osobu:",
+    "correct": "ve vzdálenosti alespoň 3 m.",
+    "wrong": [
+      "ve vzdálenosti alespoň 10 m.",
+      "ve vzdálenosti alespoň 50 m."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-155",
+    "set": "PP2 2015",
+    "num": 155,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Malé plavidlo přibližující se ke koupající se osobě tuto osobu obepluje v bezpečné vzdálenosti a pokud možno tak:",
+    "correct": "aby koupající se zůstal mezi malým plavidlem a nejbližším břehem.",
+    "wrong": [
+      "aby malé plavidlo zůstalo mezi koupajícím se a nejbližším břehem.",
+      "aby břeh zůstal po pravém a koupající se po levém boku plavidla."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-156",
+    "set": "PP2 2015",
+    "num": 156,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Malé plavidlo s vlastním pohonem obepluje koupající se osobu ve vzdálenosti alespoň:",
+    "correct": "10 m.",
+    "wrong": [
+      "50 m.",
+      "3 m"
+    ],
+    "img": null
+  },
+  {
+    "id": "M-157",
+    "set": "PP2 2015",
+    "num": 157,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Malá plavidla při křížení směru plavby jiným než malým plavidlům, udržují vždy bezpečnou vzdálenost:",
+    "correct": "odpovídající nejméně dvojnásobku délky těchto plavidel.",
+    "wrong": [
+      "která je nejméně 200 m.",
+      "alespoň to 50 m před plavidly plujícími proti proudu a 250 m před plavidly plujícími po proudu."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-158",
+    "set": "PP2 2015",
+    "num": 158,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Malé plavidlo musí udržovat od zádě plavidla, které nese v noci na stěžni tři zelená světla rozmístěná do tvaru trojúhelníku, bezpečnou vzdálenost:",
+    "correct": "alespoň 1000 m.",
+    "wrong": [
+      "nejméně 100 m.",
+      "10 m."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-159",
+    "set": "PP2 2015",
+    "num": 159,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Malé plavidlo musí udržovat od plavidla, které nese za dne na stěžni černý balón, pod ním černý dvojitý kužel a pod ním černý balón, bezpečnou vzdálenost:",
+    "correct": "alespoň 50 m.",
+    "wrong": [
+      "nejméně 10 m.",
+      "1 000 m."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-160",
+    "set": "PP2 2015",
+    "num": 160,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Plavbu, při níž dochází k objíždění řady uměle vytvořených překážek, ke skokům nad vodní hladinou nebo k provádění jiných akrobatických činností nebo k rychlostní plavbě, lze provozovat:",
+    "correct": "ve vymezené části vodní cesty plavebním značením.",
+    "wrong": [
+      "jenom na vodních cestách s omezeným plavebním provozem.",
+      "na všech nesledovaných vodních cestách."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-161",
+    "set": "PP2 2015",
+    "num": 161,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Je-li u vymezené vodní plochy pro vodní lyžování signalizováno vytažením žlutého balónu:",
+    "correct": "je vodní plocha právě využívaná vodními lyžaři a vplouvat do této plochy je zakázáno plavidlům, k jejichž provozu nebyla určená.",
+    "wrong": [
+      "vodní plocha není využívaná vodními lyžaři, lze jí proplouvat.",
+      "na vymezené vodní ploše je již překročen nejvyšší povolený počet plavidel, vplutí dalším plavidlům je zakázáno."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-162",
+    "set": "PP2 2015",
+    "num": 162,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Před dosažením vodního stavu ohrožujícího bezpečnost plavby, je vůdce plavidla povinen:",
+    "correct": "umístit plavidlo do přístavu s ochrannou funkcí nebo chráněného místa.",
+    "wrong": [
+      "řádně plavidlo zakotvit nebo vyvázat v přístavu nebo v přístavišti a pravidelně sledovat vývoj vodních stavů.",
+      "upravit rychlost své plavby tak, aby do 6 hodin od vyhlášení zastavení plavby, doplul na nejbližší bezpečné místo."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-163",
+    "set": "PP2 2015",
+    "num": 163,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Plavidla musí být na přehradních zdržích vytažena na břeh nad kótu nejvyššího vzdutí nebo na vhodná místa, umožňující převazování plavidel:",
+    "correct": "před zimním obdobím.",
+    "wrong": [
+      "v období, kdy vydatný déšť trvá déle než sedm dnů.",
+      "pokud nemůže být plavidlo pod dohledem."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-164",
+    "set": "PP2 2015",
+    "num": 164,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Není-li malé plavidlo s vlastním strojním pohonem vybaveno zařízením k měření rychlosti, tam kde jsou stanoveny nejvyšší povolené rychlosti plavby:",
+    "correct": "smí plout pouze rychlostí, odpovídající výtlačnému režimu plavby.",
+    "wrong": [
+      "nesmí plout.",
+      "může být jenom vlečeno, tlačeno nebo vedeno v bočně svázané sestavě."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-165",
+    "set": "PP2 2015",
+    "num": 165,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Na sledované vodní cestě je koupání a potápění zakázáno:",
+    "correct": "do vzdálenosti 100 m od mostu, přístaviště nebo překladiště.",
+    "wrong": [
+      "do vzdálenosti 150 m na obě strany od mostu, přístavního můstku veřejné lodní dopravy nebo překladiště.",
+      "200 m od mostu, 150 m od přístavního můstku a 100 m od překladiště."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-166",
+    "set": "PP2 2015",
+    "num": 166,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Koupání a potápění je zakázáno:",
+    "correct": "v plavební komoře a ve vodní ploše nad a pod plavební komorou až k místu, kde končí zařízení k vyvazování plavidel pro čekání na proplavení, nebo v plavebních kanálech.",
+    "wrong": [
+      "v plavební komoře, v blízkosti jezu a na přehradní nádrži s provozem plavidel, která nejsou malými.",
+      "všude tam, kde není koupání a potápění povoleno signálním znakem koupání a potápění povoleno."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-167",
+    "set": "PP2 2015",
+    "num": 167,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Plavidlo, jehož délka je menší než 20 m, je na něm povoleno přepravovat více než 12 cestujících, a pluje s cestujícími na palubě:",
+    "correct": "se nepoužije v tlačné, vlečné nebo bočně svázané sestavě.",
+    "wrong": [
+      "nese v noci žluté světlo a ve dne žlutý kužel tak vysoko, aby byly viditelné ze všech stran.",
+      "má přednost při proplouvání plavební komorou a jinými místy s řízeným provozem."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-168",
+    "set": "PP2 2015",
+    "num": 168,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Pravidla o proplouvání plavebními komorami platí v celém obvodu plavební komory:",
+    "correct": "až k místům, kde končí zařízení k vyvazování plavidel pro čekání na proplavení.",
+    "wrong": [
+      "až k hlavě dělicí hráze nebo dělicí zdi, která odděluje plavební kanál od vodního toku.",
+      "až k místu, kde končí kanalizovaný úsek a začíná regulovaný úsek sledované vodní cesty."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-169",
+    "set": "PP2 2015",
+    "num": 169,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Plavební komora nesmí být použita ke stání plavidla:",
+    "correct": "přes noc nebo na delší dobu.",
+    "wrong": [
+      "přes den nebo na delší dobu, v noci pak může být použita ke stání plavidla jen se souhlasem obsluhy plavební komory.",
+      "pokud není toho dne ještě ukončen plavební provoz."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-170",
+    "set": "PP2 2015",
+    "num": 170,
+    "topic": "Pravidla plavebního provozu",
+    "q": "Výstup a nástup cestujících na plavidlo v plavební komoře je možný:",
+    "correct": "jen se souhlasem obsluhy plavební komory.",
+    "wrong": [
+      "jen s vědomím vůdce plavidla a po jeho pokynu.",
+      "jen v naléhavých případech."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-171",
+    "set": "PP3 2015",
+    "num": 171,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Tato signalizační světla nese:",
+    "correct": "samostatně plující plavidlo s vlastním pohonem.",
+    "wrong": [
+      "převozní loď, která nepluje volně.",
+      "plavidlo, kterému bylo plavebním úřadem přiznáno oprávnění přednostního proplutí."
+    ],
+    "img": "img/211.jpg"
+  },
+  {
+    "id": "M-172",
+    "set": "PP3 2015",
+    "num": 172,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Tato signalizační světla nese:",
+    "correct": "remorkér v čele vlečné sestavy.",
+    "wrong": [
+      "námořní plavidlo připlouvající právě z moře nebo vyplouvající na moře.",
+      "plavidlo lodivodské služby."
+    ],
+    "img": "img/221.jpg"
+  },
+  {
+    "id": "M-173",
+    "set": "PP3 2015",
+    "num": 173,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Tento válec nese:",
+    "correct": "remorkér v čele vlečné sestavy.",
+    "wrong": [
+      "vlečené plavidlo delší než 110 m.",
+      "plavidlo, které ztratilo manévrovací schopnost."
+    ],
+    "img": "img/222.jpg"
+  },
+  {
+    "id": "M-174",
+    "set": "PP3 2015",
+    "num": 174,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Tato signalizační světla nese:",
+    "correct": "každý z remorkérů v čele sestavy vlečené více remorkéry vedle sebe.",
+    "wrong": [
+      "plavidlo, které vleče rybářské sítě nebo jiné rybolovné zařízení.",
+      "plavidlo vykonávající práci na vodní cestě za plavby."
+    ],
+    "img": "img/223.jpg"
+  },
+  {
+    "id": "M-175",
+    "set": "PP3 2015",
+    "num": 175,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Toto signalizační světlo nese:",
+    "correct": "vlečené plavidlo.",
+    "wrong": [
+      "vlečené plavidlo delší než 110 m.",
+      "převozní plavidlo, které nepluje volně."
+    ],
+    "img": "img/225.jpg"
+  },
+  {
+    "id": "M-176",
+    "set": "PP3 2015",
+    "num": 176,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Tento balón nese:",
+    "correct": "vlečené plavidlo nebo plavidla vlečená jedním nebo několika remorkéry.",
+    "wrong": [
+      "loďka nebo bóje nesoucí lano převozní lodě.",
+      "plavidlo přímo nebo nepřímo vyvázané nebo zakotvené při břehu."
+    ],
+    "img": "img/226.jpg"
+  },
+  {
+    "id": "M-177",
+    "set": "PP3 2015",
+    "num": 177,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Tato signalizační světla nese:",
+    "correct": "tlačná sestava.",
+    "wrong": [
+      "vlečná sestava.",
+      "bočně svázaná sestava."
+    ],
+    "img": "img/231.jpg"
+  },
+  {
+    "id": "M-178",
+    "set": "PP3 2015",
+    "num": 178,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Tato signalizační světla nese:",
+    "correct": "bočně svázaná sestava.",
+    "wrong": [
+      "tlačná sestava.",
+      "vlečná sestava."
+    ],
+    "img": "img/241.jpg"
+  },
+  {
+    "id": "M-179",
+    "set": "PP3 2015",
+    "num": 179,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Tato signalizační světla může nést:",
+    "correct": "plachetnice, která není malým plavidlem.",
+    "wrong": [
+      "každá plachetnice.",
+      "plachetnice, která je malým plavidlem."
+    ],
+    "img": "img/251.jpg"
+  },
+  {
+    "id": "M-180",
+    "set": "PP3 2015",
+    "num": 180,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Tato signalizační světla nese:",
+    "correct": "malé plavidlo s vlastním pohonem.",
+    "wrong": [
+      "malé plavidlo bez vlastního pohonu.",
+      "každé malé plavidlo."
+    ],
+    "img": "img/261.jpg"
+  },
+  {
+    "id": "M-181",
+    "set": "PP3 2015",
+    "num": 181,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Tato signalizační světla nese:",
+    "correct": "malé plavidlo, které vleče nebo vede v bočně svázané sestavě jiné malé plavidlo.",
+    "wrong": [
+      "samostatně plující malé plavidlo s vlastním pohonem, jehož délka nepřesahuje 7 m.",
+      "vlečené nebo v bočně svázané sestavě vedené malé plavidlo."
+    ],
+    "img": "img/261BA.jpg"
+  },
+  {
+    "id": "M-182",
+    "set": "PP3 2015",
+    "num": 182,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Toto signalizační světlo nese:",
+    "correct": "malé plavidlo s vlastním pohonem, jehož délka nepřesahuje 7 m.",
+    "wrong": [
+      "každé malé plavidlo s vlastním pohonem.",
+      "malé plavidlo, které vleče jiné malé plavidlo."
+    ],
+    "img": "img/261D.jpg"
+  },
+  {
+    "id": "M-183",
+    "set": "PP3 2015",
+    "num": 183,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Toto signalizační světlo nese:",
+    "correct": "vlečená nebo v bočně svázané sestavě vedená malá plavidla.",
+    "wrong": [
+      "pouze vlečená malá plavidla.",
+      "převozní loď, která nepluje volně."
+    ],
+    "img": "img/262.jpg"
+  },
+  {
+    "id": "M-184",
+    "set": "PP3 2015",
+    "num": 184,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Tato signalizační světla nese:",
+    "correct": "plachetnice, která je malým plavidlem, jejíž délka přesahuje 7 m.",
+    "wrong": [
+      "každá plachetnice.",
+      "malé plavidlo, plující pomocí plachet a strojního pohonu současně."
+    ],
+    "img": "img/263.jpg"
+  },
+  {
+    "id": "M-185",
+    "set": "PP3 2015",
+    "num": 185,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Tato signalizační světla nese:",
+    "correct": "plachetnice, která je malým plavidlem a jejíž délka přesahuje 7 m.",
+    "wrong": [
+      "plachetnice, která je malým plavidlem a jejíž délka nepřesahuje 7 m.",
+      "každé plující malé plavidlo."
+    ],
+    "img": "img/263A.jpg"
+  },
+  {
+    "id": "M-186",
+    "set": "PP3 2015",
+    "num": 186,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Tato signalizační světla nese:",
+    "correct": "plachetnice, jejíž délka nepřesahuje 7 m.",
+    "wrong": [
+      "malé plavidlo plující pomocí plachet a strojního pohonu současně.",
+      "plachetnice, která je malým plavidlem, jejíž délka přesahuje 7 m."
+    ],
+    "img": "img/263B.jpg"
+  },
+  {
+    "id": "M-187",
+    "set": "PP3 2015",
+    "num": 187,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Toto signalizační světlo nese:",
+    "correct": "samostatně plující malé plavidlo, které nemá vlastní pohon ani plachty.",
+    "wrong": [
+      "samostatně plující malé plavidlo s vlastním pohonem do výkonu 5,4 kW.",
+      "samostatně plující malé plavidlo bez vlastního pohonu s plochou plachet do 10 m2."
+    ],
+    "img": "img/264.jpg"
+  },
+  {
+    "id": "M-188",
+    "set": "PP3 2015",
+    "num": 188,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Tato signalizační světla nese:",
+    "correct": "malé plavidlo plující pomocí plachet a strojního pohonu současně.",
+    "wrong": [
+      "vlečená nebo v bočně svázané sestavě vedená plachetnice, která je malým plavidlem.",
+      "plachetnice, která je malým plavidlem."
+    ],
+    "img": "img/265.jpg"
+  },
+  {
+    "id": "M-189",
+    "set": "PP3 2015",
+    "num": 189,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Tento kužel nese:",
+    "correct": "malé plavidlo plující pomocí plachet a strojního pohonu současně.",
+    "wrong": [
+      "malé plavidlo stojící na volné vodní ploše.",
+      "plachetnice, nepřesahuje-li délku 7 m."
+    ],
+    "img": "img/266.jpg"
+  },
+  {
+    "id": "M-190",
+    "set": "PP3 2015",
+    "num": 190,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Tento dvojitý kužel nese:",
+    "correct": "plavidlo, na kterém je povoleno přepravovat více než 12 cestujících a nepřesahuje délku 20 metrů.",
+    "wrong": [
+      "plavidlo, které při dezinfekci může ohrozit zdraví a životy lidí.",
+      "vlečené plavidlo nebo plavidlo na konci sestavy."
+    ],
+    "img": "img/271.jpg"
+  },
+  {
+    "id": "M-191",
+    "set": "PP3 2015",
+    "num": 191,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Toto signalizační světlo nese:",
+    "correct": "plavidlo přepravující nebezpečné věci.",
+    "wrong": [
+      "volně plující převozní loď.",
+      "plavidlo, na kterém je povoleno přepravovat více než 12 cestujících a nepřesahuje délku 20 metrů."
+    ],
+    "img": "img/281.jpg"
+  },
+  {
+    "id": "M-192",
+    "set": "PP3 2015",
+    "num": 192,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Tento kužel nese:",
+    "correct": "plavidlo přepravující nebezpečné věci.",
+    "wrong": [
+      "malé plavidlo plující pomocí plachet a strojního pohonu současně.",
+      "plavidlo, kterému bylo přiznáno oprávnění přednostního proplutí."
+    ],
+    "img": "img/282.jpg"
+  },
+  {
+    "id": "M-193",
+    "set": "PP3 2015",
+    "num": 193,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Tato signalizační světla nese:",
+    "correct": "převozní loď, která nepluje volně.",
+    "wrong": [
+      "vlečené plavidlo přepravující nebezpečný náklad.",
+      "plavidlo, které ztratilo manévrovací schopnost."
+    ],
+    "img": "img/291.jpg"
+  },
+  {
+    "id": "M-194",
+    "set": "PP3 2015",
+    "num": 194,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Tento balón nese:",
+    "correct": "převozní loď, která nepluje volně.",
+    "wrong": [
+      "malé plavidlo s vlastním pohonem, jehož délka přesahuje 7 m.",
+      "rybářská síť nebo jiné rybolovné zařízení."
+    ],
+    "img": "img/292.jpg"
+  },
+  {
+    "id": "M-195",
+    "set": "PP3 2015",
+    "num": 195,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Toto signalizační světlo nese:",
+    "correct": "loďka nebo plovák nesoucí vodící lano převozní lodě.",
+    "wrong": [
+      "vyvázané a zakotvené plavidlo, vykonávající práci na vodní cestě.",
+      "plavidlo právě zajišťující činnost potápěčů pod vodní hladinou."
+    ],
+    "img": "img/293.jpg"
+  },
+  {
+    "id": "M-196",
+    "set": "PP3 2015",
+    "num": 196,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Tato signalizační světla nese:",
+    "correct": "volně plující převozní loď.",
+    "wrong": [
+      "tlačná sestava.",
+      "plavidlo přepravující nebezpečné věci."
+    ],
+    "img": "img/294.jpg"
+  },
+  {
+    "id": "M-197",
+    "set": "PP3 2015",
+    "num": 197,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Tento balón nese:",
+    "correct": "volně plující převozní loď.",
+    "wrong": [
+      "plavidlo stojící na volné vodní ploše.",
+      "plavidlo přepravující nebezpečné věci."
+    ],
+    "img": "img/295.jpg"
+  },
+  {
+    "id": "M-198",
+    "set": "PP3 2015",
+    "num": 198,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Kývání červeným světlem v půlkruhu (na malém plavidle lze bílým světlem), znamená:",
+    "correct": "plavidlo ztratilo manévrovací schopnost.",
+    "wrong": [
+      "plavidlo v nouzi, které potřebuje pomoc.",
+      "předjetí není možné s ohledem na ostatní provoz plavidel."
+    ],
+    "img": "img/2101.jpg"
+  },
+  {
+    "id": "M-199",
+    "set": "PP3 2015",
+    "num": 199,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Kývání červenou vlajkou v půlkruhu znamená:",
+    "correct": "plavidlo ztratilo manévrovací schopnost.",
+    "wrong": [
+      "plavidlo v nouzi, které potřebuje pomoc.",
+      "plavidlo, které má oprávnění přednostního proplutí."
+    ],
+    "img": "img/2102.jpg"
+  },
+  {
+    "id": "M-200",
+    "set": "PP3 2015",
+    "num": 200,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Tato signalizační světla nese:",
+    "correct": "plavidlo, které ztratilo manévrovací schopnost.",
+    "wrong": [
+      "plavidlo, které přepravuje nebezpečné věci.",
+      "volně plující převozní loď, které vyžaduje přednost v plavbě."
+    ],
+    "img": "img/2101A.jpg"
+  },
+  {
+    "id": "M-201",
+    "set": "PP3 2015",
+    "num": 201,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Tyto balóny nese:",
+    "correct": "plavidlo, které ztratilo manévrovací schopnost.",
+    "wrong": [
+      "plavidlo stojící na volné vodní ploše.",
+      "plavidlo zabývající se rybolovem."
+    ],
+    "img": "img/2102A.jpg"
+  },
+  {
+    "id": "M-202",
+    "set": "PP3 2015",
+    "num": 202,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Tento plamenec nese:",
+    "correct": "plavidlo, které má oprávnění přednostního proplutí.",
+    "wrong": [
+      "plavidlo, které přepravuje nebezpečné látky.",
+      "plavidlo lodivodské služby."
+    ],
+    "img": "img/2121.jpg"
+  },
+  {
+    "id": "M-203",
+    "set": "PP3 2015",
+    "num": 203,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Tento balón nese:",
+    "correct": "plavidlo stojící bez přímého nebo nepřímého přístupu na břeh.",
+    "wrong": [
+      "plavidlo zajišťující činnost pod vodní hladinou.",
+      "plavidlo použité při zneškodňování výbušnin."
+    ],
+    "img": "img/313.jpg"
+  },
+  {
+    "id": "M-204",
+    "set": "PP3 2015",
+    "num": 204,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Tato signalizační světla nese:",
+    "correct": "rybářská síť nebo jiné rybolovné zařízení.",
+    "wrong": [
+      "speciální síť použitá při zneškodňování výbušnin.",
+      "ochranná síť potápěčů při práci pod hladinou vody."
+    ],
+    "img": "img/351.jpg"
+  },
+  {
+    "id": "M-205",
+    "set": "PP3 2015",
+    "num": 205,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Tuto denní signalizaci nese:",
+    "correct": "rybářská síť nebo jiné rybolovné zařízení.",
+    "wrong": [
+      "síť použitá při zneškodňování výbušnin.",
+      "ochranná síť potápěčů při práci pod hladinou vody."
+    ],
+    "img": "img/352.jpg"
+  },
+  {
+    "id": "M-206",
+    "set": "PP3 2015",
+    "num": 206,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Tato signalizační světla nese:",
+    "correct": "plovoucí stroj nebo plavidlo vykonávající práci na vodní cestě na místě a lze je obeplout z obou stran.",
+    "wrong": [
+      "volně plující převozní loď stojící na svém stanovišti, která právě ukončila provoz.",
+      "plavidlo, které ztratilo manévrovací schopnost, proplutí není možné."
+    ],
+    "img": "img/362b.jpg"
+  },
+  {
+    "id": "M-207",
+    "set": "PP3 2015",
+    "num": 207,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Tyto denní signalizační znaky nese:",
+    "correct": "plovoucí stroj nebo plavidlo vykonávající práci na vodní cestě na místě, které lze obeplout z obou stran.",
+    "wrong": [
+      "převozní loď, která nepluje volně a stojí na svém stanovišti.",
+      "plavidlo, které ztratilo manévrovací schopnost a lze je obeplout po straně, kde spuštěná kotva nevytváří překážku v plavbě."
+    ],
+    "img": "img/362c.jpg"
+  },
+  {
+    "id": "M-208",
+    "set": "PP3 2015",
+    "num": 208,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Tyto denní signalizační znaky nese:",
+    "correct": "plovoucí stroj nebo plavidlo vykonávající práci na vodní cestě, které lze obeplout po jedné straně.",
+    "wrong": [
+      "plavidlo, které ztratilo manévrovací schopnost.",
+      "plavidlo, které má omezenou možnost manévrování a vyžaduje přistání pomocného plavidla k levému boku."
+    ],
+    "img": "img/362.jpg"
+  },
+  {
+    "id": "M-209",
+    "set": "PP3 2015",
+    "num": 209,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Tyto vlajky nebo tabule nese:",
+    "correct": "plovoucí stroj nebo plavidlo vykonávající práci na vodní cestě nebo nasedlé či potopené plavidlo, které lze obeplout, ale vyžaduje ochranu před vlnobitím.",
+    "wrong": [
+      "plavidlo vykonávající sondážní či měřící operace na místě nebo plavidlo při rybolovu, která nelze obeplout.",
+      "plavidlo, které vleče kotvy lana nebo řetězy a vyžaduje ochranu před sáním a vlnobitím plavidel."
+    ],
+    "img": "img/364b.jpg"
+  },
+  {
+    "id": "M-210",
+    "set": "PP3 2015",
+    "num": 210,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Tyto vlajky nebo tabule nese:",
+    "correct": "plovoucí stroj nebo plavidlo vykonávající práci na vodní cestě nebo nasedlé či potopené plavidlo, které lze obeplout po jedné straně, ale vyžadují ochranu před vlnobitím.",
+    "wrong": [
+      "plovoucí stroj nebo plavidlo vykonávající práci na vodní cestě nebo provádějící sondážní či měřicí operace, znemožňující proplutí ostatních plavidel.",
+      "plavidlo při rybolovu, které vleče rybářské sítě nebo jiná rybolovná zařízení a které je možné obeplout z pravé strany."
+    ],
+    "img": "img/364.jpg"
+  },
+  {
+    "id": "M-211",
+    "set": "PP3 2015",
+    "num": 211,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Tato signalizační světla nese:",
+    "correct": "plovoucí těleso nebo plovoucí zařízení, jehož vhozené kotvy mohou vytvářet nebezpečí pro plavbu.",
+    "wrong": [
+      "každé zakotvené plavidlo, plovoucí těleso nebo plovoucí zařízení.",
+      "jenom plavidlo zajišťující činnost pod vodní hladinou."
+    ],
+    "img": "img/371A.jpg"
+  },
+  {
+    "id": "M-212",
+    "set": "PP3 2015",
+    "num": 212,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Tento žlutý plovák nebo bóji s radarovým odražečem nesou:",
+    "correct": "kotvy plavidel, které mohou vytvářet nebezpečí pro plavbu.",
+    "wrong": [
+      "kotvy použité k zakotvení plavidel.",
+      "všechny kotvy plavidel."
+    ],
+    "img": "img/372.jpg"
+  },
+  {
+    "id": "M-213",
+    "set": "PP3 2015",
+    "num": 213,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Toto signalizační světlo nese:",
+    "correct": "plavidlo plavebního úřadu, Policie ČR, obecní policie, Celní správy a plavidlo složek integrovaného záchranného systému.",
+    "wrong": [
+      "plavidlo přepravující nebezpečné věci, vyžadující zvláštní pozornost v plavbě.",
+      "plavidlo, které poskytuje technickou pomoc jiným plavidlům nebo plavidlo, které vykonává práci na vodní cestě za plavby."
+    ],
+    "img": "img/432.jpg"
+  },
+  {
+    "id": "M-214",
+    "set": "PP3 2015",
+    "num": 214,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Tento signalizační znak umístěný na plavidle znamená:",
+    "correct": "zákaz bočního stání plavidel, ve vzdálenosti vyznačené na znaku v metrech.",
+    "wrong": [
+      "zákaz stání jiných plavidel, ve vzdálenosti vyznačené na znaku v metrech.",
+      "zákaz stání před přídí a zádí plavidla všech malých plavidel, ve vzdálenosti vyznačené na znaku v metrech."
+    ],
+    "img": "img/45.jpg"
+  },
+  {
+    "id": "M-215",
+    "set": "PP3 2015",
+    "num": 215,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Tato signalizační světla nese:",
+    "correct": "plavidlo, které je vážně poškozeno nebo se účastní záchranných prací, ztratilo manévrovací schopnost nebo má povolení plavebního úřadu.",
+    "wrong": [
+      "malé plavidlo, stojí-li mimo přístav, vyhrazené přístaviště nebo kotviště.",
+      "každé plavidlo, které pro povahu své činnosti nebo druh nákladu musí být chráněno před kolísáním vodní hadiny."
+    ],
+    "img": "img/46.jpg"
+  },
+  {
+    "id": "M-216",
+    "set": "PP3 2015",
+    "num": 216,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Tuto tabuli může použít:",
+    "correct": "plavidlo, které se účastní záchranných prací.",
+    "wrong": [
+      "plavidlo, jehož domovským přístavem je Polská republika.",
+      "malé plavidlo s vlastním pohonem, jehož délka přesahuje 7 m."
+    ],
+    "img": "img/46A.jpg"
+  },
+  {
+    "id": "M-217",
+    "set": "PP3 2015",
+    "num": 217,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Toto signalizační světlo nese:",
+    "correct": "plavidlo vykonávající práci na vodní cestě za plavby.",
+    "wrong": [
+      "plavidlo lodivodské služby.",
+      "vysokorychlostní plavidlo."
+    ],
+    "img": "img/47.jpg"
+  },
+  {
+    "id": "M-218",
+    "set": "PP3 2015",
+    "num": 218,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Tato signalizační světla nese:",
+    "correct": "plavidlo, které má omezenou možnost manévrování.",
+    "wrong": [
+      "osobní hotelová loď, jejíž celková délka přesahuje 110 m.",
+      "plavidlo přepravující nebezpečné věci."
+    ],
+    "img": "img/48.jpg"
+  },
+  {
+    "id": "M-219",
+    "set": "PP3 2015",
+    "num": 219,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Tuto denní signalizaci nese:",
+    "correct": "plavidlo, které má omezenou možnost manévrování.",
+    "wrong": [
+      "tlačná sestava stojící bez přímého nebo nepřímého přístupu na břeh.",
+      "plavidlo, které vleče rybářské sítě nebo jiné rybolovné zařízení."
+    ],
+    "img": "img/48A.jpg"
+  },
+  {
+    "id": "M-220",
+    "set": "PP3 2015",
+    "num": 220,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Tato signalizační světla nese:",
+    "correct": "plavidlo, které vleče rybářské sítě nebo jiné rybolovné zařízení.",
+    "wrong": [
+      "volně plující převozní loď s předností v plavbě.",
+      "plavidlo, které vyžaduje za plavby ochranu před vlnobitím."
+    ],
+    "img": "img/491.jpg"
+  },
+  {
+    "id": "M-221",
+    "set": "PP3 2015",
+    "num": 221,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Tyto kužele nese:",
+    "correct": "plavidlo, které vleče rybářské sítě nebo jiné rybolovné zařízení.",
+    "wrong": [
+      "plavidlo, které má omezenou možnost manévrování.",
+      "plavidlo, které stojí bez přímého nebo nepřímého přístupu na břeh."
+    ],
+    "img": "img/491A.jpg"
+  },
+  {
+    "id": "M-222",
+    "set": "PP3 2015",
+    "num": 222,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Tato signalizační světla nese:",
+    "correct": "plavidlo při rybolovu, zasahuje-li rybolovné zařízení do vzdálenosti větší než 150 m od boku plavidla.",
+    "wrong": [
+      "plavidlo, které má omezenou možnost manévrování, proplutí je možné po boku, na kterém nese bílé světlo.",
+      "stojící plavidlo, jehož kotva může na straně, kde nese bílé světlo, vytvářet nebezpečí pro plavbu."
+    ],
+    "img": "img/492.jpg"
+  },
+  {
+    "id": "M-223",
+    "set": "PP3 2015",
+    "num": 223,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Tyto kužele nese:",
+    "correct": "plavidlo při rybolovu, zasahuje-li rybolovné zařízení do vzdálenosti větší než 150 m od boku plavidla.",
+    "wrong": [
+      "plavidlo přepravující nebezpečné věci, vyžadující si signalizaci největším počtem černých kuželů.",
+      "plovoucí stroj nebo plavidlo vykonávající práci na vodní cestě nebo provádějící sondážní či měřicí operace."
+    ],
+    "img": "img/492A.jpg"
+  },
+  {
+    "id": "M-224",
+    "set": "PP3 2015",
+    "num": 224,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Tuto vlajku nese:",
+    "correct": "plavidlo zajišťující činnost pod vodní hladinou.",
+    "wrong": [
+      "plavidlo, které vyžaduje potkávání pravými boky.",
+      "malé plavidlo s vlastním pohonem, jehož délka přesahuje 7 m."
+    ],
+    "img": "img/410.jpg"
+  },
+  {
+    "id": "M-225",
+    "set": "PP3 2015",
+    "num": 225,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Tuto vlajku nese:",
+    "correct": "plavidlo zajišťující činnost pod vodní hladinou.",
+    "wrong": [
+      "plavidlo Státní plavební správy.",
+      "plavidlo, kterému bylo Státní plavební správou přiznáno oprávnění přednostního proplutí."
+    ],
+    "img": "img/410A.jpg"
+  },
+  {
+    "id": "M-226",
+    "set": "PP3 2015",
+    "num": 226,
+    "topic": "Označení plavidel (obrázky)",
+    "q": "Tato signalizační světla nese:",
+    "correct": "plavidlo lodivodské služby.",
+    "wrong": [
+      "plavidlo, které ztratilo manévrovací schopnost.",
+      "plavidlo, které vyžaduje ochranu před nadměrným vlnobitím."
+    ],
+    "img": "img/412.jpg"
+  },
+  {
+    "id": "M-227",
+    "set": "PP4 2015",
+    "num": 227,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Zvukový signál \"1 dlouhý zvuk\" znamená:",
+    "correct": "pozor.",
+    "wrong": [
+      "pluji doprava.",
+      "hodlám zastavit plavbu."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-228",
+    "set": "PP4 2015",
+    "num": 228,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Zvukový signál \"1 krátký zvuk\" znamená:",
+    "correct": "pluji doprava.",
+    "wrong": [
+      "pozor.",
+      "ukončil jsem plavbu."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-229",
+    "set": "PP4 2015",
+    "num": 229,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Zvukový signál \"2 krátké zvuky\" znamená:",
+    "correct": "pluji doleva.",
+    "wrong": [
+      "stroj má zpětný chod.",
+      "pluji se dvěma plavidly v sestavě."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-230",
+    "set": "PP4 2015",
+    "num": 230,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Zvukový signál \"3 krátké zvuky\" znamená:",
+    "correct": "stroj má zpětný chod.",
+    "wrong": [
+      "pozor.",
+      "pluji plnou silou vpřed."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-231",
+    "set": "PP4 2015",
+    "num": 231,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Zvukový signál \"4 krátké zvuky\" znamená:",
+    "correct": "nejsem schopen manévrování.",
+    "wrong": [
+      "stroj má zpětný chod.",
+      "předjetí není možné."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-232",
+    "set": "PP4 2015",
+    "num": 232,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Zvukový signál \"řada velmi krátkých zvuků\" znamená:",
+    "correct": "hrozí nebezpečí kolize.",
+    "wrong": [
+      "pozor.",
+      "signál nouze."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-233",
+    "set": "PP4 2015",
+    "num": 233,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Zvukový signál \"řada dlouhých zvuků\" znamená:",
+    "correct": "signál nouze.",
+    "wrong": [
+      "hrozí nebezpečí kolize.",
+      "pozor."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-234",
+    "set": "PP4 2015",
+    "num": 234,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Zvukový signál \"řady úderů na zvon\" znamená:",
+    "correct": "signál nouze.",
+    "wrong": [
+      "pozor.",
+      "posádka na palubu."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-235",
+    "set": "PP4 2015",
+    "num": 235,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Zvukový signál \"5 krátkých zvuků\" znamená:",
+    "correct": "předjíždění není možné.",
+    "wrong": [
+      "stroj má zpětný chod.",
+      "nejsem schopen manévrování."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-236",
+    "set": "PP4 2015",
+    "num": 236,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Zvukový signál \"1 dlouhý zvuk, za kterým následuje 1 krátký zvuk,\" znamená:",
+    "correct": "mám v úmyslu provést obrat doprava.",
+    "wrong": [
+      "pluji doprava.",
+      "stojím při pravém břehu."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-237",
+    "set": "PP4 2015",
+    "num": 237,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Zvukový signál \"1 dlouhý zvuk, po kterém následují 2 krátké zvuky,\" znamená:",
+    "correct": "mám v úmyslu provést obrat doleva.",
+    "wrong": [
+      "pluji doleva.",
+      "stojím při levém břehu."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-238",
+    "set": "PP4 2015",
+    "num": 238,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Zvukový signál \"3 dlouhé zvuky, po kterých následuje 1 krátký zvuk,\" znamená:",
+    "correct": "mám v úmyslu vyplout z přístavu doprava.",
+    "wrong": [
+      "mám v úmyslu provést obrat doprava.",
+      "mám v úmyslu ukončit plavbu při pravém břehu."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-239",
+    "set": "PP4 2015",
+    "num": 239,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Zvukový signál \"3 dlouhé zvuky, po kterých následují 2 krátké zvuky,\" znamená:",
+    "correct": "mám v úmyslu vplout do přístavu doleva.",
+    "wrong": [
+      "mám v úmyslu provést obrat doleva.",
+      "mám v úmyslu ukončit plavbu při levém břehu."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-240",
+    "set": "PP4 2015",
+    "num": 240,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Zvukový signál \"3 dlouhé zvuky\" znamená:",
+    "correct": "mám v úmyslu přeplout vodní cestu.",
+    "wrong": [
+      "stroj má zpětný chod.",
+      "signál nouze."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-241",
+    "set": "PP4 2015",
+    "num": 241,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Zvukový signál \"1 dlouhý zvuk, opakovaný v intervalech ne delších než 1 minuta,\" dává:",
+    "correct": "samostatně plující plavidlo za snížené viditelnosti.",
+    "wrong": [
+      "malé plavidlo plující za snížené viditelnosti po proudu pomocí radiolokátoru.",
+      "plavidlo stojící za snížené viditelnosti na pravé straně plavební dráhy."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-242",
+    "set": "PP4 2015",
+    "num": 242,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Zvukový signál \"2 dlouhé zvuky, opakující se v intervalech ne delších než 1 minuta,\" dává:",
+    "correct": "sestava plavidel plující za snížené viditelnosti.",
+    "wrong": [
+      "plavidlo stojící za snížené viditelnosti na pravé straně plavební dráhy.",
+      "plavidlo stojící za snížené viditelnosti na levé straně plavební dráhy."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-243",
+    "set": "PP4 2015",
+    "num": 243,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Zvukový signál \"1 řada úderů na zvon, opakovaná v intervalech ne delších než 1 minuta,\" znamená:",
+    "correct": "stojím za snížené viditelnosti na levé straně plavební dráhy.",
+    "wrong": [
+      "stojím za snížené viditelnosti na pravé straně plavební dráhy.",
+      "stojím za snížené viditelnosti v neurčité poloze."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-244",
+    "set": "PP4 2015",
+    "num": 244,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Zvukový signál \"2 řady úderů na zvon, opakované v intervalech ne delších než 1 minuta,\" znamená:",
+    "correct": "stojím za snížené viditelnosti na pravé straně plavební dráhy.",
+    "wrong": [
+      "stojím za snížené viditelnosti na levé straně plavební dráhy.",
+      "stojím za snížené viditelnosti v neurčité poloze."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-245",
+    "set": "PP4 2015",
+    "num": 245,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Zvukový signál 3 řady úderů na zvon, opakované v intervalech ne delších než 1 minuta,\" znamená:",
+    "correct": "stojím za snížené viditelnosti v neurčité poloze.",
+    "wrong": [
+      "stojím za snížené viditelnosti na pravé straně plavební dráhy.",
+      "stojím za snížené viditelnosti na levé straně plavební dráhy."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-246",
+    "set": "PP4 2015",
+    "num": 246,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "zákaz proplutí.",
+    "wrong": [
+      "příkaz zachovat zvláštní pozornost.",
+      "omezení v plavbě, s nímž je nutno se seznámit \"INFORMUJTE SE\"."
+    ],
+    "img": "img/A1a.jpg"
+  },
+  {
+    "id": "M-247",
+    "set": "PP4 2015",
+    "num": 247,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (světlo) znamená:",
+    "correct": "zákaz proplutí.",
+    "wrong": [
+      "příkaz dát zvukový signál \"1 krátký zvuk\".",
+      "doporučené proplavování v jenom směru."
+    ],
+    "img": "img/A1c.jpg"
+  },
+  {
+    "id": "M-248",
+    "set": "PP4 2015",
+    "num": 248,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (vlajka) znamená:",
+    "correct": "zákaz proplutí.",
+    "wrong": [
+      "poškozené vyvazovací zařízení.",
+      "zákaz přibližovat se ke stavbě na vodní cestě, na které je vlajka umístěna."
+    ],
+    "img": "img/A1f.jpg"
+  },
+  {
+    "id": "M-249",
+    "set": "PP4 2015",
+    "num": 249,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (dvě tabule nad sebou) znamená:",
+    "correct": "zákaz proplutí na delší dobu.",
+    "wrong": [
+      "rozdělení plavební dráhy.",
+      "souběžné vodní cesty."
+    ],
+    "img": "img/A1g.jpg"
+  },
+  {
+    "id": "M-250",
+    "set": "PP4 2015",
+    "num": 250,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (dvě světla nad sebou) znamená:",
+    "correct": "zákaz proplutí na delší dobu.",
+    "wrong": [
+      "připravte se k proplutí.",
+      "zákaz vytvářet vlnobití nebo sání."
+    ],
+    "img": "img/A1b.jpg"
+  },
+  {
+    "id": "M-251",
+    "set": "PP4 2015",
+    "num": 251,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (dvě vlajky nad sebou) znamená:",
+    "correct": "zákaz proplutí na delší dobu.",
+    "wrong": [
+      "čerpací stanice pohonných hmot.",
+      "střídavé stání - stání je zakázáno v sudých hodinách."
+    ],
+    "img": "img/A1e.jpg"
+  },
+  {
+    "id": "M-252",
+    "set": "PP4 2015",
+    "num": 252,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "zákaz vplutí do prostoru vyhrazeného pro potápěče.",
+    "wrong": [
+      "konec zákazu nebo příkazu platného pro plavbu v jednom směru.",
+      "příkaz zachovávat zvláštní pozornost v průjezdném poli mostu."
+    ],
+    "img": "img/A11.jpg"
+  },
+  {
+    "id": "M-253",
+    "set": "PP4 2015",
+    "num": 253,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (žlutá bóje, která nese vrcholový znak) znamená:",
+    "correct": "označení místa sestupu potápěčů, zákaz plavby ve vzdálenosti menší než 25 m od bóje.",
+    "wrong": [
+      "označení místa potopeného plavidla (vrak), proplutí je nožné po pravé straně bóje.",
+      "označení místa na vodní hladině, kde končí vedlejší vodní cesta a začíná hlavní vodní cesta."
+    ],
+    "img": "img/A1_1.jpg"
+  },
+  {
+    "id": "M-254",
+    "set": "PP4 2015",
+    "num": 254,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "zákaz předjíždění.",
+    "wrong": [
+      "konec zákazu předjíždění.",
+      "rozdělení plavební dráhy."
+    ],
+    "img": "img/A2.jpg"
+  },
+  {
+    "id": "M-255",
+    "set": "PP4 2015",
+    "num": 255,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "zákaz vzájemného předjíždění sestav.",
+    "wrong": [
+      "konec zákazu předjíždění sestav.",
+      "možnost předjíždět po pravém boku předjížděného plavidla."
+    ],
+    "img": "img/A3.jpg"
+  },
+  {
+    "id": "M-256",
+    "set": "PP4 2015",
+    "num": 256,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "zákaz potkávání a předjíždění.",
+    "wrong": [
+      "zákaz potkávání levými boky.",
+      "konec zákazu potkávání."
+    ],
+    "img": "img/A4.jpg"
+  },
+  {
+    "id": "M-257",
+    "set": "PP4 2015",
+    "num": 257,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "zákaz stání na kotvě nebo vyvazování u břehu.",
+    "wrong": [
+      "zákaz zastavení plavidel a plovoucích těles.",
+      "konec zákazu stání nebo zastavení."
+    ],
+    "img": "img/A5.jpg"
+  },
+  {
+    "id": "M-258",
+    "set": "PP4 2015",
+    "num": 258,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "zákaz stání plavidel v šířce vyznačené na signálním znaku v metrech, počítáno od znaku.",
+    "wrong": [
+      "příkaz nepřekračovat stanovenou rychlost na signálním znaku, v km/h.",
+      "šířka plavebního profilu nebo plavební dráhy je omezena, číslo na signálním znaku stanoví šířku plavebního profilu nebo plavební dráhy v metrech."
+    ],
+    "img": "img/A51.jpg"
+  },
+  {
+    "id": "M-259",
+    "set": "PP4 2015",
+    "num": 259,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "zákaz kotvení, vlečení kotev, lan a řetězů.",
+    "wrong": [
+      "povolené kotvení přídí po proudu.",
+      "konec zákazu kotvení."
+    ],
+    "img": "img/A6.jpg"
+  },
+  {
+    "id": "M-260",
+    "set": "PP4 2015",
+    "num": 260,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "zákaz vyvazování ke břehu.",
+    "wrong": [
+      "zákaz stání na kotvě nebo vyvazování ke břehu.",
+      "konec zákazu stání plavidel u břehu, na kterém je signální znak umístěn."
+    ],
+    "img": "img/A7.jpg"
+  },
+  {
+    "id": "M-261",
+    "set": "PP4 2015",
+    "num": 261,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "zákaz provádět obrat.",
+    "wrong": [
+      "zákaz potkávání malých plavidel s ostatními druhy plavidel.",
+      "zákaz proplutí, ve vyznačeném směru pracují potápěči."
+    ],
+    "img": "img/A8.jpg"
+  },
+  {
+    "id": "M-262",
+    "set": "PP4 2015",
+    "num": 262,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "zákaz vytvářet vlnobití nebo sání.",
+    "wrong": [
+      "zákaz stání pod mostem nebo potrubím.",
+      "pozor, podjezdná výška mostu je omezena."
+    ],
+    "img": "img/A9.jpg"
+  },
+  {
+    "id": "M-263",
+    "set": "PP4 2015",
+    "num": 263,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (světla) znamená:",
+    "correct": "zákaz vytvářet vlnobití nebo sání.",
+    "wrong": [
+      "průjezd zakázán.",
+      "příkaz zůstat stát před tímto signálním znakem."
+    ],
+    "img": "img/A9b.jpg"
+  },
+  {
+    "id": "M-264",
+    "set": "PP4 2015",
+    "num": 264,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "zákaz plavby mimo vyznačený prostor v mostním nebo jezovém poli.",
+    "wrong": [
+      "úžina nebo jiné obtížné místo pro plavbu.",
+      "zákaz stání ve vyznačené šířce plavební dráhy."
+    ],
+    "img": "img/A10.jpg"
+  },
+  {
+    "id": "M-265",
+    "set": "PP4 2015",
+    "num": 265,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (dvojice světel) znamená:",
+    "correct": "proplutí je zakázáno, ale je třeba připravit se k plavbě.",
+    "wrong": [
+      "příkaz plout od červeného světla k zelenému světlu.",
+      "přednost v plavbě před plavidlem plujícím v protisměru."
+    ],
+    "img": "img/A11A.jpg"
+  },
+  {
+    "id": "M-266",
+    "set": "PP4 2015",
+    "num": 266,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "zákaz plavby plavidel s vlastním pohonem.",
+    "wrong": [
+      "zákaz plavby všech sportovních a rekreačních plavidel.",
+      "konec zákazu plavby malých plavidel s vlastním pohonem."
+    ],
+    "img": "img/A12.jpg"
+  },
+  {
+    "id": "M-267",
+    "set": "PP4 2015",
+    "num": 267,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "zákaz plavby malých plavidel.",
+    "wrong": [
+      "konec zákazu plavby malých plavidel, koupání a sportovního potápění.",
+      "zákaz koupání a sportovního potápění."
+    ],
+    "img": "img/A13.jpg"
+  },
+  {
+    "id": "M-268",
+    "set": "PP4 2015",
+    "num": 268,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "zákaz vodního lyžování.",
+    "wrong": [
+      "konec zákazu vodního lyžování.",
+      "vodní lyžování je možné jen na vlastní nebezpečí."
+    ],
+    "img": "img/A14.jpg"
+  },
+  {
+    "id": "M-269",
+    "set": "PP4 2015",
+    "num": 269,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "zákaz plavby plachetnic.",
+    "wrong": [
+      "zákaz plavby plavidel bez vlastního strojního pohonu.",
+      "zákaz plavby sportovních a rekreačních plavidel."
+    ],
+    "img": "img/A15.jpg"
+  },
+  {
+    "id": "M-270",
+    "set": "PP4 2015",
+    "num": 270,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "zákaz plavby plavidel bez vlastního strojního pohonu a která nejsou plachetnicemi.",
+    "wrong": [
+      "zákaz plavby plavidel bez vlastního pohonu a plachetnic.",
+      "zákaz plavby všech malých plavidel."
+    ],
+    "img": "img/A16.jpg"
+  },
+  {
+    "id": "M-271",
+    "set": "PP4 2015",
+    "num": 271,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "zákaz plavby plováků s plachtou (windsurfů).",
+    "wrong": [
+      "zákaz plavby všech druhů plachetnic.",
+      "zákaz plavby plováků s plachtou a vodního lyžování."
+    ],
+    "img": "img/A17.jpg"
+  },
+  {
+    "id": "M-272",
+    "set": "PP4 2015",
+    "num": 272,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "konec úseku, ve kterém je povolena plavba malých plavidel vysokou rychlostí.",
+    "wrong": [
+      "zákaz plavby malých plavidel s vlastním pohonem.",
+      "zákaz plavby vodních skútrů."
+    ],
+    "img": "img/A18.jpg"
+  },
+  {
+    "id": "M-273",
+    "set": "PP4 2015",
+    "num": 273,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "zákaz spouštění plavidel na vodu nebo vytahování plavidel z vody.",
+    "wrong": [
+      "zákaz provozu vznášedel a plavby plavidel, plujících vysokou rychlostí.",
+      "lodní výtah není v provozu."
+    ],
+    "img": "img/A19.jpg"
+  },
+  {
+    "id": "M-274",
+    "set": "PP4 2015",
+    "num": 274,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "zákaz plavby vodních skútrů.",
+    "wrong": [
+      "omezení plavby plavidel s vlastním pohonem.",
+      "vyhrazené místo pro vodní sporty."
+    ],
+    "img": "img/A20.jpg"
+  },
+  {
+    "id": "M-275",
+    "set": "PP4 2015",
+    "num": 275,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "příkaz plout ve směru šipky.",
+    "wrong": [
+      "jednosměrná plavba.",
+      "příkaz přidržovat se strany plavební dráhy, která je po pravém boku."
+    ],
+    "img": "img/B1.jpg"
+  },
+  {
+    "id": "M-276",
+    "set": "PP4 2015",
+    "num": 276,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "příkaz plout ke straně plavební dráhy, která je po levém boku.",
+    "wrong": [
+      "příkaz plout k levému břehu.",
+      "možnost předjíždět po levém boku předjížděného plavidla."
+    ],
+    "img": "img/B2A.jpg"
+  },
+  {
+    "id": "M-277",
+    "set": "PP4 2015",
+    "num": 277,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "příkaz plout ke straně plavební dráhy, která je po pravém boku.",
+    "wrong": [
+      "příkaz plout k pravému břehu.",
+      "možnost předjíždět po pravém boku předjížděného plavidla."
+    ],
+    "img": "img/B2B.jpg"
+  },
+  {
+    "id": "M-278",
+    "set": "PP4 2015",
+    "num": 278,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "příkaz přidržovat se strany plavební dráhy, která je po levém boku.",
+    "wrong": [
+      "zákaz plout při pravém břehu.",
+      "přednost v plavbě před plavidlem v protisměru."
+    ],
+    "img": "img/B3A.jpg"
+  },
+  {
+    "id": "M-279",
+    "set": "PP4 2015",
+    "num": 279,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "příkaz přidržovat se strany plavební dráhy, která je po pravém boku.",
+    "wrong": [
+      "dej přednost v plavbě plavidlu v protisměru.",
+      "obousměrný provoz plavidel."
+    ],
+    "img": "img/B3B.jpg"
+  },
+  {
+    "id": "M-280",
+    "set": "PP4 2015",
+    "num": 280,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "příkaz přeplout na stranu plavební dráhy, která je po levém boku.",
+    "wrong": [
+      "obratiště plavidel.",
+      "zákaz potkávání plavidel."
+    ],
+    "img": "img/B4A.jpg"
+  },
+  {
+    "id": "M-281",
+    "set": "PP4 2015",
+    "num": 281,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "příkaz přeplout na stranu plavební dráhy, která je po pravém boku.",
+    "wrong": [
+      "místo doporučené pro obrat plavidel.",
+      "zákaz potkávání plavidel."
+    ],
+    "img": "img/B4B.jpg"
+  },
+  {
+    "id": "M-282",
+    "set": "PP4 2015",
+    "num": 282,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "příkaz zůstat stát v případech stanovených pravidly plavebního provozu.",
+    "wrong": [
+      "příkaz zachovávat zvláštní pozornost.",
+      "příkaz dát zvukový signál \"jeden dlouhý zvuk\"."
+    ],
+    "img": "img/B5.jpg"
+  },
+  {
+    "id": "M-283",
+    "set": "PP4 2015",
+    "num": 283,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "příkaz nepřekračovat stanovenou rychlost uvedenou na signálním znaku, v km/h.",
+    "wrong": [
+      "stání plavidel je povoleno v šířce uvedené na signálním znaku, v metrech.",
+      "šířka plavební dráhy je omezena na hodnotu uvedenou ve znaku, v metrech."
+    ],
+    "img": "img/B6.jpg"
+  },
+  {
+    "id": "M-284",
+    "set": "PP4 2015",
+    "num": 284,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "příkaz dát zvukový signál.",
+    "wrong": [
+      "příkaz zůstat stát v případech stanovených pravidly plavebního provozu.",
+      "příkaz zachovávat zvláštní pozornost."
+    ],
+    "img": "img/B7.jpg"
+  },
+  {
+    "id": "M-285",
+    "set": "PP4 2015",
+    "num": 285,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "příkaz zachovávat zvláštní pozornost.",
+    "wrong": [
+      "příkaz zůstat stát v případech stanovených pravidly plavebního provozu.",
+      "plavidlo pluje po hlavní vodní cestě."
+    ],
+    "img": "img/B8.jpg"
+  },
+  {
+    "id": "M-286",
+    "set": "PP4 2015",
+    "num": 286,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "povinnost přesvědčit se před vplutím na hlavní vodní cestu, zda tento manévr nepřinutí plavidla na hlavní vodní cestě změnit směr nebo rychlost plavby.",
+    "wrong": [
+      "plavidlo pluje po hlavní vodní cestě, nesmí však přinutit plavidla připlouvající z vedlejší vodní cesty změnit směr nebo rychlost plavby.",
+      "plavidlo pluje po vedlejší vodní cestě, má přednost před plavidly plujícími po hlavní vodní cestě."
+    ],
+    "img": "img/B9A.jpg"
+  },
+  {
+    "id": "M-287",
+    "set": "PP4 2015",
+    "num": 287,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "povinnost přesvědčit se před vplutím na hlavní vodní cestu nebo před jejím křížením, zda tento manévr nepřinutí plavidla na hlavní vodní cestě změnit směr nebo rychlost plavby.",
+    "wrong": [
+      "plavidlo pluje po hlavní vodní cestě, nesmí však přinutit plavidla připlouvající z vedlejší vodní cesty změnit směr nebo rychlost plavby.",
+      "plavidlo pluje po vedlejší vodní cestě, má přednost před plavidly připlouvajícími po hlavní vodní cestě z levé strany."
+    ],
+    "img": "img/B9B.jpg"
+  },
+  {
+    "id": "M-288",
+    "set": "PP4 2015",
+    "num": 288,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (světla) znamená:",
+    "correct": "plavidla plující po hlavní vodní cestě musí přizpůsobit svůj směr nebo rychlost plavby tak, aby umožnila výjezd plavidlům opouštějícím přístav nebo přítok.",
+    "wrong": [
+      "doporučené proplouvání jenom v jednom směru, proplouvání v protisměru je zakázáno.",
+      "povolení proplutí - obecný signální znak."
+    ],
+    "img": "img/B10.jpg"
+  },
+  {
+    "id": "M-289",
+    "set": "PP4 2015",
+    "num": 289,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "příkaz uvést do provozu rádiovou stanici.",
+    "wrong": [
+      "zákaz plavby plováků s plachtou (windsurfů).",
+      "místo vyhrazené pro stání vysokorychlostních plavidel."
+    ],
+    "img": "img/B11A.jpg"
+  },
+  {
+    "id": "M-290",
+    "set": "PP4 2015",
+    "num": 290,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "příkaz uvést do provozu rádiovou stanici na vyznačeném kmitočtovém kanálu.",
+    "wrong": [
+      "nejvyšší počet malých plavidel v místě povoleného stání.",
+      "hloubka v plavební dráze je omezena, pokud je uvedeno číslo, stanoví hloubku v decimetrech."
+    ],
+    "img": "img/B11B.jpg"
+  },
+  {
+    "id": "M-291",
+    "set": "PP4 2015",
+    "num": 291,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "hloubka je omezena, číslo na signálním znaku stanoví hloubku v metrech.",
+    "wrong": [
+      "překážky na dně vodní cesty se vyskytují od říčního kilometru, uvedeném na signálním znaku.",
+      "levobřežní plavební značení začíná ve vzdálenosti uvedené na signálním znaku v kilometrech."
+    ],
+    "img": "img/C1b.jpg"
+  },
+  {
+    "id": "M-292",
+    "set": "PP4 2015",
+    "num": 292,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "podjezdná výška je omezena, číslo na signálním znaku stanoví podjezdnou výšku od vodní hladiny v metrech.",
+    "wrong": [
+      "ponor plavidel je omezen, číslo na signálním znaku stanoví ponor v decimetrech.",
+      "příkaz uvést do provozu rádiovou stanici na kmitočtovém kanálu uvedeném na signálním znaku."
+    ],
+    "img": "img/C2b.jpg"
+  },
+  {
+    "id": "M-293",
+    "set": "PP4 2015",
+    "num": 293,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "šířka plavebního profilu nebo šířka plavební dráhy je omezena.",
+    "wrong": [
+      "označení pole mostu, kterým se proplouvá přednostně.",
+      "stání plavidel je povoleno při obou stranách vodní cesty."
+    ],
+    "img": "img/C3a.jpg"
+  },
+  {
+    "id": "M-294",
+    "set": "PP4 2015",
+    "num": 294,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "omezení v plavbě, s nimiž je nutno se seznámit \"INFORMUJTE SE\".",
+    "wrong": [
+      "konec zákazu nebo příkazu platného pro plavbu v jednom směru nebo konec omezení.",
+      "povolení proplutí (obecný znak)."
+    ],
+    "img": "img/C4.jpg"
+  },
+  {
+    "id": "M-295",
+    "set": "PP4 2015",
+    "num": 295,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "plavební dráha je vzdálena od pravého (levého) břehu 10 m.",
+    "wrong": [
+      "stání povoleno do vzdálenosti 10 m od pravého (levého břehu).",
+      "šířka plavebního profilu nebo plavební dráhy je zúžena o 10 m."
+    ],
+    "img": "img/C5.jpg"
+  },
+  {
+    "id": "M-296",
+    "set": "PP4 2015",
+    "num": 296,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak světlo znamená:",
+    "correct": "doporučené proplouvání v obou směrech.",
+    "wrong": [
+      "doporučené proplouvání jenom v jednom směru, proplouvání v protisměru je zakázáno.",
+      "plavební dráha přechází od pravého břehu k levému břehu."
+    ],
+    "img": "img/D1B.jpg"
+  },
+  {
+    "id": "M-297",
+    "set": "PP4 2015",
+    "num": 297,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tyto signální znaky tabule znamenají:",
+    "correct": "doporučené proplouvání jenom v jednom směru, proplouvání v protisměru je zakázáno.",
+    "wrong": [
+      "doporučené proplouvání v obou směrech.",
+      "plavení dráha přechází od levého břehu k pravému břehu."
+    ],
+    "img": "img/D1c.jpg"
+  },
+  {
+    "id": "M-298",
+    "set": "PP4 2015",
+    "num": 298,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tyto signální znaky tabule znamenají:",
+    "correct": "doporučení držet se v určeném prostoru, v mostních nebo v jezových polích.",
+    "wrong": [
+      "zákaz plavby mimo vyznačený prostor v mostních nebo v jezových polích.",
+      "doporučené proplouvání jenom v jednom směru, proplouvání v protisměru je zakázáno."
+    ],
+    "img": "img/D2A.jpg"
+  },
+  {
+    "id": "M-299",
+    "set": "PP4 2015",
+    "num": 299,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (světla) znamená:",
+    "correct": "doporučuje se plout ve směru od stálého světla k blikavému světlu.",
+    "wrong": [
+      "doporučuje se plout od blikavého světla ke stálému světlu.",
+      "svítí-li stálé světlo - plavba je možná, svítí-li blikavé světlo - zastavit."
+    ],
+    "img": "img/D3b.jpg"
+  },
+  {
+    "id": "M-300",
+    "set": "PP4 2015",
+    "num": 300,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "povolení proplutí.",
+    "wrong": [
+      "plavební dráha není vyznačena plovoucími znaky.",
+      "plavební dráha vede středem vodní cesty."
+    ],
+    "img": "img/E1A.jpg"
+  },
+  {
+    "id": "M-301",
+    "set": "PP4 2015",
+    "num": 301,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "elektrické vedení přes vodní cestu.",
+    "wrong": [
+      "břehová přípojka elektrického napětí.",
+      "zóna častých atmosférických poruch - možné výpadky rádiového spojení."
+    ],
+    "img": "img/E2.jpg"
+  },
+  {
+    "id": "M-302",
+    "set": "PP4 2015",
+    "num": 302,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "jez",
+    "wrong": [
+      "objekt plavební komory.",
+      "rybí sádky."
+    ],
+    "img": "img/E3.jpg"
+  },
+  {
+    "id": "M-303",
+    "set": "PP4 2015",
+    "num": 303,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "převozní lodě, které neplují volně.",
+    "wrong": [
+      "přístavní můstky pro osobní lodě.",
+      "doporučené místo ke spouštění plavidel na vodu."
+    ],
+    "img": "img/E4A.jpg"
+  },
+  {
+    "id": "M-304",
+    "set": "PP4 2015",
+    "num": 304,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "převozní lodě plující volně.",
+    "wrong": [
+      "přístaviště osobních lodí.",
+      "povolené stání plavidel."
+    ],
+    "img": "img/E4B.jpg"
+  },
+  {
+    "id": "M-305",
+    "set": "PP4 2015",
+    "num": 305,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "povolené stání na kotvě nebo vyvázání u břehu.",
+    "wrong": [
+      "čerpací stanice pohonných hmot.",
+      "plavební komora."
+    ],
+    "img": "img/E5.jpg"
+  },
+  {
+    "id": "M-306",
+    "set": "PP4 2015",
+    "num": 306,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "stání povoleno v šířce 40 m.",
+    "wrong": [
+      "nejvyšší povolená rychlost 40 km/h.",
+      "plavební dráha je široká 40 m."
+    ],
+    "img": "img/E51.jpg"
+  },
+  {
+    "id": "M-307",
+    "set": "PP4 2015",
+    "num": 307,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "stání povoleno v šířce pásma od 20 do 40 m od znaku.",
+    "wrong": [
+      "omezení rychlosti na 20 - 40 km/h.",
+      "plavební dráha je vzdálena 20 m od levého břehu a 40 m od pravého břehu."
+    ],
+    "img": "img/E52.jpg"
+  },
+  {
+    "id": "M-308",
+    "set": "PP4 2015",
+    "num": 308,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "maximální počet plavidel, která smějí stát těsně vedle sebe.",
+    "wrong": [
+      "maximální počet plavidel, která smějí stát těsně za sebou.",
+      "maximální počet plavidel v místě povoleného stání."
+    ],
+    "img": "img/E53.jpg"
+  },
+  {
+    "id": "M-309",
+    "set": "PP4 2015",
+    "num": 309,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "místo vyhrazené pro stání plavidel určených k plavbě tlačením.",
+    "wrong": [
+      "místo vyhrazené pro stání malých plavidel.",
+      "místo vyhrazené pro stání plavidel určených pro přepravu nebezpečných věcí."
+    ],
+    "img": "img/E54.jpg"
+  },
+  {
+    "id": "M-310",
+    "set": "PP4 2015",
+    "num": 310,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "místo vyhrazené pro stání plavidel určených k plavbě tlačením, která přepravují nebezpečné věci.",
+    "wrong": [
+      "místo vyhrazené pro stání dvou malých plavidel, která nejsou plachetnicemi.",
+      "místo vyhrazené pro stání plavidel při levém břehu."
+    ],
+    "img": "img/E55.jpg"
+  },
+  {
+    "id": "M-311",
+    "set": "PP4 2015",
+    "num": 311,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "místo vyhrazené pro stání plavidel určených k plavbě tlačením, která přepravují nebezpečné věci.",
+    "wrong": [
+      "místo vyhrazené pro stání plavidel v jedné řadě, za sebou.",
+      "místo vyhrazené pro stání malých dvoumotorových plavidel s vrtulovým pohonem."
+    ],
+    "img": "img/E56.jpg"
+  },
+  {
+    "id": "M-312",
+    "set": "PP4 2015",
+    "num": 312,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "místo vyhrazené pro stání plavidel, mimo plavidel určených k plavbě tlačením, která přepravují nebezpečné věci.",
+    "wrong": [
+      "místo vyhrazené pro plavidla bez vlastního pohonu.",
+      "místo vyhrazené pro tři malá plavidla s vlastním pohonem."
+    ],
+    "img": "img/E511.jpg"
+  },
+  {
+    "id": "M-313",
+    "set": "PP4 2015",
+    "num": 313,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "místo vyhrazené pro stání všech plavidel, která nepřepravují nebezpečné věci.",
+    "wrong": [
+      "místo vyhrazené pro stání jen malých plavidel.",
+      "místo vyhrazené pro stání plavidel bez vlastního pohonu a malých plavidel."
+    ],
+    "img": "img/E512.jpg"
+  },
+  {
+    "id": "M-314",
+    "set": "PP4 2015",
+    "num": 314,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "místo vyhrazené pro stání plavidel, která přepravují nebezpečné věci.",
+    "wrong": [
+      "místo vyhrazené pro stání všech plavidel.",
+      "místo vyhrazené pro stání všech plavidel s vlastním pohonem, na kterých je posádka."
+    ],
+    "img": "img/E513.jpg"
+  },
+  {
+    "id": "M-315",
+    "set": "PP4 2015",
+    "num": 315,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "povolené kotvení, vlečení kotev, lan nebo řetězů.",
+    "wrong": [
+      "zákaz kotvení, vlečení kotev, lan nebo řetězů.",
+      "příkaz zakotvit, po snížení rychlosti plavby vlečením lan nebo řetězů."
+    ],
+    "img": "img/E6.jpg"
+  },
+  {
+    "id": "M-316",
+    "set": "PP4 2015",
+    "num": 316,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "povolené vyvazování u břehu.",
+    "wrong": [
+      "místo vyhrazené pro stání plavidel, která nejsou malými.",
+      "doporučené vyvazování nebo kotvení plavidel."
+    ],
+    "img": "img/E7.jpg"
+  },
+  {
+    "id": "M-317",
+    "set": "PP4 2015",
+    "num": 317,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "místo vyhrazené pro stání plavidel za účelem naložení nebo vyložení vozidla.",
+    "wrong": [
+      "přístaviště poblíž silniční komunikace.",
+      "povolená plavba obojživelných vozidel a vznášedel."
+    ],
+    "img": "img/E71.jpg"
+  },
+  {
+    "id": "M-318",
+    "set": "PP4 2015",
+    "num": 318,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "místo doporučené pro obrat.",
+    "wrong": [
+      "křížení vodní cesty vzdušným kabelem.",
+      "místo určené pro nástup a výstup - přístaviště."
+    ],
+    "img": "img/E8.jpg"
+  },
+  {
+    "id": "M-319",
+    "set": "PP4 2015",
+    "num": 319,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "plavidlo pluje po hlavní vodní cestě, kterou kříží vedlejší vodní cesta.",
+    "wrong": [
+      "plavidlo pluje po hlavní vodní cestě, nesmí však přinutit plavidla připlouvající z vedlejší vodní cesty změnit směr nebo rychlost plavby.",
+      "plavidlo pluje po hlavní vodní cestě, musí však dát přednost plavidlu, připlouvajícímu z vedlejší vodní cesty zprava."
+    ],
+    "img": "img/E9A.jpg"
+  },
+  {
+    "id": "M-320",
+    "set": "PP4 2015",
+    "num": 320,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "plavidlo pluje po hlavní vodní cestě, do které ústí vedlejší vodní cesta.",
+    "wrong": [
+      "plavidlo pluje po hlavní vodní cestě, nesmí však přinutit plavidla připlouvající z vedlejší vodní cesty změnit směr nebo rychlost plavby.",
+      "plavidlo pluje po hlavní vodní cestě, ale nemá přednost před plavidly připlouvajícími z vedlejší vodní cesty."
+    ],
+    "img": "img/E9B.jpg"
+  },
+  {
+    "id": "M-321",
+    "set": "PP4 2015",
+    "num": 321,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "plavidlo pluje po vedlejší vodní cestě, která kříží hlavní vodní cestu.",
+    "wrong": [
+      "plavidlo pluje po hlavní vodní cestě, kterou kříží vedlejší vodní cesta.",
+      "plavidlo pluje po vedlejší vodní cestě, kterou kříží vodní cesta stejného řádu."
+    ],
+    "img": "img/E10A.jpg"
+  },
+  {
+    "id": "M-322",
+    "set": "PP4 2015",
+    "num": 322,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "plavidlo pluje po vedlejší vodní cestě na hlavní vodní cestu.",
+    "wrong": [
+      "plavidlo pluje po hlavní vodní cestě, na vedlejší vodní cestu.",
+      "plavidlo pluje po vedlejší vodní cestě, na vodní cestu stejného řádu."
+    ],
+    "img": "img/E10B.jpg"
+  },
+  {
+    "id": "M-323",
+    "set": "PP4 2015",
+    "num": 323,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "konec zákazu nebo příkazu platného pro plavbu v jednom směru nebo konec omezení.",
+    "wrong": [
+      "rozdělení plavební dráhy.",
+      "doplňková signalizace plavidla, zajišťujícího činnost pod vodní hladinou."
+    ],
+    "img": "img/E11.jpg"
+  },
+  {
+    "id": "M-324",
+    "set": "PP4 2015",
+    "num": 324,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Výstražní znaky, kdy jedno nebo dvě bílá světla vedle sebe svítí nepřerušovaně, mají tento význam:",
+    "correct": "zůstat stát, překážky ve směru plavby.",
+    "wrong": [
+      "můžete pokračovat v plavbě.",
+      "pokračujte v plavbě s nejvyšší opatrností, překážky se odstraňují."
+    ],
+    "img": "img/E12b.jpg"
+  },
+  {
+    "id": "M-325",
+    "set": "PP4 2015",
+    "num": 325,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Výstražní znaky, kdy jedno nebo dvě světla vedle sebe blikají, mají tento význam:",
+    "correct": "můžete pokračovat v plavbě.",
+    "wrong": [
+      "zůstat stát, překážky ve směru plavby.",
+      "zůstat stát, podle počtu světel jednu, nejvýše dvě hodiny."
+    ],
+    "img": "img/E12d.jpg"
+  },
+  {
+    "id": "M-326",
+    "set": "PP4 2015",
+    "num": 326,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "místo odběru pitné vody.",
+    "wrong": [
+      "místo odevzdávání ropných odpadů z plavidel.",
+      "místo pro připojení normalizované příruby hasičské hadice (hydrant)."
+    ],
+    "img": "img/E13.jpg"
+  },
+  {
+    "id": "M-327",
+    "set": "PP4 2015",
+    "num": 327,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "telefon.",
+    "wrong": [
+      "celnice.",
+      "zábradlí."
+    ],
+    "img": "img/E14.jpg"
+  },
+  {
+    "id": "M-328",
+    "set": "PP4 2015",
+    "num": 328,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "plavba plavidel s vlastním pohonem povolena.",
+    "wrong": [
+      "místo vyhrazené pro stání malých plavidel s vlastním pohonem.",
+      "místo určené pro opravy plavidel např. loděnice nebo dok."
+    ],
+    "img": "img/E15.jpg"
+  },
+  {
+    "id": "M-329",
+    "set": "PP4 2015",
+    "num": 329,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "plavba malých plavidel povolena.",
+    "wrong": [
+      "místo vyhrazené pro stání sportovních a rekreačních plavidel.",
+      "místo vyhrazené pro vodní sporty, při nichž se nepoužívá plavidel."
+    ],
+    "img": "img/E16.jpg"
+  },
+  {
+    "id": "M-330",
+    "set": "PP4 2015",
+    "num": 330,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "vodní lyžování povoleno.",
+    "wrong": [
+      "vodní lyžování je omezeno.",
+      "zákaz vodního lyžování."
+    ],
+    "img": "img/E17.jpg"
+  },
+  {
+    "id": "M-331",
+    "set": "PP4 2015",
+    "num": 331,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "plavba plachetnic povolena.",
+    "wrong": [
+      "plavba plavidel bez vlastního pohonu povolena.",
+      "plavba malých plavidel povolena."
+    ],
+    "img": "img/E18.jpg"
+  },
+  {
+    "id": "M-332",
+    "set": "PP4 2015",
+    "num": 332,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "plavba plavidel, která nejsou plachetnicemi ani nemají vlastní pohon, povolena.",
+    "wrong": [
+      "plavba sportovních a rekreačních plavidel povolena.",
+      "místo vyhrazené k rybolovu pomocí malých plavidel."
+    ],
+    "img": "img/E19.jpg"
+  },
+  {
+    "id": "M-333",
+    "set": "PP4 2015",
+    "num": 333,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "plavba na plovácích s plachtou (windsurfech) povolena.",
+    "wrong": [
+      "doporučené místo ke spouštění plavidel na vodu.",
+      "plavba sportovních a rekreačních plavidel povolena."
+    ],
+    "img": "img/E20.jpg"
+  },
+  {
+    "id": "M-334",
+    "set": "PP4 2015",
+    "num": 334,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "plavba malých plavidel, plujících vysokou rychlostí, povolena.",
+    "wrong": [
+      "zákaz vytvářet sání nebo vlnobití malými plavidly.",
+      "povolení plavby sportovními nebo rekreačními plavidly."
+    ],
+    "img": "img/E21.jpg"
+  },
+  {
+    "id": "M-335",
+    "set": "PP4 2015",
+    "num": 335,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "doporučené místo ke spouštění plavidel na vodu a vytahování plavidel z vody.",
+    "wrong": [
+      "zóna provozu vznášedel a plavby plavidel, plujících vysokou rychlostí.",
+      "lodní výtah."
+    ],
+    "img": "img/E22.jpg"
+  },
+  {
+    "id": "M-336",
+    "set": "PP4 2015",
+    "num": 336,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "možnost získání informací radiotelefonním spojením na vyznačeném kmitočtovém kanálu.",
+    "wrong": [
+      "příkaz uvést do provozu rádiovou stanici na vyznačeném kmitočtovém kanálu.",
+      "povolení plavby plováků s plachtou (windsurfů) nejvýše v počtu, uvedeném na znaku."
+    ],
+    "img": "img/E23.jpg"
+  },
+  {
+    "id": "M-337",
+    "set": "PP4 2015",
+    "num": 337,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "plavba vodních skútrů povolena.",
+    "wrong": [
+      "zákaz plavby vysokou rychlostí.",
+      "vymezený prostor pro vodní sporty."
+    ],
+    "img": "img/E24.jpg"
+  },
+  {
+    "id": "M-338",
+    "set": "PP4 2015",
+    "num": 338,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento plovoucí signální znak (bóje) znamená:",
+    "correct": "pravá strana plavební dráhy.",
+    "wrong": [
+      "levá strana plavební dráhy.",
+      "rozdělení plavební dráhy."
+    ],
+    "img": "img/II1A.jpg"
+  },
+  {
+    "id": "M-339",
+    "set": "PP4 2015",
+    "num": 339,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento plovoucí signální znak (bóje) znamená:",
+    "correct": "levá strana plavební dráhy.",
+    "wrong": [
+      "pravá strana plavební dráhy.",
+      "rozdělení plavební dráhy."
+    ],
+    "img": "img/II2b.jpg"
+  },
+  {
+    "id": "M-340",
+    "set": "PP4 2015",
+    "num": 340,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento plovoucí signální znak (bóje) znamená:",
+    "correct": "rozdělení plavební dráhy.",
+    "wrong": [
+      "pravá strana plavební dráhy.",
+      "levá strana plavební dráhy."
+    ],
+    "img": "img/II3A.jpg"
+  },
+  {
+    "id": "M-341",
+    "set": "PP4 2015",
+    "num": 341,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Bílé písmeno \"P\" na bóji pro označení strany plavební dráhy znamená:",
+    "correct": "plavební dráha vede podél míst stání.",
+    "wrong": [
+      "povinnost obeplout tuto bóji vpravo.",
+      "příkaz zůstat stát před touto bójí."
+    ],
+    "img": "img/II4B.jpg"
+  },
+  {
+    "id": "M-342",
+    "set": "PP4 2015",
+    "num": 342,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "plavební dráha při pravém břehu.",
+    "wrong": [
+      "plavební dráha při levém břehu.",
+      "plavební dráha vede středem vodní cesty."
+    ],
+    "img": "img/4b.jpg"
+  },
+  {
+    "id": "M-343",
+    "set": "PP4 2015",
+    "num": 343,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "plavební dráha při levém břehu.",
+    "wrong": [
+      "plavební dráha při pravém břehu.",
+      "plavební dráha vede středem vodní cesty."
+    ],
+    "img": "img/5b.jpg"
+  },
+  {
+    "id": "M-344",
+    "set": "PP4 2015",
+    "num": 344,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "pravobřežní přechodový signální znak.",
+    "wrong": [
+      "plavební dráha vede středem vodní cesty.",
+      "místo častých plavebních nehod (havarijní kilometr)."
+    ],
+    "img": "img/4d.jpg"
+  },
+  {
+    "id": "M-345",
+    "set": "PP4 2015",
+    "num": 345,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tabule) znamená:",
+    "correct": "levobřežní přechodový signální znak.",
+    "wrong": [
+      "plavební dráha vede středem vodní cesty.",
+      "konec zákazu nebo příkazu platného pro plavbu v jednom směru nebo konec omezení."
+    ],
+    "img": "img/5d.jpg"
+  },
+  {
+    "id": "M-346",
+    "set": "PP4 2015",
+    "num": 346,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (kužel) znamená:",
+    "correct": "nebezpečné místo nebo překážka při pravém břehu.",
+    "wrong": [
+      "nebezpečné místo nebo překážka při levém břehu.",
+      "nebezpečné místo nebo překážka rozděluje plavební dráhu."
+    ],
+    "img": "img/4f.jpg"
+  },
+  {
+    "id": "M-347",
+    "set": "PP4 2015",
+    "num": 347,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (kužel) znamená:",
+    "correct": "nebezpečné místo nebo překážka při levém břehu.",
+    "wrong": [
+      "nebezpečné místo nebo překážka při pravém břehu.",
+      "nebezpečné místo nebo překážka rozděluje plavební dráhu."
+    ],
+    "img": "img/5f.jpg"
+  },
+  {
+    "id": "M-348",
+    "set": "PP4 2015",
+    "num": 348,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (plovatka) znamená:",
+    "correct": "označení překážky při pravém břehu.",
+    "wrong": [
+      "označení nebezpečného místa při levém břehu.",
+      "plovoucí vodočet."
+    ],
+    "img": "img/1f1.jpg"
+  },
+  {
+    "id": "M-349",
+    "set": "PP4 2015",
+    "num": 349,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tyč na bóji) znamená:",
+    "correct": "označení překážky při levém břehu.",
+    "wrong": [
+      "rozdělení plavební dráhy.",
+      "plovoucí vodočetná lať před vjezdem do přístavu."
+    ],
+    "img": "img/2f.jpg"
+  },
+  {
+    "id": "M-350",
+    "set": "PP4 2015",
+    "num": 350,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tyč na plováku) znamená:",
+    "correct": "označení na překážce, kterou lze bezpečně obeplout.",
+    "wrong": [
+      "označení bezpečných vod.",
+      "označení nebezpečného místa, které nelze bezpečně obeplout."
+    ],
+    "img": "img/8d.jpg"
+  },
+  {
+    "id": "M-351",
+    "set": "PP4 2015",
+    "num": 351,
+    "topic": "Zvukové signály a signální znaky",
+    "q": "Tento signální znak (tyč na plováku) znamená:",
+    "correct": "vyznačení bezpečných vod.",
+    "wrong": [
+      "označení zvlášť nebezpečného místa.",
+      "rozdělení plavební dráhy."
+    ],
+    "img": "img/8e1.jpg"
+  },
+  {
+    "id": "M-352",
+    "set": "TZ 2015",
+    "num": 352,
+    "topic": "Technika plavidla",
+    "q": "Malé plavidlo podléhající evidenci lze na vodní cestě provozovat, byla-li schválena jeho technická způsobilost a je-li zapsáno:",
+    "correct": "v rejstříku malých plavidel.",
+    "wrong": [
+      "v registru plavidel příslušného městského úřadu.",
+      "v evidenci mezinárodního plavebního rejstříku členských států Evropské unie a smluvního státu Dohody o Evropském hospodářském prostorou a Švýcarské konfederace."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-353",
+    "set": "TZ 2015",
+    "num": 353,
+    "topic": "Technika plavidla",
+    "q": "Plavidlo nepodléhající evidenci lze na vodní cestě provozovat:",
+    "correct": "splňuje-li jeho konstrukce a technický stav podmínky bezpečného provozu a neohrožuje-li životní prostředí.",
+    "wrong": [
+      "podrobilo-li se prohlídce u státem pověřené organizace oprávněné schvalovat technickou způsobilost plavidel.",
+      "vystavil-li mu plavební úřad certifikát o jeho technickém stavu."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-354",
+    "set": "TZ 2015",
+    "num": 354,
+    "topic": "Technika plavidla",
+    "q": "Evidenci v plavebním rejstříku malých plavidel podléhá:",
+    "correct": "malé plavidlo s vlastním strojním pohonem o výkonu větším než 4 kW.",
+    "wrong": [
+      "malé plavidlo s vlastním strojním pohonem o výkonu 4 kW a nižším.",
+      "každé malé plavidlo."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-355",
+    "set": "TZ 2015",
+    "num": 355,
+    "topic": "Technika plavidla",
+    "q": "Evidenci v plavebním rejstříku malých plavidel podléhá:",
+    "correct": "malé plavidlo o celkové hmotnosti přesahující 1000 kg včetně povoleného zatížení.",
+    "wrong": [
+      "malé plavidlo o celkové hmotnosti včetně povoleného zatížení 1000 kg a méně.",
+      "každé malé plavidlo."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-356",
+    "set": "TZ 2015",
+    "num": 356,
+    "topic": "Technika plavidla",
+    "q": "Evidenci v plavebním rejstříku malých plavidel podléhá:",
+    "correct": "malé plavidlo s celkovou plochou plachet přesahující 12 m2.",
+    "wrong": [
+      "malé plavidlo s celkovou plochou plachet 12 m2 a méně.",
+      "každé malé plavidlo."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-357",
+    "set": "TZ 2015",
+    "num": 357,
+    "topic": "Technika plavidla",
+    "q": "Dokladem o způsobilosti plavidla k provozu na vodní cestě je:",
+    "correct": "lodní osvědčení nebo osvědčení plovoucího zařízení.",
+    "wrong": [
+      "klasifikační průkaz plavidla.",
+      "cejchovní průkaz."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-358",
+    "set": "TZ 2015",
+    "num": 358,
+    "topic": "Technika plavidla",
+    "q": "Povinnost nést českou státní vlajku České republiky vzniká plavidlům:",
+    "correct": "zapsaným v plavebním rejstříku.",
+    "wrong": [
+      "pouze klasifikovaným plavidlům.",
+      "pokud mají tuto povinnost zapsanou v osvědčení plavidla."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-359",
+    "set": "TZ 2015",
+    "num": 359,
+    "topic": "Technika plavidla",
+    "q": "Lodní nástavba je část plavidla:",
+    "correct": "umístěná nad palubou.",
+    "wrong": [
+      "umístěná pod palubou.",
+      "která se na základě schválené technické dokumentace dostavuje dodatečně do prostoru pod palubou."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-360",
+    "set": "TZ 2015",
+    "num": 360,
+    "topic": "Technika plavidla",
+    "q": "Kýl lodi je:",
+    "correct": "hlavní podélná osová výztuha ve dnu lodního trupu, na kterou navazuje přední a zadní vaz.",
+    "wrong": [
+      "hlavní žebro lodního trupu.",
+      "vodotěsná přepážka oddělující přední a zadní kolizní prostor."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-361",
+    "set": "TZ 2015",
+    "num": 361,
+    "topic": "Technika plavidla",
+    "q": "Výraz nosník označuje na lodním tělese:",
+    "correct": "příčnou výztuhu paluby, kokpitu, kajuty apod. (např. palubový nosník, kokpitový nosník atd.).",
+    "wrong": [
+      "podélnou výztuhu lodního tělesa (např. outorový nosník apod.).",
+      "zařízení pro spouštění ploutve."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-362",
+    "set": "TZ 2015",
+    "num": 362,
+    "topic": "Technika plavidla",
+    "q": "Výraz vazník používáme pro označení:",
+    "correct": "podélné výztuhy lodního trupu (např. outorový vazník, palubní vazník apod.).",
+    "wrong": [
+      "zařízení na uvázání lan (lodní vazníky).",
+      "lan, používaných pro vyvazování lodí."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-363",
+    "set": "TZ 2015",
+    "num": 363,
+    "topic": "Technika plavidla",
+    "q": "Výraz obšívka používáme pro:",
+    "correct": "označení vnějšího vodotěsného pláště kostry plavidla.",
+    "wrong": [
+      "přišité lano na okraji plachty, které se zasunuje do drážky na stěžni nebo ráhnu.",
+      "motouz, kterým ovazujeme konce lan proti rozplétání."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-364",
+    "set": "TZ 2015",
+    "num": 364,
+    "topic": "Technika plavidla",
+    "q": "Výrazem skořepina označujeme druh provedení:",
+    "correct": "lodního trupu i jiných částí lodě, vyráběných ve formě laminováním.",
+    "wrong": [
+      "příďového a záďového koše (ochranné zábradlí).",
+      "příčné výztuhy stěžně."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-365",
+    "set": "TZ 2015",
+    "num": 365,
+    "topic": "Technika plavidla",
+    "q": "Výraz lodní trup znamená:",
+    "correct": "kostru plavidla s obšívkou, případně s palubou.",
+    "wrong": [
+      "obytnou část plavidla.",
+      "palubu včetně nástaveb."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-366",
+    "set": "TZ 2015",
+    "num": 366,
+    "topic": "Technika plavidla",
+    "q": "Výraz žebro označuje:",
+    "correct": "příčnou tvarovou výztuhu boku a dna lodi.",
+    "wrong": [
+      "podélnou výztuhu kokpitu.",
+      "příčné nosníky paluby."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-367",
+    "set": "TZ 2015",
+    "num": 367,
+    "topic": "Technika plavidla",
+    "q": "Výrazem katamarán označujeme:",
+    "correct": "dvojtrupové plavidlo.",
+    "wrong": [
+      "dvoustěžňovou rybářskou loď.",
+      "velkou plachetnici s několika stěžni a ráhnovým oplachtěním."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-368",
+    "set": "TZ 2015",
+    "num": 368,
+    "topic": "Technika plavidla",
+    "q": "Outor je:",
+    "correct": "část obšívky plavidla v přechodu lodního dna do boků.",
+    "wrong": [
+      "část lodní nástavby.",
+      "druh lodního mechanismu."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-369",
+    "set": "TZ 2015",
+    "num": 369,
+    "topic": "Technika plavidla",
+    "q": "Hlavní část kormidelního zařízení tvoří kormidelní ploutev a společně s kormidelním pněm má souhrnný název:",
+    "correct": "kormidlo.",
+    "wrong": [
+      "propulsor.",
+      "dýza."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-370",
+    "set": "TZ 2015",
+    "num": 370,
+    "topic": "Technika plavidla",
+    "q": "Příďové dokormidlovací zařízení slouží k:",
+    "correct": "zlepšení manévrovacích vlastností plavidla.",
+    "wrong": [
+      "manévrování plavidlem pomocí ruční páky.",
+      "ulehčení ovládání ručního ovládacího mechanismu kormidla."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-371",
+    "set": "TZ 2015",
+    "num": 371,
+    "topic": "Technika plavidla",
+    "q": "Palec pacholete slouží k:",
+    "correct": "zajištění ovinutého vyvazovacího lana proti sesmeknutí.",
+    "wrong": [
+      "vyztužení pacholete.",
+      "označení počtu smyček lan na pacholeti."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-372",
+    "set": "TZ 2015",
+    "num": 372,
+    "topic": "Technika plavidla",
+    "q": "Plovatelnost je schopnost plavidla:",
+    "correct": "plout působením vlastního hydrostatického vztlaku v dané poloze.",
+    "wrong": [
+      "plout v jakékoliv poloze bez potopení.",
+      "plout předepsaným způsobem a rychlostí."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-373",
+    "set": "TZ 2015",
+    "num": 373,
+    "topic": "Technika plavidla",
+    "q": "Stabilita plavidla je schopnost:",
+    "correct": "vrátit se do původní polohy, z níž bylo vychýleno vnějšími silami, přestanou-li tyto působit.",
+    "wrong": [
+      "odolávat silám namáhajícím lodní těleso při nakládce.",
+      "zachovávat požadovaný směr plavby."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-374",
+    "set": "TZ 2015",
+    "num": 374,
+    "topic": "Technika plavidla",
+    "q": "Schopnost lodi udržovat při plavbě zadaný směr nebo tento směr podle potřeby měnit je:",
+    "correct": "řiditelnost.",
+    "wrong": [
+      "stabilita.",
+      "plovatelnost."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-375",
+    "set": "TZ 2015",
+    "num": 375,
+    "topic": "Technika plavidla",
+    "q": "Schopnost lodi při plavbě udržovat určitý směr je:",
+    "correct": "směrová stabilita.",
+    "wrong": [
+      "plovatelnost.",
+      "manévrovatelnost."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-376",
+    "set": "TZ 2015",
+    "num": 376,
+    "topic": "Technika plavidla",
+    "q": "Otvory umístěné pod rovinou nejvyššího ponoru zvětšeného o bezpečnostní vzdálenost:",
+    "correct": "musí být provedeny takovým způsobem, že nežádoucí proniknutí vody do plavidla je vyloučeno.",
+    "wrong": [
+      "musí mít na obšívce uzavírací ventil.",
+      "musí být provedeny ve dvojité rouře."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-377",
+    "set": "TZ 2015",
+    "num": 377,
+    "topic": "Technika plavidla",
+    "q": "Pod pojmem drenážní soustava se rozumí:",
+    "correct": "potrubní systém sloužící k vyčerpání vody z dnových prostorů lodě.",
+    "wrong": [
+      "potrubní systém zabezpečující dodávku vody při změně ponoru lodi a při vyrovnávání podélného a příčného náklonu lodě.",
+      "potrubní systém sloužící k odčerpání kalů usazených na dně palivových nádrží."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-378",
+    "set": "TZ 2015",
+    "num": 378,
+    "topic": "Technika plavidla",
+    "q": "Ventilátory slouží na plavidle k:",
+    "correct": "větrání s nuceným oběhem vzduchu.",
+    "wrong": [
+      "odsávání výfukových splodin.",
+      "přirozenému větrání podpalubních prostor."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-379",
+    "set": "TZ 2015",
+    "num": 379,
+    "topic": "Technika plavidla",
+    "q": "Sanitární soustava plavidla zahrnuje:",
+    "correct": "soustavy vodovodní a kanalizační.",
+    "wrong": [
+      "palubní lékárnu a vodovodní soustavu.",
+      "zásobníky vody, samočinnou vodárnu, umývárnu a WC."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-380",
+    "set": "ZP 2015",
+    "num": 380,
+    "topic": "Zdravověda – první pomoc",
+    "q": "Resuscitace (oživování) je:",
+    "correct": "postup sloužící pro dočasnou náhradu a případné obnovení životních funkcí (oběhu a dýchání).",
+    "wrong": [
+      "postup sloužící k omezení následků šoku.",
+      "postup sloužící pro dočasné omezení životních funkcí (oběhu a dýchání)."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-381",
+    "set": "ZP 2015",
+    "num": 381,
+    "topic": "Zdravověda – první pomoc",
+    "q": "Postižený náhle zkolaboval, nehýbe se, nedýchá, nereaguje na poplácání po tváři a oslovení. První, co je třeba udělat, bude:",
+    "correct": "přivolání pomoci.",
+    "wrong": [
+      "zahájení dýchání z plic do plic.",
+      "jeho přemístění do pohodlné polohy vleže."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-382",
+    "set": "ZP 2015",
+    "num": 382,
+    "topic": "Zdravověda – první pomoc",
+    "q": "Nepřímá masáž srdce se provádí stlačováním hrudníku nataženýma rukama propnutýma v loktech:",
+    "correct": "na hrudní kosti asi uprostřed hrudníku.",
+    "wrong": [
+      "mezi 12. a 13. obratlem páteře.",
+      "na hrudní kosti při jejím spodním okraji."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-383",
+    "set": "ZP 2015",
+    "num": 383,
+    "topic": "Zdravověda – první pomoc",
+    "q": "Při dýchání z plic do plic by měl objem vydechovaného vzduchu odpovídat asi:",
+    "correct": "normálnímu nádechu zachránce.",
+    "wrong": [
+      "lehkému výdechu zachránce.",
+      "polovině normálního nádechu zachránce."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-384",
+    "set": "ZP 2015",
+    "num": 384,
+    "topic": "Zdravověda – první pomoc",
+    "q": "Doporučený poměr kompresí hrudníku a dýchání z plic do plic při resuscitaci dospělých nebo dětí laiky je:",
+    "correct": "vždy 30:2 (s výjimkou novorozenců).",
+    "wrong": [
+      "u dospělých 30:2, u dětí 5:2.",
+      "u dětí i dospělých 15:2."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-385",
+    "set": "ZP 2015",
+    "num": 385,
+    "topic": "Zdravověda – první pomoc",
+    "q": "Lapavé dechy - nádechy v nápadně dlouhých intervalech nebo ojedinělé nadechnutí:",
+    "correct": "jsou typickou známkou náhlé zástavy oběhu, kdy je potřeba ihned začít s resuscitací (nepřímou masáží srdce, dýcháním z plic do plic).",
+    "wrong": [
+      "jsou pro dýchání sice nedostatečné, ale znamenají, že krevní oběh je v pořádku.",
+      "jsou typickou známkou otravy alkoholem nebo drogami, postiženého je nutné ihned uložit do \"stabilizované polohy\"."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-386",
+    "set": "ZP 2015",
+    "num": 386,
+    "topic": "Zdravověda – první pomoc",
+    "q": "Resuscitaci ukončíme:",
+    "correct": "pokud začne postižený normálně dýchat.",
+    "wrong": [
+      "jakmile se postižený aspoň jednou nadechne.",
+      "pokud nemůžeme provádět dýchání z plic do plic."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-387",
+    "set": "ZP 2015",
+    "num": 387,
+    "topic": "Zdravověda – první pomoc",
+    "q": "Aniž došlo k obnovení životních funkcí, ukončíme resuscitaci utonulého:",
+    "correct": "při úplném vyčerpání zachránců.",
+    "wrong": [
+      "po bezvýsledném úsilí trvajícím alespoň 20 minut.",
+      "pokud se podařilo spojit se záchrannou službou a případ jí ohlásit."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-388",
+    "set": "ZP 2015",
+    "num": 388,
+    "topic": "Zdravověda – první pomoc",
+    "q": "Pro kvalitu resuscitace má největší význam:",
+    "correct": "co nejméně přerušovaná nepřímá masáž srdce, prováděná správnou frekvencí a dostatečně hluboko.",
+    "wrong": [
+      "správný poměr mezi masáží srdce a vdechy z plic do plic.",
+      "účinné vdechy z úst do úst co největším objemem."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-389",
+    "set": "ZP 2015",
+    "num": 389,
+    "topic": "Zdravověda – první pomoc",
+    "q": "Optimální frekvence kompresí při nepřímé masáži srdce je:",
+    "correct": "100x za minutu (téměř 2x za vteřinu) u všech postižených.",
+    "wrong": [
+      "60x za minutu u dospělých, 80x za minutu u dětí.",
+      "30x za minutu se dvěma přestávkami délce cca 10 sekund."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-390",
+    "set": "ZP 2015",
+    "num": 390,
+    "topic": "Zdravověda – první pomoc",
+    "q": "Pokud z jakéhokoliv důvodu během resuscitace nemůžeme nebo nechceme provádět dýchání z plic do plic:",
+    "correct": "pokračujeme v nepřetržité nepřímé masáži srdce.",
+    "wrong": [
+      "pokračujeme v nepřímé masáži srdce a vždy po 30 kompresích uděláme cca 10 sekund pauzu.",
+      "ukončíme resuscitaci, samotná nepřímá masáž srdce je neúčinná a zbytečná."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-391",
+    "set": "ZP 2015",
+    "num": 391,
+    "topic": "Zdravověda – první pomoc",
+    "q": "Normální klidová dechová frekvence dospělého je:",
+    "correct": "12 - 15 za minutu.",
+    "wrong": [
+      "30 - 40 za minutu.",
+      "4 - 6 za minutu."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-392",
+    "set": "ZP 2015",
+    "num": 392,
+    "topic": "Zdravověda – první pomoc",
+    "q": "Pokud není prováděna resuscitace, nastává nezvratné poškození mozku při zástavě cca po:",
+    "correct": "pěti minutách.",
+    "wrong": [
+      "jedné minutě.",
+      "patnácti minutách."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-393",
+    "set": "ZP 2015",
+    "num": 393,
+    "topic": "Zdravověda – první pomoc",
+    "q": "Pokud si nejsme jisti, zda postižený v bezvědomí dýchá nebo nedýchá:",
+    "correct": "postupujeme tak, jako kdyby nedýchal, tj. zahájíme resuscitaci.",
+    "wrong": [
+      "přiložíme k ústům zrcátko nebo brýle a sledujeme, zda se mlží. Pokud se nemlží, není třeba provádět resuscitaci.",
+      "postupujeme tak, jako kdyby dýchal. Uložíme ho do stabilizované polohy a vyčkáme příjezdu záchranné služby."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-394",
+    "set": "ZP 2015",
+    "num": 394,
+    "topic": "Zdravověda – první pomoc",
+    "q": "Tonoucího, který byl vytažen z vody, je v bezvědomí a chrčivě, ale zřetelně a pravidelně dýchá:",
+    "correct": "uložíme do polohy na boku, vyčistíme dýchací cesty, pečlivě sledujeme stav dýchání.",
+    "wrong": [
+      "uložíme do polohy na břiše, pokud možno hlavou dolů, a opakovaným mačkáním hrudníku vytlačíme co nejvíc vody z plic a dýchacích cest.",
+      "uložíme na záda a ihned zahájíme resuscitaci."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-395",
+    "set": "ZP 2015",
+    "num": 395,
+    "topic": "Zdravověda – první pomoc",
+    "q": "Postižený večer upadl, uhodil se do hlavy, druhý den ráno je nápadně ospalý, při pokusu o komunikaci zmatený, zvrací. Odbornou lékařskou pomoc:",
+    "correct": "je nutné vyhledat (případně zavolat záchrannou službu).",
+    "wrong": [
+      "je zbytečné volat, do 24 hodin se stav zpravidla upraví sám.",
+      "zásadně nevoláme, tyto příznaky nejsou nijak závažné."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-396",
+    "set": "ZP 2015",
+    "num": 396,
+    "topic": "Zdravověda – první pomoc",
+    "q": "Postižený spadl z výšky, je zmatený, nepamatuje si, co se stalo, posedává. Nejlepší je:",
+    "correct": "pokud nehrozí nebezpečí dalšího úrazu, nechat jej zaujmout polohu jaká mu vyhovuje a zavolat záchrannou službu.",
+    "wrong": [
+      "pokusit se jej \"rozchodit\" a pokud se stav do 30 minut nezlepší, odvézt postiženého do nemocnice.",
+      "uložit jej do protišokové polohy (se sníženou hlavou a zvýšenými dolními končetinami) a zavolat záchrannou službu."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-397",
+    "set": "ZP 2015",
+    "num": 397,
+    "topic": "Zdravověda – první pomoc",
+    "q": "Zaškrcení končetiny:",
+    "correct": "se používá pouze výjimečně, pokud krvácení nelze zvládnout přiložením tlakového obvazu.",
+    "wrong": [
+      "se používá přednostně, pokud jde o krvácení z končetiny.",
+      "se již nepoužívá."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-398",
+    "set": "ZP 2015",
+    "num": 398,
+    "topic": "Zdravověda – první pomoc",
+    "q": "Předloktí popálené vroucí vodou je před příjezdem záchranné služby nejlépe ošetřit:",
+    "correct": "několikaminutovým chlazením čistou vodou.",
+    "wrong": [
+      "potřením jakoukoliv mastí, v nouzi i zubní pastou.",
+      "udržením postiženého místa v teple."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-399",
+    "set": "ZP 2015",
+    "num": 399,
+    "topic": "Zdravověda – první pomoc",
+    "q": "Prst popálený o horký předmět ošetříme:",
+    "correct": "několikaminutovým chlazením čistou vodou, není třeba dalšího ošetření. Pokud se později vytvoří puchýř, nepropichujeme jej.",
+    "wrong": [
+      "potřením jakoukoliv mastí, v nouzi i zubní pastou, a ihned voláme záchrannou službu.",
+      "přiložením obvazu, pokud se později vytvoří puchýř, propíchneme jej, odstřihneme a ošetříme dezinfekcí."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-400",
+    "set": "ZP 2015",
+    "num": 400,
+    "topic": "Zdravověda – první pomoc",
+    "q": "Nejlepší poloha pro postiženého, který je při vědomí, ale hlásí, že se mu špatně dýchá, je:",
+    "correct": "vsedě nebo polosedě s možností zapřít ruce o židli nebo podložku.",
+    "wrong": [
+      "vleže na zádech se zakloněnou hlavou.",
+      "stabilizovaná poloha vleže na boku."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-401",
+    "set": "ZP 2015",
+    "num": 401,
+    "topic": "Zdravověda – první pomoc",
+    "q": "Stabilizovanou (někdy také \"zotavovací\") polohou se rozumí poloha:",
+    "correct": "na boku s hlavou otočenou k podložce.",
+    "wrong": [
+      "na zádech s hlavou v mírném předklonu.",
+      "na břiše s hlavou otočenou na stranu."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-402",
+    "set": "ZP 2015",
+    "num": 402,
+    "topic": "Zdravověda – první pomoc",
+    "q": "První pomoc při přehřátí a úpalu provedeme tak, že:",
+    "correct": "přesuneme postiženého do stínu, podáváme chladné nápoje (nejlépe minerální vodu), studené obklady na hlavu.",
+    "wrong": [
+      "přesuneme postiženého do teplé místnosti a podáme větší množství alkoholických nápojů.",
+      "přesuneme postiženého do stínu, nedáváme nic jíst ani pít, a přivoláme záchrannou službu."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-403",
+    "set": "ZP 2015",
+    "num": 403,
+    "topic": "Zdravověda – první pomoc",
+    "q": "Při opakovaných průjmech:",
+    "correct": "podáváme pouze dietní stravu, živočišné uhlí a neslazené tekutiny, pokud se stav neupraví do 24 hodin, vyhledáme lékaře.",
+    "wrong": [
+      "vyvoláme zvracení, nedáváme nic jíst ani pít, vyhledáme lékaře.",
+      "podáváme na tuky bohatou stravu, doplněnou menšími dávkami alkoholu."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-404",
+    "set": "ZP 2015",
+    "num": 404,
+    "topic": "Zdravověda – první pomoc",
+    "q": "Mezi příznaky rozvinutého šoku při vnitřním krvácení patří:",
+    "correct": "bledost, opocení, schvácený výraz, pocit strachu o život, apatie.",
+    "wrong": [
+      "nápadně silná reakce na bolest, křik nebo agitované jednání, hyperaktivita.",
+      "zvýšená teplota a nápadně horké ruce"
+    ],
+    "img": null
+  },
+  {
+    "id": "M-405",
+    "set": "ZP 2015",
+    "num": 405,
+    "topic": "Zdravověda – první pomoc",
+    "q": "Pozorujeme-li u postiženého po úrazu příznaky šoku:",
+    "correct": "ihned přivoláme záchrannou službu.",
+    "wrong": [
+      "podáme velké množství tekutin, záchrannou službu přivoláme, pokud se stav do dvou hodin nezlepší.",
+      "postiženého se snažíme uklidnit, pokud máme k dispozici, podáme sedativa a léky na snížení teploty."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-406",
+    "set": "ZP 2015",
+    "num": 406,
+    "topic": "Zdravověda – první pomoc",
+    "q": "Žilní krvácení z končetiny ošetřujeme tak, že:",
+    "correct": "postiženou končetinu zvedneme nad úroveň těla a přiložíme tlakový obvaz.",
+    "wrong": [
+      "postiženého uložíme do protišokové polohy a končetinu zaškrtíme.",
+      "zraněného uložíme do \"stabilizované\" polohy a stiskneme tepnu na postižené končetině v tlakovém bodě."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-407",
+    "set": "ZP 2015",
+    "num": 407,
+    "topic": "Zdravověda – první pomoc",
+    "q": "Při krvácení z nosu:",
+    "correct": "umístíme postiženého do polohy vsedě s lehce předkloněnou hlavou, na zátylek přikládáme studené obklady, palcem a ukazovákem stiskneme nosní křídla a počkáme několik minut. Pokud se krvácení ani po opakovaných pokusech nezastaví nebo se dokonce zvětšuje, dopravíme postiženého k lékaři.",
+    "wrong": [
+      "umístíme postiženého do polohy na zádech se zvednutýma nohama, přivoláme záchrannou službu.",
+      "umístíme postiženého do polohy vsedě, zakloníme hlavu, podáme větší množství horkých tekutin."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-408",
+    "set": "ZP 2015",
+    "num": 408,
+    "topic": "Zdravověda – první pomoc",
+    "q": "Při žilním krvácení:",
+    "correct": "volně vytéká temně červená krev",
+    "wrong": [
+      "vystřikuje jasně červená krev.",
+      "volně vytéká jasně červená krev."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-409",
+    "set": "ZP 2015",
+    "num": 409,
+    "topic": "Zdravověda – první pomoc",
+    "q": "Při tepenném krvácení:",
+    "correct": "vystřikuje jasně červená krev.",
+    "wrong": [
+      "volně vytéká temně červená krev",
+      "volně vytéká jasně červená krev."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-410",
+    "set": "ZP 2015",
+    "num": 410,
+    "topic": "Zdravověda – první pomoc",
+    "q": "Národní přímé tísňové číslo záchranné služby v České republice je:",
+    "correct": "155.",
+    "wrong": [
+      "150.",
+      "158."
+    ],
+    "img": null
+  },
+  {
+    "id": "M-411",
+    "set": "ZP 2015",
+    "num": 411,
+    "topic": "Zdravověda – první pomoc",
+    "q": "Jednotné evropské tísňové číslo je:",
+    "correct": "112.",
+    "wrong": [
+      "110.",
+      "111."
+    ],
+    "img": null
+  }
+]

@@ -1,0 +1,247 @@
+{
+  "M-001": {
+    "ref": "zákon 114/1995 Sb.",
+    "confidence": "high",
+    "explain": "Zákon o vnitrozemské plavbě definuje plavidlo velmi široce: jako ovladatelné těleso určené k pohybu nebo stání na vodě (přeprava osob, nákladu, nesení strojů). Vlastní pohon není podmínkou, proto je špatně varianta s „lodí s vlastním pohonem“. Plovoucí těleso a plovoucí zařízení jsou samostatné pojmy, ne druhy plavidla."
+  },
+  "M-002": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Za plavidlo s vlastním pohonem se považuje plavidlo se strojním pohonem. Výjimkou je plavidlo, jehož motor slouží jen k manévrům a snadnějšímu vedení při vlečení nebo tlačení: takové se pořád počítá jako bez vlastního pohonu. Plavba výhradně pod plachtami je definice plachetnice."
+  },
+  "M-003": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Plachetnice je plavidlo, které pluje jen pod plachtami a současně nepoužívá motor. Jakmile plachetnice pluje i s motorem, považuje se za plavidlo s vlastním pohonem a podle toho se řídí pravidly i označením. Délka 20 m s pojmem plachetnice nesouvisí.",
+    "mnemo": "Plachty + motor = motorák."
+  },
+  "M-004": {
+    "ref": "zákon 114/1995 Sb.",
+    "confidence": "high",
+    "explain": "Malé plavidlo má délku do 20 m, není tlačným člunem a není určené k přepravě více než 12 cestujících ani k vlečení, tlačení či bočnímu vedení jiných než malých plavidel. Čísla 22/24 m a 20/24 cestujících v chybných odpovědích jsou smyšlená.",
+    "mnemo": "Malé = do 20 m a max. 12 cestujících."
+  },
+  "M-005": {
+    "ref": "zákon 114/1995 Sb.",
+    "confidence": "high",
+    "explain": "Plavidlo do 20 m přestává být malým, pokud je určené k vlečení, tlačení nebo bočnímu vedení jiných než malých plavidel. Vlečení jiného malého plavidla nebo vodního lyžaře na tom nic nemění. Chyták je ve slovech „jiných plavidel“: zákon mluví o „jiných než malých“."
+  },
+  "M-006": {
+    "ref": "zákon 114/1995 Sb.",
+    "confidence": "high",
+    "explain": "Plovoucí stroj je zařízení schopné plavby, které je vybavené mechanickým zařízením a slouží k práci na vodní cestě nebo v přístavu (například plovoucí bagr nebo jeřáb). Popis „není určeno k opakovanému přemísťování“ (plovárna, botel) patří plovoucímu zařízení. Třetí možnost popisuje plovoucí těleso."
+  },
+  "M-007": {
+    "ref": "zákon 114/1995 Sb.",
+    "confidence": "high",
+    "explain": "Plovoucí zařízení (plovárna, dok, přístavní můstek, botel) je zařízení schopné plavby, které není určeno k opakovanému přemísťování a není plovoucím strojem. Plavidlo s mechanickým zařízením pro práce je plovoucí stroj. Plavidlo pro vlečení nebo tlačení je remorkér či tlačný člun."
+  },
+  "M-008": {
+    "ref": "zákon 114/1995 Sb.",
+    "confidence": "high",
+    "explain": "Sestava plavidel je spojení několika plavidel, z nichž alespoň jedno má vlastní pohon. Spojení boky vedle sebe je jen jeden konkrétní druh sestavy (bočně svázaná sestava), ne obecná definice. Bagr s remorkéry je smyšlený popis."
+  },
+  "M-009": {
+    "ref": "zákon 114/1995 Sb.",
+    "confidence": "high",
+    "explain": "Vlečnou sestavu tvoří jedno nebo více vlečených plavidel a jedno nebo několik plavidel s vlastním pohonem, která je vlečou a jsou součástí sestavy. Spojení boky vedle sebe je bočně svázaná sestava. Vlečení ze břehu vlečnou sestavou není, protože v ní chybí vlekoucí plavidlo s vlastním pohonem."
+  },
+  "M-010": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Stojící plavidlo je přímo nebo nepřímo zakotvené nebo vyvázané ke břehu. „Nepřímo“ znamená například vyvázané k jinému plavidlu, které je vyvázané ke břehu. Plavidlo, které motorem jen vyrovnává proud, pořád pluje. Uvázlé plavidlo je nasedlé."
+  },
+  "M-011": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Plující plavidlo je takové, které není zakotvené, vyvázané ke břehu ani nasedlé. Plavidlo, které je zakotvené nebo vyvázané, je stojící, a to i když zasahuje do plavební dráhy nebo stojí mimo vyznačené stanoviště.",
+    "mnemo": "Pluje = nekotví, neváže, nesedí."
+  },
+  "M-012": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Zastavení se posuzuje vůči břehu: plující plavidlo se zastaví, když se vůči břehu nepohybuje, i když není vyvázané. Vůči vodnímu proudu se při zastavení plavidlo ve skutečnosti pohybuje, protože musí proti proudu pracovat motorem."
+  },
+  "M-013": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Návěstní světla mohou být jen bílá, červená, zelená, žlutá a modrá. Fialová ani oranžová se v plavební signalizaci nepoužívají.",
+    "mnemo": "Pět barev: B-Č-Z-Ž-M (bílá, červená, zelená, žlutá, modrá)."
+  },
+  "M-014": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Krátký zvuk trvá asi 1 sekundu, dlouhý asi 4 sekundy. Čtvrt sekundy je délka velmi krátkého zvuku v řadě (u signálu „řada velmi krátkých zvuků“).",
+    "mnemo": "¼ – 1 – 4 s: velmi krátký – krátký – dlouhý."
+  },
+  "M-015": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Dlouhý zvuk trvá asi 4 sekundy, krátký zvuk 1 sekundu a velmi krátký ¼ sekundy.",
+    "mnemo": "¼ – 1 – 4 s: velmi krátký – krátký – dlouhý."
+  },
+  "M-016": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Blikavé světlo má 40 až 60 záblesků za minutu. Rychle blikavé světlo má 100 až 120 záblesků za minutu. Varianta s 1–3 záblesky za minutu nesplňuje definici blikavého světla.",
+    "mnemo": "Blikavé 40–60/min (asi 1 za sekundu), rychle blikavé 100–120/min."
+  },
+  "M-017": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Noc je podle pravidel přesně doba mezi západem a východem slunce, bez jakékoli půlhodinové tolerance. Pevné hodiny pro léto a zimu pravidla neznají. Pozor: noc sama o sobě není snížená viditelnost."
+  },
+  "M-018": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Den je podle pravidel doba mezi východem a západem slunce. Den a noc na sebe přesně navazují, žádná půlhodina navíc ani pevné hodiny neexistují."
+  },
+  "M-019": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Snížená viditelnost jsou podmínky, kdy viditelnost omezuje kouřmo, mlha, hustý déšť, sněhová vánice, dým a podobně. Noc (doba mezi západem a východem slunce) sníženou viditelností není. Na tom je postavený chyták ve druhé možnosti. Omezený výhled kvůli nákladu je problém plavidla, ne viditelnosti."
+  },
+  "M-020": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Plavební dráha je část vodní cesty, kterou mohou plavidla využívat pro plavbu. Definice neobsahuje žádnou zaručenou šířku ani hloubku, ty závisí na konkrétní vodní cestě. Plavební dráha také nemusí vést přes největší hloubky."
+  },
+  "M-021": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Část vodní cesty, kterou mohou plavidla využívat pro plavbu, se nazývá plavební dráha. Jde o tutéž definici jako v předchozí otázce, jen obráceně. Pojem „sledovaná vodní cesta“ se týká kategorií vodních cest, „splavný tok“ je obecné označení řeky."
+  },
+  "M-022": {
+    "ref": "zákon 114/1995 Sb.",
+    "confidence": "high",
+    "explain": "Vůdce plavidla je osoba, která plavidlo nebo sestavu na vodní cestě vede a je k tomu způsobilá (má příslušný průkaz). Vyučení, kurz nebo věk 18 let zákon jako definici vůdce neuvádí."
+  },
+  "M-023": {
+    "ref": "zákon 114/1995 Sb.",
+    "confidence": "high",
+    "explain": "Ze zákona musí být vůdce na plavidle přítomen, když plavidlo pluje. Za stání nebo jen při nastupování a vystupování cestujících tuto obecnou povinnost nemá, a proto jsou ostatní dvě možnosti příliš široké."
+  },
+  "M-024": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Vůdce sestavy plavidel dává příkazy vůdcům plavidel, která tvoří sestavu, a ti se jimi musí řídit. Ostatní účastníky provozu jeho příkazy nezavazují. Neplatí ani to, že by se týkaly jen posádky tlačného nebo vlečného plavidla."
+  },
+  "M-025": {
+    "ref": "zákon 114/1995 Sb.",
+    "confidence": "high",
+    "explain": "Příkazy vůdce plavidla pro bezpečnost a plynulost plavby jsou povinni plnit členové posádky i všechny další osoby na plavidle, tedy i cestující. Vůdce ale nemůže úkolovat jiné účastníky provozu. Výjimka pro osoby s „vlastním průvodcem“ neexistuje."
+  },
+  "M-026": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Nejvyšší povolené rozměry (délka, šířka) plavidel a sestav pro jednotlivé úseky vodních cest jsou v příloze vyhlášky o pravidlech plavebního provozu. Zákon tyto technické hodnoty neobsahuje."
+  },
+  "M-027": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Nejvyšší povolené ponory pro jednotlivé úseky jsou také v příloze vyhlášky o pravidlech plavebního provozu. Správce vodní cesty žádné „vyhlášky“ nevydává, pouze zveřejňuje aktuální plavební podmínky.",
+    "mnemo": "Rozměry i ponor → příloha vyhlášky o pravidlech plavebního provozu."
+  },
+  "M-028": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Nasedlé plavidlo uvázlo na překážce nebo na dně, a proto se nemůže volně pohybovat. Vytažení na lodní výtah nebo ukončení nástupu cestujících se slovem „nasednutí“ jen hrají na podobnost."
+  },
+  "M-029": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Plavba samotíží (nechat se jen unášet proudem bez pohonu) je zakázaná, ale zákaz se netýká malých plavidel bez vlastního pohonu, která nepodléhají evidenci (kanoe, kajaky, rafty). Malá plavidla s motorem výjimku nemají, a tedy ani „všechna malá plavidla“."
+  },
+  "M-030": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Náklad musí být rozmístěný tak, aby neohrožoval stabilitu plavidla ani pevnost jeho tělesa. Lhůta „2 dny před vyplutím“ je smyšlená. Parametry vodní cesty se týkají rozměrů a ponoru, ne rozmístění nákladu."
+  },
+  "M-031": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Plavidlo nesmí vézt víc cestujících, než kolik je na něm povoleno. Dodržení ponoru překročení počtu neomlouvá. Vézt méně cestujících se samozřejmě smí."
+  },
+  "M-032": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Kormidelník musí mít možnost přijímat příkazy a předávat informace, slyšet zvukové signály a mít dostatečný rozhled všemi směry. Rádio, dalekohled ani clona proti oslnění nejsou obecnou povinností pro všechna plavidla."
+  },
+  "M-035": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Přes obrys plavidla nesmí vyčnívat předměty, které by mohly ohrozit jiná plavidla nebo poškodit plavební zařízení a stavby na vodní cestě. Pravidlo chrání ostatní a infrastrukturu, ne náklad samotný. Výstroj, která nikoho neohrožuje, vyčnívat smí."
+  },
+  "M-036": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Pokud z plavidla vypadne předmět, který může být plavební překážkou, musí vůdce zajistit jeho odstranění z plavební dráhy. Čekat na úřad nebo jen zapsat záznam do deníku nestačí. Teprve když předmět odstranit nejde, nastupuje označení a hlášení (viz další otázka)."
+  },
+  "M-037": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Když vypadlý předmět nejde odstranit, vůdce místo podle možností viditelně označí a neodkladně uvědomí plavební úřad a správce vodní cesty. Zastavovat plavbu v obou směrech vůdce nemá pravomoc. Hasiči plavební značení neosazují."
+  },
+  "M-038": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "U neznámé překážky (kterou vůdce nezpůsobil) je povinností neodkladně uvědomit plavební úřad a správce vodní cesty a podle možností místo označit. Odstraňovat cizí překážku vůdce povinen není. „Čtvercová vlajka libovolné barvy“ je smyšlenka.",
+    "mnemo": "Moje překážka → odstraním. Cizí/neznámá → nahlásím a označím."
+  },
+  "M-039": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Je zakázáno poškozovat plavební značení a plavební zařízení a vyvazovat se k nim (například k bójím). Další dvě možnosti jsou absurdní: respektovat signální znaky se naopak musí vždy, i v noci a za snížené viditelnosti."
+  },
+  "M-040": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Na vodní cestě a v její blízkosti se nesmí umisťovat předměty zaměnitelné s plavebním značením (například světla nebo tabule, které připomínají signální znaky), protože by mohly plavidla uvést v omyl."
+  },
+  "M-041": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Vůdce hlásí plavebnímu úřadu a správci vodní cesty zjištěné změny, přemístění nebo poškození plavebního značení a poškození staveb na vodní cestě. Břehový porost ani cizí vyvázané plavidlo nejsou předmětem této ohlašovací povinnosti."
+  },
+  "M-042": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Vůdce musí zabránit úniku jakýchkoli látek, které mohou ohrozit bezpečnost a plynulost plavby, ostatní účastníky provozu nebo uživatele vodní cesty. Nezáleží na tom, jestli jsou lehčí než voda. Výjimka „ropné odpady 1:100“ neexistuje."
+  },
+  "M-043": {
+    "ref": "zákon 114/1995 Sb.",
+    "confidence": "high",
+    "explain": "Při nehodě má záchrana osob přednost před vším ostatním: vůdce použije všechny dostupné prostředky k záchraně lidí. Záchrana plavidla a nákladu je až druhořadá. Pouhé ohlášení úřadu nestačí."
+  },
+  "M-045": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Nasedlé nebo potopené plavidlo v plavební dráze nebo u ní musí co nejdříve použít signalizaci nasedlého či potopeného plavidla a na vhodných místech upozornit přibližující se plavidla. Řady úderů na zvon se dávají za snížené viditelnosti. Signalizace „bez manévrovací schopnosti“ je pro jinou situaci."
+  },
+  "M-046": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Obsluhu plavební komory vůdce uvědomí o nehodě, ke které došlo při proplouvání komorou, protože obsluha za provoz komory odpovídá a musí zasáhnout. U nehod jinde (ve zdrži, mimo dohled) se postupuje obecným hlášením plavebnímu úřadu."
+  },
+  "M-047": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Vůdci se musí řídit ústními pokyny viditelně označeného zaměstnance plavebního úřadu, pokud je dává v zájmu bezpečnosti a plynulosti plavebního provozu. Pokyny „nad rámec zákona“ nebo pro pouhé zrychlení proplouvání se do této povinnosti nevejdou."
+  },
+  "M-048": {
+    "ref": "zákon 114/1995 Sb. / vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Neevidované malé plavidlo (například kánoe) nese na vnitřní nebo vnější straně název provozovatele nebo jeho obvyklou zkratku, případně jméno a příjmení nebo název vlastníka. Musí jít o identifikaci vlastníka či provozovatele, ne o libovolné heslo. Římské číslice obsaditelnosti nejsou."
+  },
+  "M-049": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Evidenční označení evidovaného malého plavidla se píše na vnější strany obou boků poblíž přídě, čitelnými nesmazatelnými latinskými písmeny vysokými nejméně 10 cm. Musí být vidět z jiných plavidel, proto ne na vnitřní straně a ne jen 5 cm.",
+    "mnemo": "Evidované: oba boky, u přídě, ≥ 10 cm."
+  },
+  "M-050": {
+    "ref": "zákon 114/1995 Sb. / vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Neevidované malé plavidlo nese poznávací znaky na vnitřní nebo vnější straně. Místo je volné, na rozdíl od evidovaných plavidel, kde musí být označení na vnějších bocích u přídě. Hlavní plachta ani povinná výstroj předepsaná nejsou."
+  }
+}

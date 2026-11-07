@@ -1,0 +1,337 @@
+{
+  "M-287": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Černý kříž na tabuli s červeným rámem stojí na vedlejší vodní cestě před vplutím na hlavní cestu nebo před jejím křížením. Přikazuje přesvědčit se, že plavidla na hlavní cestě nebudou muset měnit směr ani rychlost. Plavidla na vedlejší cestě přednost nemají."
+  },
+  "M-288": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Dvě žlutá blikavá (izofázová) světla nad sebou u výjezdu z přístavu nebo přítoku upozorňují plavidla na hlavní cestě, že z něj vyplouvá plavidlo. Musí upravit směr nebo rychlost, aby mu výjezd umožnila. Obecné povolení proplutí to není."
+  },
+  "M-289": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Nápis „VHF“ na tabuli s červeným rámem je příkaz uvést do provozu radiostanici. Červený rám bez přeškrtnutí vždy znamená příkaz."
+  },
+  "M-290": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "„VHF“ s číslem kanálu na tabuli s červeným rámem přikazuje uvést radiostanici do provozu na uvedeném kanálu. Pokud je stejný nápis na modré tabuli, jde jen o informaci, že se na kanálu dají získat informace.",
+    "mnemo": "Červený rám = musíš. Modrá = můžeš / informace."
+  },
+  "M-291": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Tabule s černým trojúhelníkem ode dna a číslem znamená, že hloubka je omezená a číslo udává hloubku v metrech. Trojúhelník zespodu symbolizuje dno."
+  },
+  "M-292": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Tabule s černým trojúhelníkem shora a číslem znamená omezenou podjezdnou výšku. Číslo udává výšku od hladiny v metrech. Trojúhelník shora symbolizuje most.",
+    "mnemo": "Trojúhelník zdola = hloubka, shora = výška, ze stran = šířka."
+  },
+  "M-293": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Černé trojúhelníky z obou stran tabule znamenají, že šířka plavebního profilu nebo plavební dráhy je omezená. Pokud je na tabuli číslo, udává šířku v metrech."
+  },
+  "M-294": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Prázdná bílá tabule s červeným rámem znamená „INFORMUJTE SE“: platí omezení, se kterým je nutné se seznámit (bývá vysvětleno dodatkovou tabulkou). Konec omezení značí modrá tabule s bílým šikmým pruhem."
+  },
+  "M-295": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Tabule s černou šipkou nebo klínem a číslem udává, že plavební dráha je vzdálená od břehu tolik metrů, kolik je uvedeno (zde 10 m). Šipka ukazuje směr k plavební dráze."
+  },
+  "M-296": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Jedno žluté světlo nad polem mostu doporučuje proplouvání tímto polem v obou směrech. Dvě žlutá světla nebo tabule vedle sebe znamenají doporučené proplouvání jen v jednom směru.",
+    "mnemo": "Jedna žlutá = oba směry, dvě žluté = jeden směr."
+  },
+  "M-297": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Dvě žluté čtvercové tabule postavené na vrchol vedle sebe doporučují proplouvání jen v jednom směru. Proplouvání v protisměru je zakázáno. Jedna žlutá značka by znamenala oba směry."
+  },
+  "M-298": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Dvě zeleno-bílé tabule ve tvaru čtverce na vrcholu doporučují držet se v prostoru mezi nimi v mostním nebo jezovém poli. Červeno-bílé tabule stejného tvaru plavbu mimo vymezený prostor zakazují.",
+    "mnemo": "Zeleno-bílé = doporučeno, červeno-bílé = zakázáno."
+  },
+  "M-299": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Stálé bílé světlo a vedle něj blikavé (izofázové) bílé světlo doporučují plout směrem od stálého světla k blikavému. Neznamenají stůj a jeď."
+  },
+  "M-300": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Tabule zelená-bílá-zelená (svislé pruhy) je obecné povolení proplutí. Je to opak červeno-bílo-červené tabule zákazu proplutí."
+  },
+  "M-301": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Modrá tabule s bílým bleskem upozorňuje na elektrické vedení přes vodní cestu. Pozor na stěžně plachetnic. Pod vedením vysokého napětí je zakázáno stát.",
+    "mnemo": "Modré tabule (řada E) = informace / povolení."
+  },
+  "M-302": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Modrá tabule se stylizovanou hrází s průtoky upozorňuje na jez. Plavební komora má jiný znak."
+  },
+  "M-303": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Modrá tabule s převozní lodí a vodorovnou čarou (lanem) pod ní upozorňuje na převozní lodě, které neplují volně, tedy jsou vedené po laně. Pozor na lano."
+  },
+  "M-304": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Modrá tabule s převozní lodí bez lana upozorňuje na volně plující převozní lodě."
+  },
+  "M-305": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Bílé „P“ na modré tabuli znamená povolené stání, tedy na kotvě nebo vyvázáním u břehu. Přeškrtnuté „P“ v červeném rámu je naopak zákaz stání."
+  },
+  "M-306": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Číslo na modré tabuli u místa stání znamená, že stání je povolené v šířce uvedené v metrech od znaku (zde 40 m). Rychlost by byla číslem v červeném rámu."
+  },
+  "M-307": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Rozpětí „20–40“ na modré tabuli znamená, že stání je povoleno v pásmu 20 až 40 m od znaku. S rychlostí ani polohou plavební dráhy nesouvisí."
+  },
+  "M-308": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Římská číslice na modré tabuli udává nejvyšší počet plavidel, která smějí stát těsně vedle sebe (bok po boku). Nejde o celkový počet plavidel na stání ani o počet za sebou."
+  },
+  "M-309": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Bílý trojúhelník na modré tabuli označuje místo stání vyhrazené pro plavidla určená k plavbě tlačením. Tato skupina znaků (trojúhelníky a kosočtverce s modrými kužely) se týká hlavně velké nákladní plavby."
+  },
+  "M-310": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Bílý trojúhelník s jedním modrým kuželem uvnitř označuje stání pro tlačná plavidla, která přepravují nebezpečné věci (jeden modrý kužel). Kužel uvnitř symbolu vždy odkazuje na nebezpečný náklad."
+  },
+  "M-311": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Bílý trojúhelník se dvěma modrými kužely označuje stání pro tlačná plavidla s nebezpečnými věcmi, která nesou dva modré kužele. Rozhoduje počet kuželů ve znaku, který odpovídá počtu kuželů na plavidle."
+  },
+  "M-312": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Obrácený trojúhelník se třemi modrými kužely označuje stání pro plavidla s nebezpečnými věcmi (tři modré kužele), ale ne pro plavidla určená k plavbě tlačením. Obrácený trojúhelník tu znamená „kromě tlačných“."
+  },
+  "M-313": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Bílý kosočtverec bez kuželů na modré tabuli označuje stání pro všechna plavidla, která nepřepravují nebezpečné věci. Nejde jen o malá plavidla."
+  },
+  "M-314": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Kosočtverec s modrým kuželem uvnitř označuje stání vyhrazené pro plavidla, která přepravují nebezpečné věci. Kužel uvnitř symbolu znamená nebezpečný náklad."
+  },
+  "M-315": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Bílá kotva na modré tabuli znamená povolené kotvení a vlečení kotev, lan nebo řetězů. Je to opak přeškrtnuté kotvy v červeném rámu."
+  },
+  "M-316": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Bílý pacholek na modré tabuli znamená povolené vyvazování u břehu. Opakem je přeškrtnutý pacholek v červeném rámu."
+  },
+  "M-317": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Automobil a jeřáb na modré tabuli označují místo vyhrazené pro stání plavidel, která nakládají nebo vykládají vozidla."
+  },
+  "M-318": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Kruhová šipka na modré tabuli označuje místo doporučené pro obrat. Přeškrtnutá v červeném rámu by obrat zakazovala. V obratišti se nesmí stát."
+  },
+  "M-319": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Široký bílý kříž na modré tabuli, kde je svislé rameno silnější, říká plavidlu, že pluje po hlavní vodní cestě a tu kříží vedlejší cesta. Hlavní cesta je zobrazena jako široký pruh ve směru plavby."
+  },
+  "M-320": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Široký svislý bílý pruh s odbočkou na jednu stranu znamená, že plavidlo pluje po hlavní vodní cestě, do které ústí vedlejší cesta. Plavidla z vedlejší cesty nesmí přinutit plavidla na hlavní cestě měnit směr nebo rychlost."
+  },
+  "M-321": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Kříž, ve kterém je široký pruh vodorovně napříč, znamená, že plavidlo pluje po vedlejší vodní cestě, která kříží hlavní cestu. Doplňuje příkazový znak „přesvědčit se před křížením“."
+  },
+  "M-322": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Znak „T“ se širokým vodorovným pruhem nahoře znamená, že plavidlo pluje po vedlejší vodní cestě a blíží se k hlavní cestě, do které ústí."
+  },
+  "M-323": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Modrá tabule s bílým šikmým pruhem znamená konec zákazu, příkazu nebo omezení platného pro plavbu v jednom směru. Podobá se silničnímu znaku „konec omezení“."
+  },
+  "M-324": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Pokud jedno nebo dvě bílá světla vedle sebe svítí nepřerušovaně, je třeba zůstat stát, protože ve směru plavby jsou překážky. Pokud blikají, lze pokračovat.",
+    "mnemo": "Svítí = stůj. Bliká = jeď."
+  },
+  "M-325": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Pokud výstražná bílá světla blikají, lze pokračovat v plavbě. Pokud svítí nepřerušovaně, je třeba zůstat stát."
+  },
+  "M-326": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Vodovodní kohoutek na modré tabuli označuje místo odběru pitné vody."
+  },
+  "M-327": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Telefonní sluchátko na modré tabuli označuje telefon."
+  },
+  "M-328": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Lodní šroub na modré tabuli znamená, že plavba plavidel s vlastním pohonem je povolená. Přeškrtnutý šroub v červeném rámu ji zakazuje.",
+    "mnemo": "Stejný symbol: modrá = povoleno, červený rám s přeškrtnutím = zakázáno."
+  },
+  "M-329": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Nápis „SPORT“ na modré tabuli znamená, že plavba malých plavidel je povolená."
+  },
+  "M-330": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Vodní lyžař na modré tabuli znamená, že vodní lyžování je povolené."
+  },
+  "M-331": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Plachetnice na modré tabuli znamená, že plavba plachetnic je povolená."
+  },
+  "M-332": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Veslař ve člunu na modré tabuli znamená, že plavba plavidel bez vlastního pohonu, která nejsou plachetnicemi, je povolená."
+  },
+  "M-333": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Windsurfař na modré tabuli znamená, že plavba na plovácích s plachtou (windsurfech) je povolená."
+  },
+  "M-334": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Rychlý motorový člun na modré tabuli znamená, že plavba malých plavidel vysokou rychlostí je povolená. Konec takového úseku značí stejný člun přeškrtnutý v červeném rámu."
+  },
+  "M-335": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Člun na vozíku na skluzu na modré tabuli označuje doporučené místo ke spouštění plavidel na vodu a jejich vytahování z vody (slip)."
+  },
+  "M-336": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "„VHF“ s číslem kanálu na modré tabuli znamená, že na uvedeném kanálu lze získat informace. Jde jen o možnost. Příkaz zapnout stanici by byl v červeném rámu."
+  },
+  "M-337": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Vodní skútr na modré tabuli znamená, že plavba vodních skútrů je povolená."
+  },
+  "M-338": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Červená válcová bóje označuje pravou stranu plavební dráhy. Pravá a levá strana se určují ve směru po proudu (od pramene k ústí).",
+    "mnemo": "Po proudu: červená vpravo (válec), zelená vlevo (kužel)."
+  },
+  "M-339": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Zelená kuželová bóje označuje levou stranu plavební dráhy, opět ve směru po proudu."
+  },
+  "M-340": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Kulovitá bóje s vodorovnými červenými a zelenými pruhy označuje místo, kde se plavební dráha rozděluje. Kombinace obou barev říká, že dráha vede po obou stranách."
+  },
+  "M-341": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Bílé „P“ na bóji označující stranu plavební dráhy znamená, že dráha vede podél míst stání. Bóje tak říká, že za ní mohou stát plavidla."
+  },
+  "M-342": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Červená čtvercová tabule na břehu znamená, že plavební dráha vede při pravém břehu (ve směru po proudu). Červená barva patří pravé straně."
+  },
+  "M-343": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Tabule ve tvaru čtverce na vrcholu, nahoře zelená a dole bílá, znamená, že plavební dráha vede při levém břehu. Zelená barva patří levé straně."
+  },
+  "M-344": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Žlutá čtvercová tabule se svislým černým pruhem je pravobřežní přechodový znak: plavební dráha přechází od pravého břehu k levému. Čtverec patří pravému břehu stejně jako červená čtvercová tabule.",
+    "mnemo": "Čtverec = pravý břeh, kosočtverec = levý břeh."
+  },
+  "M-345": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Žlutý kosočtverec se svislým černým pruhem je levobřežní přechodový znak: plavební dráha přechází od levého břehu k pravému."
+  },
+  "M-346": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Červený kužel vrcholem dolů označuje nebezpečné místo nebo překážku při pravém břehu."
+  },
+  "M-347": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Zelený kužel vrcholem nahoru označuje nebezpečné místo nebo překážku při levém břehu. Zelená barva vždy patří levé straně."
+  },
+  "M-348": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Červeno-bílá tyč (plovatka) s červeným válcem nebo čtvercem nahoře označuje překážku při pravém břehu. Plovoucí vodočet to není."
+  },
+  "M-349": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Zeleno-bílá tyč se zeleným kuželem nahoře označuje překážku při levém břehu."
+  },
+  "M-350": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Černo-červená bóje nebo tyč se dvěma černými koulemi nahoře je znak osamělého nebezpečí: označuje překážku, kterou lze bezpečně obeplout dokola. Bezpečné vody se značí červeno-bíle s jednou červenou koulí.",
+    "mnemo": "Dvě černé koule = pozor, překážka. Jedna červená koule = bezpečná voda."
+  },
+  "M-351": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Červeno-bílá tyč nebo bóje s červenou koulí nahoře vyznačuje bezpečné vody, tedy místo, kde je plavba volná. Neznačí nebezpečné místo ani rozdělení dráhy."
+  }
+}

@@ -1,0 +1,6 @@
+node_modules
+dist
+dev-dist
+# původní stránka SPS – jen vstup pro npm run parse, do repa nepatří
+zdroj/
+.claude/settings.local.json

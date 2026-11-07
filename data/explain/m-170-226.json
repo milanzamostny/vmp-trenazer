@@ -1,0 +1,299 @@
+{
+  "M-170": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "V plavební komoře mohou cestující vystupovat a nastupovat jen se souhlasem obsluhy komory, protože obsluha za provoz komory odpovídá. Pokyn vůdce plavidla nestačí a nejde ani o výjimku jen pro naléhavé případy."
+  },
+  "M-171": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Na obrázku je bílé vrcholové světlo, červené a zelené boční světlo a bílé záďové světlo. To je základní noční označení samostatně plujícího plavidla s vlastním pohonem. Převozní loď nese zelená světla, přednost se označuje jinak."
+  },
+  "M-172": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Na obrázku jsou dvě vrcholová světla nad sebou, boční světla a žluté záďové světlo. Tak se označuje remorkér v čele vlečné sestavy. Druhé vrcholové světlo prozrazuje, že vleče, a žluté záďové světlo upozorňuje, že za ním je vlek.",
+    "mnemo": "Počet vrcholových světel nad sebou = remorkér (2) / remorkéry vedle sebe (3)."
+  },
+  "M-173": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Žlutý válec s černými a bílými pruhy nahoře a dole je denní znak remorkéru v čele vlečné sestavy. Odpovídá nočnímu označení dvěma vrcholovými světly a žlutým záďovým světlem."
+  },
+  "M-174": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Tři vrcholová světla nad sebou spolu s bočními a žlutým záďovým světlem nese každý z remorkérů, které vlečou sestavu vedle sebe. Jeden remorkér v čele má jen dvě vrcholová světla nad sebou."
+  },
+  "M-175": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Jedno bílé světlo viditelné ze všech stran bez dalších světel nese vlečené plavidlo. Vlečené plavidlo nemá vlastní vrcholové ani boční světla, protože ho vede remorkér."
+  },
+  "M-176": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Žlutý balón je denní znak vlečeného plavidla nebo plavidel vlečených jedním či více remorkéry. Lano převozní lodi nese loďka s bílým světlem a stojící plavidlo bez přístupu na břeh nese černý balón.",
+    "mnemo": "Žlutá = vlek (žlutý balón, žluté záďové světlo)."
+  },
+  "M-177": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Tlačná sestava nese na přídi tři vrcholová světla do trojúhelníku, boční světla a na tlačném plavidle vzadu tři záďová světla vedle sebe. Trojúhelník vpředu je pro tlačnou sestavu typický."
+  },
+  "M-178": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Bočně svázaná sestava nese dvě vrcholová světla, po jednom na každém plavidle (na tom bez pohonu nižší), boční světla na vnějších bocích a záďová světla na obou plavidlech. Tím se liší od tlačné sestavy s trojúhelníkem vpředu."
+  },
+  "M-179": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Boční a záďové světlo, ke kterým může přibýt červené nad zeleným na vrcholu stěžně, nese plachetnice, která není malým plavidlem. Červené a zelené na stěžni jsou nepovinná, proto otázka zní „může nést“. Malá plachetnice je nenese."
+  },
+  "M-180": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Vrcholové světlo, boční světla a záďové světlo na malém plavidle znamenají malé plavidlo s vlastním pohonem. Plavidla bez pohonu vrcholové světlo nikdy nenesou."
+  },
+  "M-181": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Vrcholové světlo, sdružená boční světla a záďové světlo nese malé plavidlo, které vleče nebo bočně vede jiné malé plavidlo. Nese stejná světla jako běžné malé motorové plavidlo. Vlečené malé plavidlo by mělo jen jedno bílé světlo."
+  },
+  "M-182": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Jedno bílé světlo viditelné ze všech stran na malém motorovém člunu je zjednodušené označení malého plavidla s vlastním pohonem do 7 m. Delší motorové plavidlo potřebuje vrcholové, boční a záďové světlo.",
+    "mnemo": "7 m je hranice pro zjednodušené osvětlení."
+  },
+  "M-183": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Jedno bílé světlo viditelné ze všech stran na člunu bez pohonu nesou malá plavidla vlečená nebo vedená v bočně svázané sestavě. Platí to pro oba způsoby, ne jen pro vlečení."
+  },
+  "M-184": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Sdružená boční světla a záďové světlo bez vrcholového světla nese malá plachetnice delší než 7 m. Kdyby plula i na motor, musela by přidat vrcholové světlo."
+  },
+  "M-185": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Na obrázku je jedna trojbarevná svítilna na vrcholu stěžně (červená, zelená, bílá), která spojuje boční a záďová světla. Smí ji použít malá plachetnice delší než 7 m. Plachetnice do 7 m si vystačí s bílým světlem."
+  },
+  "M-186": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Bílé světlo viditelné ze všech stran a druhé bílé světlo, ukázané při přiblížení jiného plavidla, nese malá plachetnice do 7 m. Delší malá plachetnice nese boční a záďová světla."
+  },
+  "M-187": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Jedno bílé světlo viditelné ze všech stran na veslici nebo kánoi nese samostatně plující malé plavidlo bez pohonu a bez plachet. Hranice 5,4 kW nebo 10 m² plachet s tímto označením nesouvisejí."
+  },
+  "M-188": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Plachetnice s vrcholovým světlem, bočními a záďovým světlem pluje pod plachtami i na motor. Podle pravidel je to plavidlo s vlastním pohonem, proto nese vrcholové světlo. Čistá plachetnice by ho neměla."
+  },
+  "M-189": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Černý kužel vrcholem dolů nese ve dne malé plavidlo, které pluje pod plachtami a současně na motor. Je to denní obdoba vrcholového světla u plachetnice.",
+    "mnemo": "Kužel dolů = plachty + motor."
+  },
+  "M-190": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Žlutý dvojitý kužel nese plavidlo do 20 m, na kterém se smí přepravovat více než 12 cestujících. Upozorňuje, že nejde o běžné malé plavidlo. Vlečené plavidlo nese žlutý balón."
+  },
+  "M-191": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Modré světlo viditelné ze všech stran nese plavidlo přepravující nebezpečné věci. Počet modrých světel (1–3) udává stupeň nebezpečí. Převozní lodě se označují zeleně."
+  },
+  "M-192": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Modrý kužel vrcholem dolů je denní znak plavidla s nebezpečnými věcmi. Odpovídá modrému světlu v noci. Černý kužel vrcholem dolů značí plachty a motor, červený plamenec přednost.",
+    "mnemo": "Modrá = nebezpečný náklad (1 = 10 m, 2 = 50 m, 3 = 100 m)."
+  },
+  "M-193": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Zelené světlo nad bílým, obě viditelná ze všech stran, nese převozní loď, která nepluje volně (je vedená po laně). Bez bočních a záďového světla jde o převozní loď na laně. Volně plující převozní loď nese navíc boční a záďové světlo."
+  },
+  "M-194": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Zelený balón nese ve dne převozní loď, která nepluje volně (na laně). Zelená barva je pro převozní lodě typická.",
+    "mnemo": "Zelená = převoz."
+  },
+  "M-195": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Bílé světlo viditelné ze všech stran na malé loďce nebo plováku nese loďka či plovák, který drží vodicí lano převozní lodi. Upozorňuje, kde je lano, aby do něj nikdo nenarazil."
+  },
+  "M-196": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Zelené světlo nad bílým spolu s bočními a záďovým světlem nese volně plující převozní loď. Boční a záďová světla ukazují, že pluje samostatně, ne po laně."
+  },
+  "M-197": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Zelený balón nese ve dne volně plující převozní loď. Ve dne se tedy obě převozní lodě (volná i na laně) označují zeleným balónem."
+  },
+  "M-198": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Kývání červeným světlem v půlkruhu (na malém plavidle i bílým) znamená, že plavidlo ztratilo manévrovací schopnost. Nouzi signalizuje kroužení světlem, ne kývání.",
+    "mnemo": "Kývání = neovladatelné. Kroužení = nouze."
+  },
+  "M-199": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Kývání červenou vlajkou v půlkruhu je denní signál plavidla, které ztratilo manévrovací schopnost. Nouzi znamená kroužení vlajkou, přednost se označuje červeným plamencem.",
+    "mnemo": "Kývání = neovladatelné. Kroužení = nouze."
+  },
+  "M-200": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Dvě červená světla 1 m nad sebou nese v noci plavidlo, které ztratilo manévrovací schopnost. Nebezpečný náklad se označuje modře a převozní loď zeleně."
+  },
+  "M-201": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Dva černé balóny nad sebou nese ve dne plavidlo, které ztratilo manévrovací schopnost. Odpovídají dvěma červeným světlům v noci. Jeden černý balón by znamenal plavidlo stojící bez přístupu na břeh."
+  },
+  "M-202": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Červený plamenec v přední části nese plavidlo s oprávněním přednostního proplutí (například komorami). Nebezpečné látky se značí modře."
+  },
+  "M-203": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Jeden černý balón nese ve dne plavidlo, které stojí (například na kotvě) bez přímého nebo nepřímého přístupu na břeh. Činnost pod vodou označuje vlajka „A“."
+  },
+  "M-204": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Řada bílých světel na plovácích u sítě a bílé světlo u plavidla označují v noci rybářskou síť nebo jiné rybolovné zařízení. Upozorňují, že pod hladinou je síť."
+  },
+  "M-205": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Žluté plováky v řadě nad sítí označují ve dne rybářskou síť nebo jiné rybolovné zařízení. Černý balón patří plavidlu u sítě, které stojí na kotvě."
+  },
+  "M-206": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Dvě zelená světla nad sebou na obou stranách nese plovoucí stroj nebo plavidlo pracující na místě, které lze obeplout z obou stran. Zelená ukazuje stranu, kde je proplutí volné. Pokud jsou zelená na obou stranách, lze proplout oběma.",
+    "mnemo": "Pracovní plavidlo: zelená = tudy, červená = tudy ne."
+  },
+  "M-207": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Dva zelené dvojité kužele nad sebou na obou stranách jsou denní obdoba dvou zelených světel. Plovoucí stroj nebo pracující plavidlo lze obeplout z obou stran."
+  },
+  "M-208": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Červený balón na jedné straně a dva zelené dvojité kužele na druhé straně označují pracující plavidlo, které lze obeplout jen po jedné straně, a to po té se zelenými kužely. Červený balón označuje stranu s překážkou (například kotvou)."
+  },
+  "M-209": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Červeno-bílé vlajky nebo tabule na obou stranách znamenají, že pracující, nasedlé nebo potopené plavidlo lze obeplout, ale vyžaduje ochranu před vlnobitím, tedy proplout pomalu. Červeno-bílá barva je v pravidlech znakem ochrany před vlnobitím."
+  },
+  "M-210": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Pokud je vlajka nebo tabule ochrany před vlnobitím doplněna znakem zákazu proplutí na jedné straně, lze pracující, nasedlé nebo potopené plavidlo obeplout jen po jedné straně, a to pomalu kvůli vlnobití. Úplný zákaz proplutí ani obeplutí zprava při rybolovu to neznamená."
+  },
+  "M-211": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Plovoucí těleso nebo plovoucí zařízení, jehož kotvy mohou ohrozit plavbu, nese bílá světla viditelná ze všech stran. Nebezpečnou kotvu navíc označuje plovák (viz následující otázka). Netýká se to každého zakotveného plavidla ani jen potápěčů."
+  },
+  "M-212": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Žlutý plovák nebo bóje s radarovým odražečem označuje kotvy, které mohou ohrozit plavbu, aby o ně jiná plavidla nezachytila. Neoznačují se všechny kotvy, jen ty nebezpečné."
+  },
+  "M-213": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Modré blikavé světlo viditelné ze všech stran používají plavidla plavebního úřadu, policie, obecní policie, celní správy a IZS. Trvalé modré světlo by znamenalo nebezpečný náklad."
+  },
+  "M-214": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Přeškrtnuté „P“ s číslem na plavidle zakazuje stát bokem vedle tohoto plavidla ve vzdálenosti uvedené na znaku v metrech. Zákaz se týká bočního stání, ne stání před přídí či za zádí ani obecně jakéhokoli stání."
+  },
+  "M-215": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Červené světlo nad bílým nese stojící plavidlo, které potřebuje ochranu před vlnobitím: je vážně poškozené, účastní se záchranných prací, ztratilo manévrovací schopnost nebo má povolení plavebního úřadu. Ostatní mají kolem něj zpomalit."
+  },
+  "M-216": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Červeno-bílá vlajka nebo tabule (horní polovina červená) je denní znak ochrany před vlnobitím. Smí ho použít například plavidlo, které se účastní záchranných prací. S polskou vlajkou nemá nic společného, i když vypadá podobně (polská je naopak bílo-červená)."
+  },
+  "M-217": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Žluté rychle blikavé světlo nese plavidlo, které za plavby vykonává práci na vodní cestě (například údržbu). Upozorňuje, že plavidlo nemusí plout běžným způsobem. Lodivodské plavidlo nese bílé nad červeným."
+  },
+  "M-218": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Červené, bílé a červené světlo nad sebou nese spolu s vrcholovými a bočními světly plavidlo s omezenou možností manévrování. Ostatní se mu mají vyhnout."
+  },
+  "M-219": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Černý balón, dvojitý kužel a balón nad sebou je denní signál plavidla s omezenou možností manévrování. Odpovídá světlům červené-bílé-červené.",
+    "mnemo": "Balón–kosočtverec–balón = červená–bílá–červená."
+  },
+  "M-220": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Zelené světlo nad bílým spolu s vrcholovým, bočními a záďovým světlem nese plavidlo, které vleče rybářské sítě. Převozní loď má zelené nad bílým také, ale nemá vrcholové světlo."
+  },
+  "M-221": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Dva kužele s vrcholy proti sobě (tvar přesýpacích hodin) nese ve dne plavidlo při rybolovu. Omezenou manévrovatelnost značí balón-kosočtverec-balón."
+  },
+  "M-222": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Pokud rybolovné zařízení sahá dál než 150 m od boku plavidla, přidává rybářské plavidlo na tuto stranu bílé světlo. Ostatní tak vědí, kde je síť. Nejde o kotvu ani o omezenou manévrovatelnost."
+  },
+  "M-223": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Ke kuželům rybářského plavidla (přesýpací hodiny) přibude kužel vrcholem nahoru na straně, kam rybolovné zařízení sahá dál než 150 m od boku. Nebezpečný náklad se značí modrými kužely."
+  },
+  "M-224": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Bílo-modrá vlajka „A“ mezinárodního kódu (tuhá maketa) označuje plavidlo, které zajišťuje činnost pod vodou, například potápěčů. Ostatní plavidla musí zůstat alespoň 50 m od něj.",
+    "mnemo": "Vlajka A → potápěči → 50 m."
+  },
+  "M-225": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Vlajka „A“ (bílá u žerdi, modrá s výřezem) i ve dne znamená činnost pod vodou. Plavidlo plavebního úřadu ani přednost tím označené nejsou."
+  },
+  "M-226": {
+    "ref": "vyhláška 67/2015 Sb.",
+    "confidence": "high",
+    "explain": "Bílé světlo nad červeným, obě viditelná ze všech stran, spolu s bočními a záďovým světlem nese plavidlo lodivodské služby. Ochranu před vlnobitím značí červené nad bílým, tedy obráceně.",
+    "mnemo": "Bílá nad červenou = lodivod (anglicky „white over red, pilot ahead“)."
+  }
+}

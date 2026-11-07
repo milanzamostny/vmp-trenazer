@@ -1,0 +1,311 @@
+{
+  "M-352": {
+    "ref": "zákon 114/1995 Sb.",
+    "confidence": "high",
+    "explain": "Evidované malé plavidlo smí na vodní cestu, jen pokud má schválenou technickou způsobilost a je zapsané v rejstříku malých plavidel, který vede plavební úřad. Městské úřady žádný registr plavidel nevedou. Mezinárodní rejstřík EU je smyšlenka."
+  },
+  "M-353": {
+    "ref": "zákon 114/1995 Sb.",
+    "confidence": "high",
+    "explain": "Plavidlo, které nepodléhá evidenci (například kánoe), smí na vodní cestu, pokud jeho konstrukce a technický stav splňují podmínky bezpečného provozu a neohrožuje životní prostředí. Žádnou prohlídku ani certifikát od úřadu nepotřebuje."
+  },
+  "M-354": {
+    "ref": "zákon 114/1995 Sb.",
+    "confidence": "high",
+    "explain": "Evidenci podléhá malé plavidlo s motorem o výkonu větším než 4 kW. Motor 4 kW a slabší evidenci sám o sobě nevyžaduje. Evidovat se nemusí každé malé plavidlo.",
+    "mnemo": "Evidence: motor > 4 kW, hmotnost > 1000 kg, plachty > 12 m²."
+  },
+  "M-355": {
+    "ref": "zákon 114/1995 Sb.",
+    "confidence": "high",
+    "explain": "Evidenci podléhá malé plavidlo s celkovou hmotností (včetně povoleného zatížení) přes 1000 kg. Přesně 1000 kg a méně evidenci nevyžaduje.",
+    "mnemo": "> 4 kW, > 1000 kg, > 12 m²."
+  },
+  "M-356": {
+    "ref": "zákon 114/1995 Sb.",
+    "confidence": "high",
+    "explain": "Evidenci podléhá malé plavidlo s plochou plachet přes 12 m². Hranice je ostrá: 12 m² a méně evidenci nevyžaduje.",
+    "mnemo": "> 4 kW, > 1000 kg, > 12 m²."
+  },
+  "M-357": {
+    "ref": "zákon 114/1995 Sb.",
+    "confidence": "high",
+    "explain": "Způsobilost plavidla k provozu dokládá lodní osvědčení, u plovoucího zařízení osvědčení plovoucího zařízení. Cejchovní průkaz se týká měření výtlaku nákladních lodí. Klasifikační průkaz vydávají klasifikační společnosti."
+  },
+  "M-358": {
+    "ref": "zákon 114/1995 Sb.",
+    "confidence": "high",
+    "explain": "Českou státní vlajku musí nést plavidla zapsaná v plavebním rejstříku. Rejstřík malých plavidel je jiný než plavební rejstřík. Povinnost tedy nevzniká jen klasifikovaným plavidlům ani podle zápisu v osvědčení."
+  },
+  "M-359": {
+    "ref": "",
+    "confidence": "high",
+    "explain": "Lodní nástavba je část plavidla nad palubou, například kajuta nebo kormidelna. Prostory pod palubou se nástavbou nenazývají."
+  },
+  "M-360": {
+    "ref": "",
+    "confidence": "high",
+    "explain": "Kýl je hlavní podélná osová výztuha ve dně trupu. Navazuje na něj přední vaz (u přídě) a zadní vaz (u zádě). Žebra jsou příčné výztuhy, kolizní přepážka je samostatný prvek."
+  },
+  "M-361": {
+    "ref": "",
+    "confidence": "high",
+    "explain": "Nosník je příčná výztuha paluby, kokpitu, kajuty a podobně (palubový nosník). Podélné výztuhy se nazývají vazníky.",
+    "mnemo": "Nosník napříč, vazník podél."
+  },
+  "M-362": {
+    "ref": "",
+    "confidence": "high",
+    "explain": "Vazník je podélná výztuha trupu (outorový vazník, palubní vazník). Nejde o zařízení na lana ani o lano. Příčné výztuhy jsou nosníky a žebra."
+  },
+  "M-363": {
+    "ref": "",
+    "confidence": "high",
+    "explain": "Obšívka je vnější vodotěsný plášť, který pokrývá kostru plavidla. Lano přišité k okraji plachty je lík, motouz proti rozplétání lana je takling."
+  },
+  "M-364": {
+    "ref": "",
+    "confidence": "high",
+    "explain": "Skořepina je trup nebo jiná část lodi vyrobená laminováním ve formě, typicky ze sklolaminátu. Nemá kostru, pevnost dává sám plášť. Koše a výztuhy stěžně jsou jiné pojmy."
+  },
+  "M-365": {
+    "ref": "",
+    "confidence": "high",
+    "explain": "Lodní trup je kostra plavidla s obšívkou, případně s palubou. Obytná část ani paluba s nástavbami samy o sobě trupem nejsou."
+  },
+  "M-366": {
+    "ref": "",
+    "confidence": "high",
+    "explain": "Žebro je příčná výztuha boku a dna lodi, která dává trupu tvar. Je to podobné jako žebra u člověka. Příčné výztuhy paluby jsou nosníky."
+  },
+  "M-367": {
+    "ref": "",
+    "confidence": "high",
+    "explain": "Katamarán je plavidlo se dvěma trupy. Počet stěžňů ani druh oplachtění s tímto pojmem nesouvisí. Plavidlo se třemi trupy je trimaran."
+  },
+  "M-368": {
+    "ref": "",
+    "confidence": "high",
+    "explain": "Outor je zaoblená nebo lomená část obšívky v místě přechodu dna do boků. Proto existuje i „outorový vazník“, podélná výztuha v tomto místě."
+  },
+  "M-369": {
+    "ref": "",
+    "confidence": "high",
+    "explain": "Kormidelní ploutev (list) spolu s kormidelním pněm (osou) tvoří kormidlo. Propulzor je zařízení k pohonu (lodní šroub). Dýza je trubice kolem šroubu."
+  },
+  "M-370": {
+    "ref": "",
+    "confidence": "high",
+    "explain": "Příďové dokormidlovací zařízení (například příčný příďový propeler) zlepšuje manévrovací vlastnosti plavidla, hlavně při malé rychlosti a přistávání. S ručním ovládáním kormidla nesouvisí."
+  },
+  "M-371": {
+    "ref": "",
+    "confidence": "high",
+    "explain": "Palec pacholete je výstupek na vyvazovacím sloupku, který brání tomu, aby ovinuté lano sklouzlo. Pachole nevyztužuje a počet smyček neoznačuje."
+  },
+  "M-372": {
+    "ref": "",
+    "confidence": "high",
+    "explain": "Plovatelnost je schopnost plavidla plout díky vlastnímu hydrostatickému vztlaku v dané poloze (s daným ponorem a zatížením). Nejde o plutí v jakékoli poloze. Rychlost a způsob plavby s plovatelností nesouvisí."
+  },
+  "M-373": {
+    "ref": "",
+    "confidence": "high",
+    "explain": "Stabilita je schopnost plavidla vrátit se do původní polohy poté, co ho vychýlily vnější síly (vítr, vlny, náklad), jakmile tyto síly přestanou působit. Udržování směru je směrová stabilita, odolnost tělesa je pevnost."
+  },
+  "M-374": {
+    "ref": "",
+    "confidence": "high",
+    "explain": "Řiditelnost je schopnost lodi udržet zadaný směr a podle potřeby ho měnit. Zahrnuje tedy směrovou stabilitu i obratnost. Stabilita se týká náklonu, plovatelnost vztlaku."
+  },
+  "M-375": {
+    "ref": "",
+    "confidence": "high",
+    "explain": "Směrová stabilita je schopnost lodi udržovat směr, tedy samovolně z něj nevybočovat. Manévrovatelnost je naopak schopnost směr měnit. Obojí dohromady tvoří řiditelnost."
+  },
+  "M-376": {
+    "ref": "",
+    "confidence": "high",
+    "explain": "Otvory pod rovinou nejvyššího ponoru zvětšenou o bezpečnostní vzdálenost musí být provedené tak, aby voda nemohla nežádoucím způsobem proniknout do plavidla. Konkrétní technické řešení (ventil, dvojitá roura) pravidlo nepředepisuje."
+  },
+  "M-377": {
+    "ref": "",
+    "confidence": "high",
+    "explain": "Drenážní (stokové) potrubí slouží k vyčerpání vody ze dna lodi (z podpalubí). Vyrovnávání náklonu zajišťuje balastní soustava. Kaly z nádrží patří k palivové soustavě."
+  },
+  "M-378": {
+    "ref": "",
+    "confidence": "high",
+    "explain": "Ventilátory zajišťují nucené větrání, tedy pohyb vzduchu poháněný ventilátorem. Přirozené větrání se obejde bez ventilátorů. Výfukové plyny odvádí výfukové potrubí."
+  },
+  "M-379": {
+    "ref": "",
+    "confidence": "high",
+    "explain": "Sanitární soustava plavidla zahrnuje vodovodní a kanalizační soustavu. Lékárna do ní nepatří. Výčet konkrétních zařízení (WC, umývárna) je jen její část."
+  },
+  "M-380": {
+    "ref": "doporučení ERC (Evropská rada pro resuscitaci)",
+    "confidence": "high",
+    "explain": "Resuscitace je postup, který dočasně nahrazuje a případně obnovuje životní funkce, tedy krevní oběh a dýchání. Šok se léčí jinak. „Omezení“ životních funkcí je opak resuscitace."
+  },
+  "M-381": {
+    "ref": "doporučení ERC",
+    "confidence": "high",
+    "explain": "Pokud postižený nereaguje a nedýchá normálně, je prvním krokem přivolat pomoc (155 nebo 112, ideálně s hlasitým odposlechem). Hned potom se zahajuje nepřímá masáž srdce. Laická resuscitace začíná kompresemi, ne vdechy. Přenášení do pohodlné polohy jen ztrácí čas.",
+    "mnemo": "Nereaguje + nedýchá → volej 155 → tlač."
+  },
+  "M-382": {
+    "ref": "doporučení ERC",
+    "confidence": "high",
+    "explain": "Hrudník se stlačuje nataženýma rukama na hrudní kosti uprostřed hrudníku (dolní polovina kosti), do hloubky 5–6 cm. Stlačování na samém spodním okraji kosti hrozí poraněním. Masáž na páteři je nesmysl."
+  },
+  "M-383": {
+    "ref": "doporučení ERC",
+    "confidence": "high",
+    "explain": "Vdech při dýchání z úst do úst má mít objem jako normální nádech zachránce (asi 1 s, hrudník se viditelně zvedne). Příliš malý vdech je neúčinný, příliš velký zanáší vzduch do žaludku."
+  },
+  "M-384": {
+    "ref": "doporučení ERC",
+    "confidence": "high",
+    "explain": "Laik u dospělých i dětí používá jednotný poměr 30 kompresí a 2 vdechy. Výjimkou jsou novorozenci. Jednotný poměr zjednodušuje laickou první pomoc. 15:2 používají zdravotníci u dětí.",
+    "mnemo": "30:2 pro všechny (kromě novorozenců)."
+  },
+  "M-385": {
+    "ref": "doporučení ERC",
+    "confidence": "high",
+    "explain": "Lapavé (agonální) dechy, tedy ojedinělé nádechy v dlouhých intervalech, jsou typickou známkou náhlé zástavy oběhu. Nepovažují se za normální dýchání a je nutné ihned zahájit resuscitaci. Častou chybou je považovat je za dýchání."
+  },
+  "M-386": {
+    "ref": "doporučení ERC",
+    "confidence": "high",
+    "explain": "Resuscitaci ukončíme, když postižený začne normálně dýchat (případně se probouzí nebo brání), když převezme péči záchranná služba nebo když jsme úplně vyčerpaní. Jeden nádech nestačí a nemožnost dýchat z úst do úst není důvod přestat, protože pokračujeme jen kompresemi."
+  },
+  "M-387": {
+    "ref": "doporučení ERC",
+    "confidence": "high",
+    "explain": "Bez obnovení životních funkcí pokračuje laik v resuscitaci až do předání záchranné službě nebo do úplného vyčerpání. Žádný pevný limit 20 minut pro laika neexistuje (u utonulých a podchlazených bývá naděje i po dlouhé době). Ohlášení záchranné službě není důvodem přestat."
+  },
+  "M-388": {
+    "ref": "doporučení ERC",
+    "confidence": "high",
+    "explain": "Pro kvalitu resuscitace je nejdůležitější co nejméně přerušovaná nepřímá masáž srdce se správnou frekvencí a hloubkou. Vdechy a přesný poměr jsou až druhořadé."
+  },
+  "M-389": {
+    "ref": "doporučení ERC",
+    "confidence": "high",
+    "explain": "Komprese se provádějí frekvencí zhruba 100 za minutu (téměř 2 za sekundu). Aktuální doporučení ERC uvádí 100–120 za minutu. Frekvence 60–80 je příliš pomalá, 30 za minutu s pauzami je nesmysl.",
+    "mnemo": "Rytmus písně „Stayin' Alive“ ≈ 100–120/min."
+  },
+  "M-390": {
+    "ref": "doporučení ERC",
+    "confidence": "high",
+    "explain": "Pokud nemůžeme nebo nechceme dýchat z úst do úst, pokračujeme v nepřetržité nepřímé masáži srdce bez pauz. Samotné komprese jsou účinné a mnohem lepší než nic."
+  },
+  "M-391": {
+    "ref": "",
+    "confidence": "high",
+    "explain": "Normální klidová dechová frekvence dospělého je asi 12–15 dechů za minutu. Hodnota 30–40 odpovídá dušnosti (nebo malému dítěti), 4–6 je nebezpečně málo."
+  },
+  "M-392": {
+    "ref": "doporučení ERC",
+    "confidence": "high",
+    "explain": "Bez resuscitace začíná nevratné poškození mozku přibližně po 5 minutách zástavy oběhu. Proto je důležité zahájit masáž okamžitě a nečekat na záchranku."
+  },
+  "M-393": {
+    "ref": "doporučení ERC",
+    "confidence": "high",
+    "explain": "Pokud si nejsme jistí, že postižený v bezvědomí normálně dýchá, postupujeme jako by nedýchal a zahájíme resuscitaci. Riziko zbytečných kompresí je malé, riziko zanedbané zástavy smrtelné. Test se zrcátkem je nespolehlivý a zdržuje."
+  },
+  "M-394": {
+    "ref": "doporučení ERC",
+    "confidence": "high",
+    "explain": "Tonoucí v bezvědomí, který pravidelně dýchá, se uloží do polohy na boku (zotavovací poloha), vyčistí se mu dýchací cesty a průběžně se sleduje dýchání. Vytlačování vody z plic se nedělá a resuscitace se u dýchajícího nezahajuje."
+  },
+  "M-395": {
+    "ref": "",
+    "confidence": "high",
+    "explain": "Ospalost, zmatenost a zvracení po úrazu hlavy mohou znamenat krvácení do mozku, které se rozvíjí s odstupem. Je nutné vyhledat lékaře, případně volat záchrannou službu. Čekat, že se stav sám upraví, je nebezpečné."
+  },
+  "M-396": {
+    "ref": "",
+    "confidence": "high",
+    "explain": "Pokud nehrozí další nebezpečí, necháme postiženého v poloze, která mu vyhovuje, a voláme záchrannou službu. Po pádu z výšky hrozí poranění páteře a vnitřní zranění, proto ho „nerozcházíme“. Protišoková poloha může zranění zhoršit."
+  },
+  "M-397": {
+    "ref": "doporučení ERC",
+    "confidence": "high",
+    "explain": "Zaškrcení končetiny se používá jen výjimečně, když masivní krvácení nejde zastavit tlakovým obvazem nebo přímým tlakem. Prvním krokem je vždy tlak na ránu. Zaškrcení se ale stále používá, tedy není „zastaralé“."
+  },
+  "M-398": {
+    "ref": "doporučení ERC",
+    "confidence": "high",
+    "explain": "Popáleninu ochlazujeme několik minut (asi 10–20) čistou vlažnou až chladnou vodou. Masti a zubní pasta se na popáleninu nedávají, protože zadržují teplo a zvyšují riziko infekce. Teplo popálení zhoršuje."
+  },
+  "M-399": {
+    "ref": "doporučení ERC",
+    "confidence": "high",
+    "explain": "Malou popáleninu prstu ochladíme několik minut čistou vodou a další ošetření zpravidla není potřeba. Puchýř nepropichujeme, protože chrání ránu před infekcí. Masti ani zubní pastu nepoužíváme."
+  },
+  "M-400": {
+    "ref": "",
+    "confidence": "high",
+    "explain": "Postiženému při vědomí, který špatně dýchá, nejlépe uleví poloha vsedě nebo pololeže s opřenýma rukama, protože tak zapojí pomocné dýchací svaly. Leh na zádech nebo na boku dýchání zhoršuje."
+  },
+  "M-401": {
+    "ref": "doporučení ERC",
+    "confidence": "high",
+    "explain": "Stabilizovaná (zotavovací) poloha je poloha na boku s hlavou mírně zakloněnou a otočenou k podložce, aby zvratky mohly vytéct a jazyk nezapadl. Na zádech hrozí vdechnutí zvratků."
+  },
+  "M-402": {
+    "ref": "",
+    "confidence": "high",
+    "explain": "Při přehřátí nebo úpalu přesuneme postiženého do stínu, chladíme ho (obklady na hlavu, krk) a podáváme chladné nápoje, nejlépe minerálku kvůli solím. Alkohol a teplá místnost stav zhoršují. Tekutiny se při vědomí naopak podávají."
+  },
+  "M-403": {
+    "ref": "",
+    "confidence": "high",
+    "explain": "Při průjmu podáváme dietu, dostatek neslazených tekutin (dnes se doporučují i rehydratační roztoky) a případně živočišné uhlí. Pokud se stav do 24 hodin nezlepší, vyhledáme lékaře. Vyvolávat zvracení nebo podávat tučné jídlo a alkohol je špatně."
+  },
+  "M-404": {
+    "ref": "",
+    "confidence": "high",
+    "explain": "Šok při vnitřním krvácení se projevuje bledostí, studeným potem, schváceným výrazem, strachem o život a apatií. Tělo stahuje krev z kůže k životně důležitým orgánům. Horečka a hyperaktivita šok nedoprovázejí."
+  },
+  "M-405": {
+    "ref": "",
+    "confidence": "high",
+    "explain": "Při známkách šoku po úrazu ihned voláme záchrannou službu, protože šok je život ohrožující stav. Tekutiny ústy (kvůli možné operaci) ani léky nepodáváme. Postiženého uklidňujeme a chráníme před chladem."
+  },
+  "M-406": {
+    "ref": "",
+    "confidence": "high",
+    "explain": "Žilní krvácení z končetiny ošetříme zvednutím končetiny nad úroveň srdce a přiložením tlakového obvazu. Zaškrcení je až krajní řešení při krvácení, které nejde zastavit, a tlakové body se už nedoporučují."
+  },
+  "M-407": {
+    "ref": "",
+    "confidence": "high",
+    "explain": "Při krvácení z nosu posadíme postiženého s hlavou mírně v předklonu, stiskneme nosní křídla na několik minut a dáme studený obklad na zátylek. Záklon je chyba, protože krev stéká do krku a do žaludku a vyvolává zvracení. Horké nápoje krvácení zhoršují."
+  },
+  "M-408": {
+    "ref": "",
+    "confidence": "high",
+    "explain": "Při žilním krvácení krev volně vytéká a je tmavě červená, protože je odkysličená. Jasně červená krev, která stříká, je znakem tepenného krvácení.",
+    "mnemo": "Žíla = tmavá a teče. Tepna = jasná a stříká (v rytmu tepu)."
+  },
+  "M-409": {
+    "ref": "",
+    "confidence": "high",
+    "explain": "Při tepenném krvácení vystřikuje jasně červená (okysličená) krev v rytmu tepu. Je to nejnebezpečnější druh krvácení. Tmavá krev, která volně vytéká, je žilní."
+  },
+  "M-410": {
+    "ref": "",
+    "confidence": "high",
+    "explain": "Přímé číslo zdravotnické záchranné služby v ČR je 155. Hasiči mají 150, policie 158.",
+    "mnemo": "150 hasiči, 155 záchranka, 156 městská policie, 158 policie, 112 jednotné evropské číslo."
+  },
+  "M-411": {
+    "ref": "",
+    "confidence": "high",
+    "explain": "Jednotné evropské tísňové číslo je 112 a funguje ve všech státech EU, i bez SIM karty. Čísla 110 a 111 jsou v různých zemích jiná služba, evropským tísňovým číslem nejsou."
+  }
+}
